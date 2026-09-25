@@ -20,7 +20,7 @@ python main.py                    # daily run: scrape -> Markdown -> upload delt
 python main.py --limit 5          # ad-hoc smoke test on 5 articles (never prunes)
 python main.py --scrape-only      # only write articles/*.md, do not touch Gemini
 python main.py --ask "How do I add a YouTube video?"   # grounded answer + cited Article URLs
-pytest                            # 21 unit tests (converter, delta planner, slugs)
+pytest                            # 22 unit tests (converter, delta planner, slugs)
 ```
 
 Docker (runs once; exits 0 on success, 1 on any failure):
