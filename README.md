@@ -7,7 +7,7 @@ Runs as a daily job; only new or changed articles are re-uploaded.
 ## Setup
 
 ```bash
-git clone https://github.com/HungVuIT/hmt-hung-sync-bot-.git && cd hmt-hung-sync-bot-
+git clone https://github.com/HungVuIT/zootus-hung-20-sync-bot-.git && cd zootus-hung-20-sync-bot-
 python -m venv .venv && . .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements-dev.txt
 cp .env.sample .env                               # then paste your GEMINI_API_KEY (aistudio.google.com)
@@ -70,7 +70,7 @@ GitHub Actions (`.github/workflows/daily-sync.yml`) builds the Docker image and 
 03:15 UTC (and on demand). Each run logs added/updated/skipped/removed, asks the sanity question, uploads
 `articles/` + `data/` as a run artefact and commits the refreshed Markdown back to the repo.
 
-* Job logs: **https://github.com/HungVuIT/hmt-hung-sync-bot-/actions/workflows/daily-sync.yml** (each run: log lines + downloadable artefact with articles/ and data/)
+* Job logs: **https://github.com/HungVuIT/zootus-hung-20-sync-bot-/actions/workflows/daily-sync.yml** (each run: log lines + downloadable artefact with articles/ and data/)
 * Repo secret `GEMINI_API_KEY`. Optional repo variables `FILE_SEARCH_STORE_NAME` (default `optibot-kb`),
   `ARTICLE_LIMIT` (default `100`).
 
