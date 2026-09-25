@@ -166,16 +166,22 @@ class KnowledgeStore:
     # ---- querying ----------------------------------------------------------------------
     def ask(self, question: str, *, model: str, system_prompt: str) -> Answer:
         """Answer a question grounded on the store, returning text + cited article URLs."""
-        response = self._client.models.generate_content(
-            model=model,
-            contents=question,
-            config=types.GenerateContentConfig(
-                system_instruction=system_prompt,
-                tools=[types.Tool(file_search=types.FileSearch(file_search_store_names=[self.store_name]))],
-            ),
+        config = types.GenerateContentConfig(
+            system_instruction=system_prompt,
+            tools=[types.Tool(file_search=types.FileSearch(file_search_store_names=[self.store_name]))],
         )
+        for attempt in range(1, self._max_retries + 1):
+            try:
+                response = self._client.models.generate_content(model=model, contents=question, config=config)
+                break
+            except errors.APIError as exc:
+                if attempt == self._max_retries or not _retryable(exc):
+                    raise
+                wait = 5.0 * attempt
+                log.warning("generate_content failed (%s); retry %d/%d in %.0fs", exc.code, attempt, self._max_retries, wait)
+                time.sleep(wait)
         answer = Answer(text=response.text or "")
-        seen: set[str] = set()
+        by_title: dict[str, Citation] = {}
         candidates = response.candidates or []
         grounding = candidates[0].grounding_metadata if candidates else None
         for chunk in (grounding.grounding_chunks if grounding else None) or []:
@@ -183,11 +189,13 @@ class KnowledgeStore:
             if ctx is None:
                 continue
             title = ctx.title or ""
-            url = _url_from_chunk_text(ctx.text or "")
-            key = url or title
-            if key and key not in seen:
-                seen.add(key)
-                answer.citations.append(Citation(title=title, url=url))
+            url = _url_from_chunk_text(ctx.text or "")  # only the first chunk of a file carries the URL line
+            current = by_title.get(title)
+            if current is None:
+                by_title[title] = Citation(title=title, url=url)
+            elif not current.url and url:
+                current.url = url
+        answer.citations = list(by_title.values())
         return answer
 
 

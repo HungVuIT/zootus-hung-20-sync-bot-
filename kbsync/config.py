@@ -17,7 +17,7 @@ class Settings:
     zendesk_base_url: str = "https://support.optisigns.com"
     zendesk_locale: str = "en-us"
     store_display_name: str = "optibot-kb"
-    gemini_model: str = "gemini-2.5-flash"
+    gemini_model: str = "gemini-3.5-flash"
     chunk_max_tokens: int = 400
     chunk_overlap_tokens: int = 60
     upload_workers: int = 4
