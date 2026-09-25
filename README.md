@@ -71,6 +71,7 @@ GitHub Actions (`.github/workflows/daily-sync.yml`) builds the Docker image and 
 `articles/` + `data/` as a run artefact and commits the refreshed Markdown back to the repo.
 
 * Job logs: **https://github.com/HungVuIT/zootus-hung-20-sync-bot-/actions/workflows/daily-sync.yml** (each run: log lines + downloadable artefact with articles/ and data/)
+* Example run: https://github.com/HungVuIT/zootus-hung-20-sync-bot-/actions/runs/36107386805 (`added=0 updated=0 skipped=100 removed=0`, store already in sync; its commit is `117536c`)
 * Repo secret `GEMINI_API_KEY`. Optional repo variables `FILE_SEARCH_STORE_NAME` (default `optibot-kb`),
   `ARTICLE_LIMIT` (default `100`).
 
