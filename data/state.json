@@ -1,0 +1,402 @@
+{
+  "adjust-the-gpu-memory-on-the-raspberry-pi": {
+    "chunks_est": 1,
+    "content_hash": "240c3f910ab25e4122e7563d2e02f0254349aa6271dbe4f99055aefa91cda43f"
+  },
+  "amazon-fire-stick-and-security-considerations": {
+    "chunks_est": 3,
+    "content_hash": "3ea6ed6513ea2505e058879106279706efb440059e540cf7d41be94200e11f1e"
+  },
+  "amazon-firestick": {
+    "chunks_est": 3,
+    "content_hash": "7c5317722211d945d4790192e4670dad6eea80f439321a83d5c9fe395c4ce5ae"
+  },
+  "assign-content-to-your-screens": {
+    "chunks_est": 1,
+    "content_hash": "597e69cb039d6cbf2cdf11470aa9055ed94f818af95d49471564c7473a8a382f"
+  },
+  "broadcast-send-scheduled-snapshots-of-your-dashboards": {
+    "chunks_est": 5,
+    "content_hash": "ef5d687dc8e9c777825a5c072665ef995c24e3dad94d840545c6f923de000a73"
+  },
+  "build-integrations-using-the-optisigns-enterprise-app": {
+    "chunks_est": 4,
+    "content_hash": "50f3fc1768db8577d2468bfdf6a219974db5db9268136f2ecdc497899945daaa"
+  },
+  "changing-screen-s-orientation-portrait-landscape": {
+    "chunks_est": 1,
+    "content_hash": "2fbf5a1dbf298bbefded799e87b7c3fbecff3b3690adaf01093959b10e99cb26"
+  },
+  "configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices": {
+    "chunks_est": 2,
+    "content_hash": "89705923d5c219dcfb7ed82419d2367ec831f3f36330331cc0b5637e063a6926"
+  },
+  "connect-sharepoint-news-to-optisigns-digital-signage": {
+    "chunks_est": 7,
+    "content_hash": "ed7077ba8443d041ee19da88fd6295008a4c722a769efab6fa9da6335f049272"
+  },
+  "creating-and-using-schedules-with-optisigns": {
+    "chunks_est": 4,
+    "content_hash": "cf9671f21363e13b238aa190ba84e9f1f0027451f9f545f79dd7dd5cf4b9d926"
+  },
+  "customize-text": {
+    "chunks_est": 6,
+    "content_hash": "7132b87b33fdb5dd32d85a5507d5d05352edcd8e7c2d65ff9d0ed6a23994992a"
+  },
+  "disk-encryption": {
+    "chunks_est": 2,
+    "content_hash": "8c6c14d1d177ede15f0eae9cfbeb95fd90341f7e7012547a3a1683b5f72a5add"
+  },
+  "does-optisigns-offer-non-profit-education-discount": {
+    "chunks_est": 1,
+    "content_hash": "9149a283a6e65f0d0bb63672017c0947f151c29031b538dd2205968ccf7c8e13"
+  },
+  "edit-screen-what-does-each-option-do": {
+    "chunks_est": 4,
+    "content_hash": "41965bcbc90471a266316f231759603a479899fb6504db1d16e23f6856efc066"
+  },
+  "fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-stick": {
+    "chunks_est": 1,
+    "content_hash": "8556be4ef034bba06eeb2513f60a08c5eb61ee5ec61ec585769178554091a875"
+  },
+  "get-started-with-optisigns-api": {
+    "chunks_est": 1,
+    "content_hash": "d92378bd3d1183f8758fb95426bdbe4a577777d709d1fc782d5019da3d85415d"
+  },
+  "getting-started-with-an-optisigns-free-trial": {
+    "chunks_est": 2,
+    "content_hash": "b3f6e3a3407e8460baa7575b4c1859afbfc41456cc29b331ba4017ff17bb4d04"
+  },
+  "getting-started-with-designer": {
+    "chunks_est": 7,
+    "content_hash": "7f6ee92d3ff6b3a70a2864f9eb5b13151c16e8c259d38881d8a3d59ceb493a45"
+  },
+  "handle-oauth-authentication-using-api-gateway-pre-request-configuration": {
+    "chunks_est": 1,
+    "content_hash": "c2299df54e7108890da9d409c83aa6b2e5e92a721feba44b653c112e9ee96161"
+  },
+  "how-to-access-the-troubleshooting-page-of-the-optisigns-player": {
+    "chunks_est": 2,
+    "content_hash": "776475371d626902d07eb6e99038e234776062db932052a51ac00f11402bd725"
+  },
+  "how-to-add-a-qr-code-in-designs-using-optisigns-designer": {
+    "chunks_est": 1,
+    "content_hash": "781c4b027d40552bd8b99cecd9d691a283c6d1daa3e573c7cfe4e0b308f79485"
+  },
+  "how-to-change-engage-kiosk-style-preferences": {
+    "chunks_est": 1,
+    "content_hash": "e83a5fea5fffc79a466ff1331d78386dcf3864824fd874181fb7adb2bf6471fc"
+  },
+  "how-to-change-time-zone-on-your-fire-stick-device": {
+    "chunks_est": 1,
+    "content_hash": "47f4ee47f56c238dd276e67b2164249112b47157c4bfa2370f1660269b7cccdb"
+  },
+  "how-to-clear-cache-on-your-fire-stick-device": {
+    "chunks_est": 1,
+    "content_hash": "cab1c26808318c16349e1ea13aaa9c176d2717d3e86d1cc2bc3c9fbd7a2620fe"
+  },
+  "how-to-create-a-scrolling-strip-or-bar": {
+    "chunks_est": 1,
+    "content_hash": "8f640e93a4c12115d69bb6676ea05c6523493fc31b2d2008ab3f2398a9e265c3"
+  },
+  "how-to-create-and-use-nested-playlists": {
+    "chunks_est": 2,
+    "content_hash": "792b4ba15a8df4e4ae5237522f783d25ab593ba3557c3d3d6e473497c0784739"
+  },
+  "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232": {
+    "chunks_est": 4,
+    "content_hash": "566e76b1d31b0030d28a0b19f72a60606d6679f57ceb549310a405cdd5fd4574"
+  },
+  "how-to-create-and-use-the-split-screen-app": {
+    "chunks_est": 3,
+    "content_hash": "e4f3a16f005d9fb2cc9a1f5beb37412dbe81fc6bcfe1e53c939d4bb124650202"
+  },
+  "how-to-create-and-use-virtual-screen-app": {
+    "chunks_est": 1,
+    "content_hash": "0506b8d2764ba4afe24ca01283dcce95eda686c815e4840441924fa48f24ff60"
+  },
+  "how-to-delete-your-account-from-optisigns": {
+    "chunks_est": 1,
+    "content_hash": "7bb39003de42a9251d41dd73da877179ca8f9e19315bd22b85b5727b6ba670ec"
+  },
+  "how-to-display-dynamic-event-schedules-using-optisync": {
+    "chunks_est": 6,
+    "content_hash": "d54fa13ff13369315a538800649cd18dd257e799be41a034fc64a8e14fac86f2"
+  },
+  "how-to-display-grafana-dashboards-on-optisigns": {
+    "chunks_est": 8,
+    "content_hash": "87c63ed357aa534c9abc5fa67e10aee555def63b36a0b00f92683bb93e8e86e2"
+  },
+  "how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast": {
+    "chunks_est": 2,
+    "content_hash": "1902dfbd4d5dd8aceb3e73949e83e62c0995479e831371691c2a89018e3c86c7"
+  },
+  "how-to-install-an-apk-file-on-your-fire-tv": {
+    "chunks_est": 1,
+    "content_hash": "911a9fb00c293b6b3bbd83f7c78437c88033db852cc488d90ccbfc6f6e4dc3c8"
+  },
+  "how-to-install-optisigns-as-channel-app-on-roku": {
+    "chunks_est": 2,
+    "content_hash": "61824d1fbd2d00dee0d31c3e21157a3a6dfb7425068ca11787361f5b9901dd6a"
+  },
+  "how-to-install-optisigns-player-on-apple-tv": {
+    "chunks_est": 1,
+    "content_hash": "0cb8f56d482ef7efb6410f79b33f49d96e07cdcf054322d462d6b41bad4a1012"
+  },
+  "how-to-manage-and-edit-your-playlist-settings": {
+    "chunks_est": 5,
+    "content_hash": "fbccbf92c0c9e0177ed642c465a655cde97245917138c7079f9d376b302d449a"
+  },
+  "how-to-manually-install-activate-optisigns-ai-add-on-on-linux-or-raspberry-pi": {
+    "chunks_est": 2,
+    "content_hash": "9451c884154defb5b2c4fce933b0f1a3282e08638c39cce65b3b44bbea1e633c"
+  },
+  "how-to-play-licensed-background-music-on-digital-signs-with-optisound": {
+    "chunks_est": 3,
+    "content_hash": "2a69d59ffa68ab869b3fd1ca0a1e761f7cdf406d59b23d1c05347cb1ad71fe1e"
+  },
+  "how-to-put-live-tv-on-your-screens-with-optisigns": {
+    "chunks_est": 2,
+    "content_hash": "bfbfd99e8f752c0f13171ae5d6a19ba17889ba8ffd4412d9159a1b15320e68e0"
+  },
+  "how-to-replace-update-an-existing-asset-image-video-documents": {
+    "chunks_est": 1,
+    "content_hash": "81f2a96f09ba47e375e9a6cfdd2f62789188b3ca1529aa7b747823b3d4782ee4"
+  },
+  "how-to-set-an-asset-to-live-or-expire-at-specific-time": {
+    "chunks_est": 3,
+    "content_hash": "867a13218fbc8af57178d6da5dbdb373af4d400fe3ccf7d1cbaa2abcf029d0e4"
+  },
+  "how-to-setup-aericast-meet-wireless-video-conferencing": {
+    "chunks_est": 3,
+    "content_hash": "2b54196e360bf1b8960a0b59b6f17fcab64f96293838c78dfb8afde74396d596"
+  },
+  "how-to-use-aericast-add-on-for-wireless-presentation-and-video-conferencing": {
+    "chunks_est": 3,
+    "content_hash": "7ffd5bca4c790a698a8b1a41cd03f0010d1c2fbe5d37ab7af4857bb55f0ceaba"
+  },
+  "how-to-use-content-tags-in-the-playlist": {
+    "chunks_est": 4,
+    "content_hash": "d503ffbcd2737624671480ff7741b27c2450ad08d138dedd058fb787ed818270"
+  },
+  "how-to-use-facebook-live-stream-app": {
+    "chunks_est": 2,
+    "content_hash": "64616c177e7c6ca75de4c186f60594b8af579034a85fa7362cebdf340b62df6e"
+  },
+  "how-to-use-google-sheets-with-optisigns": {
+    "chunks_est": 4,
+    "content_hash": "8c0a1d0c35b0cad113ad53f55dbfc5ec71623e3156ac06ea37a7c4e0396f28c3"
+  },
+  "how-to-use-google-traffic-app": {
+    "chunks_est": 1,
+    "content_hash": "c31074cef85a0daf31a073c81755170e9c6c6ecd6310de368f1dd6c331d2b4f7"
+  },
+  "how-to-use-google-trends-app": {
+    "chunks_est": 2,
+    "content_hash": "3cedd409d51455b3f7d464eed7fb9a67145e19c09bae7620fe901f3213231f80"
+  },
+  "how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes": {
+    "chunks_est": 3,
+    "content_hash": "6abd88440617c0d817d2f1bf078a1a0eca1c8759ec04968883464711e4c30ccf"
+  },
+  "how-to-use-overlay-layers-with-optisigns": {
+    "chunks_est": 1,
+    "content_hash": "667e30424556399ae33fccd25e0b24473122fb4a9cb506bd7d485b8bf6b71093"
+  },
+  "how-to-use-qr-overlay-app-in-engage": {
+    "chunks_est": 2,
+    "content_hash": "93225e3fffce8b93b70296d16a82d4cb3bfce88f90784f489fb5a93e20f2504e"
+  },
+  "how-to-use-rss-feeds-with-optisigns": {
+    "chunks_est": 3,
+    "content_hash": "589addbadea307d7fc748f20116de673fb561c85f5f36b17460fbc3a34fab60d"
+  },
+  "how-to-use-scrolling-website-app": {
+    "chunks_est": 2,
+    "content_hash": "18dd4c97b1a92c08a7186943d93227a5db6e55d6d058f147d2f60b00d189c40b"
+  },
+  "how-to-use-streaming-app-with-optisigns": {
+    "chunks_est": 1,
+    "content_hash": "e8b7e0883cd5b04041b97819a83e710297d0a0457b0d383ae9b0e7b05a139da4"
+  },
+  "how-to-use-the-cap-alert-app": {
+    "chunks_est": 6,
+    "content_hash": "d8b416fef930c94b00ae884408d02d4067906990a75bd959c0fc6009e71a67b8"
+  },
+  "how-to-use-the-countdown-app": {
+    "chunks_est": 3,
+    "content_hash": "be1aaf855739cfbc86218e37df080ecdc8e41c099a852303ac2cda1445a9f73d"
+  },
+  "how-to-use-the-emergency-feed-app": {
+    "chunks_est": 3,
+    "content_hash": "7bab8d800c40fba99217348dec9f0e3652c2bf40108c37d5ec85ff221acb2882"
+  },
+  "how-to-use-the-facebook-counter-app": {
+    "chunks_est": 2,
+    "content_hash": "173adc95d6ddeb7fd2ff13be54d7ed609608512a2c964c7763555ec352ffcf85"
+  },
+  "how-to-use-the-flash-message-app": {
+    "chunks_est": 3,
+    "content_hash": "9d99802961971262b4241be35ecd2402754b9bd9ce8824d30950114ca106808d"
+  },
+  "how-to-use-the-local-folder-app-in-optisigns": {
+    "chunks_est": 4,
+    "content_hash": "441711ac59663e76cb24eb43b6ac035742240d56e085b2e64fdf5124eef7fa71"
+  },
+  "how-to-use-the-new-york-times-app": {
+    "chunks_est": 2,
+    "content_hash": "dbfa0e00d97ae0ec57e039f4c98cb7ecbbff9fc255353475c99a8299d4c46c6a"
+  },
+  "how-to-use-the-on-this-day-app": {
+    "chunks_est": 2,
+    "content_hash": "589caa2652bf4335d2349989fbbd6182cb3b82881bcd30ed140113a4d2036c6c"
+  },
+  "how-to-use-the-stock-app": {
+    "chunks_est": 2,
+    "content_hash": "694656d5cf0cd7c36a7a02577a39465f4ac1c623755d24b0610085844b027f4c"
+  },
+  "how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns": {
+    "chunks_est": 2,
+    "content_hash": "500ef872285bbd49ee9183d101ac99fa587c702acb3637d2b7165d8a40fb1e75"
+  },
+  "how-to-use-the-wall-street-journal-app": {
+    "chunks_est": 2,
+    "content_hash": "a3acbfd684bc23ad33cb30bffddb9fbb9f3dc0988bda624143a2636a25d316d4"
+  },
+  "how-to-use-the-youtube-playlist-app-with-optisigns": {
+    "chunks_est": 1,
+    "content_hash": "f36f2e0948e73783772aa77f40b7520432fc6b295dfdd684af5a0235f906e296"
+  },
+  "how-to-use-youtube-with-optisigns": {
+    "chunks_est": 3,
+    "content_hash": "ca8662a2dc04b15865d3070cbea8764e20917700bbf7d4e1f99b72dc01f8f52d"
+  },
+  "inbound-webhook-datasources-in-designer": {
+    "chunks_est": 6,
+    "content_hash": "51b69d78dbd0a6e9adc78e1d54492560739e2143990f5a8b1d06bb25a78395b7"
+  },
+  "introduction": {
+    "chunks_est": 1,
+    "content_hash": "39ee86a52af46c71d14e7ff7281a0758484f7705eb761426b033a914e51082cc"
+  },
+  "kiosk32": {
+    "chunks_est": 6,
+    "content_hash": "56e00098e171906fcfad4fae471724d7a9c1ec387285a503a73ee2a1e840a494"
+  },
+  "legacy-datasources": {
+    "chunks_est": 3,
+    "content_hash": "c8e3f6ed73ed268d2e5c806f28ee5bbb3d3943a2bc6fe8f2d18d2328d158ce75"
+  },
+  "lg-webos-signage-commercial-grade": {
+    "chunks_est": 3,
+    "content_hash": "aa2a9be0f3c7cb9e978e39137ec6876ab0e0e0a3428c003e47f8a70ab2300d50"
+  },
+  "making-a-video-wall-with-optisigns-video-wall-app": {
+    "chunks_est": 7,
+    "content_hash": "b382bfe3cceb182e15dfbf34d23fb256301ce9c35def15670b929071d292cdce"
+  },
+  "multi-select-assets-in-files-assets-view": {
+    "chunks_est": 1,
+    "content_hash": "7f204a2e326fac87305dac0e8a441698cb9755ed32949363aaee2ff94d8dda71"
+  },
+  "multilingual-and-multi-currency-options": {
+    "chunks_est": 1,
+    "content_hash": "446b53d239080cb209ed947296751a841b0511525d5d267cf9eee34ed5782033"
+  },
+  "optisigns-getting-started-guide": {
+    "chunks_est": 2,
+    "content_hash": "efdeba827c40e1fd9b655f4c2f9f610cf1347a81c8dbcd041e20406b6509316e"
+  },
+  "optisigns-iot-sensor-add-on-quick-start": {
+    "chunks_est": 7,
+    "content_hash": "81920539ded4ea5b03e9ba7cf07ff27992c82c67e7e73daa043631df027de1a5"
+  },
+  "optisigns-pro-player-advanced-features": {
+    "chunks_est": 6,
+    "content_hash": "2b72c258433cfc377db7da9877d8144df77997d5bd7b83cbf8200f5667aa1432"
+  },
+  "optisigns-pro-promax-player-troubleshooting-guide": {
+    "chunks_est": 5,
+    "content_hash": "4a01a19fedffb6a24c1121c4f0bb85c8cc2e6f3812ff450d4d6990655c9bf87c"
+  },
+  "optistick": {
+    "chunks_est": 3,
+    "content_hash": "c1a6da983fd140511b36311c0ef6701467687847ae145dfca7092af489418c09"
+  },
+  "organizing-your-files-assets-playlists-and-schedules-by-using-folders": {
+    "chunks_est": 1,
+    "content_hash": "9a1ad7466f38222890dc29b1b868676908b4653c88c084fba28e9af59b470e3e"
+  },
+  "pagination": {
+    "chunks_est": 1,
+    "content_hash": "0149f595cbfebb18bbf519940181c217ea3a009faacff0040ede6523842e2af0"
+  },
+  "photos-gifs-and-qr-codes-in-designer": {
+    "chunks_est": 7,
+    "content_hash": "c478dcf5784dea82a00195c93624b11477f0a378a4f40bf1cc9a559edeedc016"
+  },
+  "setting-up-audit-logging": {
+    "chunks_est": 2,
+    "content_hash": "477ecd4d464615bafc8ad71780f51765d6142344319b3cd774a58f1abe78d3a2"
+  },
+  "sharing-playlists-and-folders-with-external-users": {
+    "chunks_est": 3,
+    "content_hash": "48e2a61a49cb6b9283397ab3b5e28d575fc312926a682e9250b4aba6bb1605f0"
+  },
+  "show-youtube-video-s-subtitle-closed-caption": {
+    "chunks_est": 1,
+    "content_hash": "fb97c7e9471082f170bbb9c7726ee98d3e78f2ed77e8a76a102ba704784bd2c9"
+  },
+  "tutorial-create-update-add-remove-items-from-playlists": {
+    "chunks_est": 2,
+    "content_hash": "22092a0cdb319f9f3086ba4e99c39f7094f83b837ed5e571f2527ff47ada12c5"
+  },
+  "using-rs232-to-schedule-tv-power-on-off-or-other-commands": {
+    "chunks_est": 3,
+    "content_hash": "e2f9af14b5e0397073621544785ab5d98eb26971add97b94dd0b606d98a6622c"
+  },
+  "using-the-flight-schedule-app": {
+    "chunks_est": 5,
+    "content_hash": "91eee5c30dfa1d75f666934c1acbc5f563ec7cbb89b74016b365ed9ff3e3453c"
+  },
+  "using-the-japan-transit-app": {
+    "chunks_est": 5,
+    "content_hash": "e4749bda9530e473d46196d065809c4e3769d9d93be560d36f93846d60d50aa8"
+  },
+  "using-the-x-social-app-add-on": {
+    "chunks_est": 5,
+    "content_hash": "a8101487ef506808c2442b01fe0662683f30e17ec50e55a41945e615f34009d9"
+  },
+  "what-happen-if-internet-connection-is-lost": {
+    "chunks_est": 1,
+    "content_hash": "0f36d5db80eb282bd95d196e260a7c5812a2d4c25a6ea2e6079d2736bf08b023"
+  },
+  "what-hardware-and-devices-are-supported": {
+    "chunks_est": 1,
+    "content_hash": "01dab8d8fa1937f90bd267e295f9c691dfa2cde9138057f945db5ffccf6caf09"
+  },
+  "what-types-of-files-are-supported": {
+    "chunks_est": 1,
+    "content_hash": "6005c455c9c75959ae00757679eeca2a537eac313288a08d9e4784a40729e4c9"
+  },
+  "where-to-buy-optisigns-devices": {
+    "chunks_est": 3,
+    "content_hash": "cfdb75094441f0953efa6725415d0fcb0e02af3194e122a4b4ffb85034c7272c"
+  },
+  "whitelist-optisigns-ip-addresses-ports": {
+    "chunks_est": 2,
+    "content_hash": "cadace583a49acb85c16c9143f29d65f7574cea9b14c697c05fc858f268e5ef0"
+  },
+  "windows": {
+    "chunks_est": 1,
+    "content_hash": "ec5aec051e28791eeb3986c1efb5c0432089c16d74a50f1a1c9afb85f47568dd"
+  },
+  "working-with-teams-and-security-levels": {
+    "chunks_est": 2,
+    "content_hash": "ad96e1b8018d92cdbb4bfbefd0a1d3db8aeb74247874106703699d86a0607837"
+  },
+  "your-templates": {
+    "chunks_est": 2,
+    "content_hash": "1774308469a0ed9462cd8f4f6af05ce5b586a34844d62384451b227ee129055f"
+  }
+}
