@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 from kbsync.converter import MarkdownDoc
-from kbsync.scraper import slug_from_url
+from kbsync.scraper import assign_slugs, select_scope, slug_from_url
 from kbsync.store import RemoteDoc
 from kbsync.sync import plan_sync
 
@@ -41,3 +41,28 @@ def test_slug_from_url_uses_url_part_not_id() -> None:
 
 def test_slug_from_url_falls_back_to_title() -> None:
     assert slug_from_url("https://x/hc/en-us/articles/123", "  Hello, World!  ") == "hello-world"
+
+
+def _art(i: int, updated: str, promoted: bool = False) -> dict[str, object]:
+    return {"id": i, "updated_at": updated, "promoted": promoted}
+
+
+def test_select_scope_keeps_all_promoted_then_most_recent() -> None:
+    arts = [
+        _art(1, "2020-01-01", promoted=True),  # old but popular -> always in
+        _art(2, "2026-09-01"),
+        _art(3, "2026-09-03"),
+        _art(4, "2026-09-02"),
+        _art(5, "2019-01-01"),
+    ]
+    assert [a["id"] for a in select_scope(arts, 3)] == [1, 3, 4]
+    assert [a["id"] for a in select_scope(arts, 0)] == [1, 3, 4, 2, 5]
+    assert [a["id"] for a in select_scope(list(reversed(arts)), 3)] == [1, 3, 4]  # order-independent
+
+
+def test_assign_slugs_is_deterministic_on_collisions() -> None:
+    newer = (200, "https://x/hc/en-us/articles/200-Same-Title", "Same Title")
+    older = (100, "https://x/hc/en-us/articles/100-Same-Title", "Same Title")
+    other = (300, "https://x/hc/en-us/articles/300-Other", "Other")
+    assert assign_slugs([newer, older, other]) == assign_slugs([older, other, newer])
+    assert assign_slugs([newer, older]) == {100: "same-title", 200: "same-title-200"}

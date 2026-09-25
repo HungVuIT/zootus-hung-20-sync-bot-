@@ -28,6 +28,7 @@ jobs:
           docker run --rm \
             -e GEMINI_API_KEY="${{ secrets.GEMINI_API_KEY }}" \
             -e FILE_SEARCH_STORE_NAME="${{ vars.FILE_SEARCH_STORE_NAME || 'optibot-kb' }}" \
+            -e ARTICLE_LIMIT="${{ vars.ARTICLE_LIMIT || '100' }}" \
             -v "$PWD/articles:/app/articles" \
             -v "$PWD/data:/app/data" \
             kb-sync 2>&1 | tee data/last_run.log

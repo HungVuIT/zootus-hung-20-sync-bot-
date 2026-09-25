@@ -47,8 +47,8 @@ class ZendeskClient:
         self._session = requests.Session()
         self._session.headers["User-Agent"] = "kb-sync-bot/1.0 (+help-center-markdown-sync)"
 
-    def _paginate(self, resource: str) -> Iterator[dict[str, Any]]:
-        url: str | None = f"{self._base}/{resource}.json?per_page=100&sort_by=created_at&sort_order=asc"
+    def _paginate(self, resource: str, sort: str = "") -> Iterator[dict[str, Any]]:
+        url: str | None = f"{self._base}/{resource}.json?per_page=100{sort}"
         while url:
             resp = self._session.get(url, timeout=self._timeout)
             resp.raise_for_status()
@@ -57,25 +57,33 @@ class ZendeskClient:
             url = payload.get("next_page")
 
     def fetch_articles(self, limit: int = 0) -> list[RawArticle]:
-        """Return all published (non-draft) articles, oldest first, with unique slugs.
+        """Return published (non-draft) articles, most recently updated first, with unique slugs.
 
         Args:
-            limit: stop after this many articles (0 = no limit). Useful for smoke tests.
+            limit: size of the job's scope (0 = all): every promoted "Popular Article" plus the
+                most recently updated articles to fill the remaining slots. An edited or newly
+                published article enters the window, the least recently updated one drops out
+                and is pruned from the store.
         """
         sections = {s["id"]: s for s in self._paginate("sections")}
         categories = {c["id"]: c["name"] for c in self._paginate("categories")}
         log.info("Zendesk: %d sections, %d categories", len(sections), len(categories))
 
+        published = [
+            raw
+            for raw in self._paginate("articles", sort="&sort_by=updated_at&sort_order=desc")
+            if not raw.get("draft") and raw.get("body")
+        ]
+        raws = select_scope(published, limit)
+        log.info(
+            "Zendesk: %d published, %d promoted ('Popular Articles'), scope %d",
+            len(published), sum(1 for r in published if r.get("promoted")), len(raws),
+        )
+
+        slugs = assign_slugs([(int(r["id"]), r["html_url"], r["title"]) for r in raws])
         articles: list[RawArticle] = []
-        seen_slugs: set[str] = set()
-        for raw in self._paginate("articles"):
-            if raw.get("draft") or not raw.get("body"):
-                continue
+        for raw in raws:
             section = sections.get(raw.get("section_id"), {})
-            slug = slug_from_url(raw["html_url"], raw["title"])
-            if slug in seen_slugs:  # oldest article keeps the plain slug, newer ones get the id suffix
-                slug = f"{slug}-{raw['id']}"
-            seen_slugs.add(slug)
             articles.append(
                 RawArticle(
                     id=int(raw["id"]),
@@ -85,10 +93,38 @@ class ZendeskClient:
                     updated_at=raw.get("edited_at") or raw.get("updated_at") or "",
                     section=section.get("name", ""),
                     category=categories.get(section.get("category_id"), ""),
-                    slug=slug,
+                    slug=slugs[int(raw["id"])],
                 )
             )
-            if limit and len(articles) >= limit:
-                break
         log.info("Zendesk: fetched %d articles", len(articles))
         return articles
+
+
+def select_scope(articles: list[dict[str, Any]], limit: int) -> list[dict[str, Any]]:
+    """Pick the articles the job keeps in the store.
+
+    Promoted articles (the Help Center's "Popular Articles" block) are always included; the
+    remaining slots up to ``limit`` go to the most recently updated articles. ``limit`` 0 = all.
+    Ordering inside each group is by updated_at descending, then id, so the result is stable.
+    """
+    ordered = sorted(articles, key=lambda a: (a.get("updated_at") or "", -int(a["id"])), reverse=True)
+    promoted = [a for a in ordered if a.get("promoted")]
+    others = [a for a in ordered if not a.get("promoted")]
+    scope = promoted + others
+    return scope[:limit] if limit else scope
+
+
+def assign_slugs(items: list[tuple[int, str, str]]) -> dict[int, str]:
+    """Map article id -> unique slug, deterministically regardless of input order.
+
+    When two articles share a slug the one with the smallest id keeps the plain slug and
+    the others get an '-<id>' suffix, so file names never flip between runs.
+    """
+    groups: dict[str, list[int]] = {}
+    for article_id, url, title in items:
+        groups.setdefault(slug_from_url(url, title), []).append(article_id)
+    out: dict[int, str] = {}
+    for slug, ids in groups.items():
+        for i, article_id in enumerate(sorted(ids)):
+            out[article_id] = slug if i == 0 else f"{slug}-{article_id}"
+    return out

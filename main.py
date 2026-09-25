@@ -1,8 +1,8 @@
 """Scrape support.optisigns.com to Markdown and sync the delta into a Gemini File Search store.
 
 Usage:
-    python main.py                 # full run: scrape -> convert -> upload delta -> log counts
-    python main.py --limit 40      # smoke test on the first 40 articles (never prunes)
+    python main.py                 # daily run: scrape the 100 most recently updated articles -> upload delta
+    python main.py --limit 5       # ad-hoc smoke test on 5 articles (never prunes)
     python main.py --scrape-only   # write Markdown files, touch nothing in Gemini
     python main.py --ask "How do I add a YouTube video?"   # grounded sanity check with citations
 
@@ -32,7 +32,13 @@ PROMPT_PATH = Path(__file__).parent / "prompts" / "system_prompt.txt"
 
 def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    p.add_argument("--limit", type=int, default=0, help="only process the first N articles (0 = all)")
+    p.add_argument(
+        "--limit",
+        type=int,
+        default=None,
+        help="ad-hoc scope: only the N most recently updated articles; disables pruning "
+        "(default: ARTICLE_LIMIT from the environment, 100; 0 = all)",
+    )
     p.add_argument("--scrape-only", action="store_true", help="write Markdown but do not touch Gemini")
     p.add_argument("--no-prune", action="store_true", help="never delete store documents missing locally")
     p.add_argument("--ask", metavar="QUESTION", help="ask the assistant one grounded question and exit")
@@ -40,7 +46,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     return p.parse_args(argv)
 
 
-def write_markdown(articles: list[RawArticle], out_dir: Path) -> list[MarkdownDoc]:
+def write_markdown(articles: list[RawArticle], out_dir: Path, *, prune_stale: bool) -> list[MarkdownDoc]:
     out_dir.mkdir(parents=True, exist_ok=True)
     docs: list[MarkdownDoc] = []
     for a in articles:
@@ -56,6 +62,11 @@ def write_markdown(articles: list[RawArticle], out_dir: Path) -> list[MarkdownDo
         )
         (out_dir / doc.filename).write_text(doc.content, encoding="utf-8", newline="\n")
         docs.append(doc)
+    if prune_stale:  # keep the folder an exact mirror of the current scope
+        keep = {d.filename for d in docs}
+        for stale in out_dir.glob("*.md"):
+            if stale.name not in keep:
+                stale.unlink()
     log.info("Wrote %d Markdown files to %s", len(docs), out_dir)
     return docs
 
@@ -107,8 +118,15 @@ def apply_plan(
 def run_sync(args: argparse.Namespace, settings: Settings) -> int:
     started = time.monotonic()
     zendesk = ZendeskClient(settings.zendesk_base_url, settings.zendesk_locale)
-    articles = zendesk.fetch_articles(limit=args.limit)
-    docs = write_markdown(articles, settings.articles_dir)
+    ad_hoc = args.limit is not None
+    limit = args.limit if ad_hoc else settings.article_limit
+    log.info(
+        "Scope: %s articles (all 'Popular Articles' + most recently updated)%s",
+        limit or "all",
+        " (ad-hoc, no pruning)" if ad_hoc else "",
+    )
+    articles = zendesk.fetch_articles(limit=limit)
+    docs = write_markdown(articles, settings.articles_dir, prune_stale=not ad_hoc)
     chunk_estimates = {d.slug: estimate_chunks(d.content, settings.chunk_max_tokens, settings.chunk_overlap_tokens) for d in docs}
 
     if args.scrape_only:
@@ -125,7 +143,7 @@ def run_sync(args: argparse.Namespace, settings: Settings) -> int:
     remote = store.list_documents()
     log.info("Store currently holds %d tracked documents", len(remote))
 
-    prune = not args.no_prune and args.limit == 0
+    prune = not args.no_prune and not ad_hoc
     plan = plan_sync(docs, remote, prune=prune)
     log.info("Plan: %s", plan.summary())
 

@@ -18,6 +18,7 @@ class Settings:
     zendesk_locale: str = "en-us"
     store_display_name: str = "optibot-kb"
     gemini_model: str = "gemini-3.5-flash"
+    article_limit: int = 100  # scope of the job: the N most recently updated articles (0 = all)
     chunk_max_tokens: int = 400
     chunk_overlap_tokens: int = 60
     upload_workers: int = 4
@@ -37,6 +38,7 @@ class Settings:
             zendesk_locale=os.environ.get("ZENDESK_LOCALE", cls.zendesk_locale),
             store_display_name=os.environ.get("FILE_SEARCH_STORE_NAME", cls.store_display_name),
             gemini_model=os.environ.get("GEMINI_MODEL", cls.gemini_model),
+            article_limit=int(os.environ.get("ARTICLE_LIMIT", cls.article_limit)),
             chunk_max_tokens=int(os.environ.get("CHUNK_MAX_TOKENS", cls.chunk_max_tokens)),
             chunk_overlap_tokens=int(os.environ.get("CHUNK_OVERLAP_TOKENS", cls.chunk_overlap_tokens)),
             upload_workers=int(os.environ.get("UPLOAD_WORKERS", cls.upload_workers)),
