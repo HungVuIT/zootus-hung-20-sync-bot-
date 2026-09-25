@@ -76,10 +76,19 @@ GitHub Actions (`.github/workflows/daily-sync.yml`) builds the Docker image and 
 
 ## Assistant
 
-Store `optibot-kb` + the verbatim OptiBot system prompt (`prompts/system_prompt.txt`).
-Sanity check "How do I add a YouTube video?" (`gemini-3.5-flash`; `gemini-3.8-flash` returned 503 at build time):
+Store `optibot-kb` + the verbatim OptiBot system prompt (`prompts/system_prompt.txt`), answered by
+`gemini-3.5-flash` with the `file_search` tool (`gemini-3.8-flash` returned 503 at build time).
 
-![OptiBot answering with cited Article URLs](docs/sanity-check.png)
+Google AI Studio's playground has no File Search tool, so an API-created store cannot be attached there
+(asked without the store, the same model invents a plausible but 404 article URL). The sanity check is
+therefore run through `playground.py`, a 100-line local page that calls the exact same
+`KnowledgeStore.ask()` as `main.py --ask` and renders the answer with its grounding sources:
+
+```bash
+python playground.py      # http://127.0.0.1:8787
+```
+
+![OptiBot answering "How do I add a YouTube video?" with the cited Article URL](docs/sanity-check.png)
 
 ## What I cut (8-hour budget)
 
