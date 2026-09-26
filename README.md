@@ -38,8 +38,9 @@ SUMMARY added=100 updated=0 skipped=0 removed=0 failed=0 | embedded files=100 ch
 SUMMARY added=1 updated=2 skipped=97 removed=1 failed=0 | embedded files=3 chunks~11 | store active=100
 ```
 
-`data/last_run.json` holds the same counts plus store statistics, `data/state.json` every slug with its
-content hash, `data/last_answer.txt` the sanity-check answer.
+`data/run-history.log` appends one line per run (the full job history), `data/last_run.json` holds the
+latest run's counts plus store statistics, `data/state.json` every slug with its content hash, and
+`data/last_answer.txt` the sanity-check answer.
 
 ## How it works
 
@@ -71,6 +72,7 @@ GitHub Actions (`.github/workflows/daily-sync.yml`) builds the Docker image and 
 `articles/` + `data/` as a run artefact and commits the refreshed Markdown back to the repo.
 
 * Job logs: **https://github.com/HungVuIT/zootus-hung-20-sync-bot-/actions/workflows/daily-sync.yml** (each run: log lines + downloadable artefact with articles/ and data/)
+* Run history in one file: [`data/run-history.log`](data/run-history.log) — one appended line per run with the counts, committed by the job itself, so the whole history is readable without opening Actions
 * Example run: https://github.com/HungVuIT/zootus-hung-20-sync-bot-/actions/runs/36107386805 (`added=0 updated=0 skipped=100 removed=0`, store already in sync; its commit is `117536c`)
 * Repo secret `GEMINI_API_KEY`. Optional repo variables `FILE_SEARCH_STORE_NAME` (default `optibot-kb`),
   `ARTICLE_LIMIT` (default `100`).

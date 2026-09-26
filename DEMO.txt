@@ -1,0 +1,122 @@
+===============================================================
+  OptiBot Mini-Clone  --  Demo walkthrough
+  repo: github.com/HungVuIT/zootus-hung-20-sync-bot-
+===============================================================
+
+BEFORE RECORDING
+  set ARTICLE_LIMIT=98 in .env, run `python main.py` once,
+  then set it back to 100. This leaves 2 articles missing from
+  the store so section 4 can show a real "added" count.
+  Terminal font >= 16pt. Never open .env on camera.
+
+
+---------------------------------------------------------------
+ 1.  REPO AND SECRETS
+---------------------------------------------------------------
+    project layout: kbsync/ articles/ data/ tests/
+    .env.sample          -> no real key committed
+    .gitignore           -> .env excluded
+    commit history       -> one commit per concern
+
+
+---------------------------------------------------------------
+ 2.  SCRAPE  ->  CLEAN MARKDOWN                      [25 pts]
+---------------------------------------------------------------
+    $ python main.py --scrape-only
+
+    articles/  -> 100 files named <slug>.md
+    open  articles/how-to-use-youtube-with-optisigns.md
+    open  the same article on support.optisigns.com
+          side by side, and point at:
+            headings / lists / tables / code kept
+            in-page table of contents and nav removed
+            front matter + "Article URL:" line at the top
+            (this is the line the bot is told to cite)
+
+
+---------------------------------------------------------------
+ 3.  UPLOAD TO VECTOR STORE VIA API                  [20 pts]
+---------------------------------------------------------------
+    open  kbsync/store.py
+          upload_to_file_search_store(...)
+          chunking_config   -> 400 tokens / 60 overlap
+          custom_metadata   -> slug + content_hash
+          API only. No UI drag and drop anywhere.
+
+    $ python main.py
+
+    read the summary line:
+      added / updated / skipped / removed
+      embedded files  +  chunk estimate
+      store active documents
+
+
+---------------------------------------------------------------
+ 4.  DELTA DETECTION
+---------------------------------------------------------------
+    $ python main.py
+
+    second run -> added=0  skipped=100
+    open  data/state.json     -> sha256 per article
+    say:  when OptiSigns edits an article the hash changes,
+          so it moves from "skipped" to "updated"
+
+
+---------------------------------------------------------------
+ 5.  ASSISTANT ANSWERS WITH CITATIONS
+---------------------------------------------------------------
+    open  prompts/system_prompt.txt   -> verbatim system prompt
+
+    $ python main.py --ask "How do I add a YouTube video?"
+
+    point at:  max 5 bullets
+               "Article URL:" line
+               grounding sources = the .md file it came from
+    say:  AI Studio has no File Search tool, so the check runs
+          through a small local page calling the same API
+          (screenshot in README / docs/sanity-check.png)
+
+
+---------------------------------------------------------------
+ 6.  DOCKER  --  RUNS ONCE, EXITS 0
+---------------------------------------------------------------
+    $ docker build -t kb-sync .
+    $ docker run --rm --env-file .env kb-sync --limit 3
+    $ echo exit=%ERRORLEVEL%          -> 0
+
+    $ docker run --rm kb-sync --limit 3
+    $ echo exit=%ERRORLEVEL%          -> 1   (no key, clean fail)
+
+
+---------------------------------------------------------------
+ 7.  DAILY JOB AND LOGS                              [15 pts]
+---------------------------------------------------------------
+    open  .github/workflows/daily-sync.yml
+          cron: "15 3 * * *"   -> once per day
+
+    open  Actions tab -> the green run
+          step "Run daily sync" -> added/updated/skipped in log
+          artifact run-1        -> articles/ + data/
+          commit pushed by the job itself
+
+    open  data/run-history.log
+          one line per run, appended, committed by the job
+          -> the whole job history in a single file
+
+    link: github.com/HungVuIT/zootus-hung-20-sync-bot-/actions
+
+
+---------------------------------------------------------------
+ 8.  TESTS AND README                          [10 pts + bonus]
+---------------------------------------------------------------
+    $ pytest -q                 -> 22 passed
+
+    open  README.md
+          setup / run locally / job log link / screenshot
+          chunking strategy explained
+          "What I cut" section
+
+
+===============================================================
+  END
+===============================================================

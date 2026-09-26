@@ -19,6 +19,7 @@ import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import UTC, datetime
 from pathlib import Path
+from typing import Any
 
 from kbsync.config import Settings
 from kbsync.converter import MarkdownDoc, estimate_chunks, render_article
@@ -44,6 +45,48 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     p.add_argument("--ask", metavar="QUESTION", help="ask the assistant one grounded question and exit")
     p.add_argument("-v", "--verbose", action="store_true")
     return p.parse_args(argv)
+
+
+_HISTORY_COLS = (
+    ("run_at", 22, "<"),
+    ("added", 7, ">"),
+    ("updated", 9, ">"),
+    ("skipped", 9, ">"),
+    ("removed", 9, ">"),
+    ("failed", 8, ">"),
+    ("embedded", 10, ">"),
+    ("chunks", 8, ">"),
+    ("store", 7, ">"),
+    ("secs", 8, ">"),
+)
+
+
+def append_history(path: Path, summary: dict[str, Any]) -> None:
+    """Append one fixed-width line per run, so the full job history is a single readable file.
+
+    last_run.json only ever holds the latest run; this file is the append-only record that the
+    daily job commits back to the repository.
+    """
+    values: list[object] = [
+        summary["run_at"].replace("+00:00", "Z"),
+        summary["added"],
+        summary["updated"],
+        summary["skipped"],
+        summary["removed"],
+        summary["failed"],
+        summary["embedded_files"],
+        summary["embedded_chunks_est"],
+        summary["store"]["active_documents"] or 0,
+        f"{summary['duration_s']:.1f}",
+    ]
+    if not path.exists():
+        header = "".join(f"{name:{align}{width}}" for name, width, align in _HISTORY_COLS)
+        path.write_text(header.rstrip() + "\n", encoding="utf-8", newline="\n")
+    line = "".join(
+        f"{value!s:{align}{width}}" for value, (_, width, align) in zip(values, _HISTORY_COLS, strict=True)
+    )
+    with path.open("a", encoding="utf-8", newline="\n") as fh:
+        fh.write(line.rstrip() + "\n")
 
 
 def write_markdown(articles: list[RawArticle], out_dir: Path, *, prune_stale: bool) -> list[MarkdownDoc]:
@@ -180,6 +223,7 @@ def run_sync(args: argparse.Namespace, settings: Settings) -> int:
         for slug, d in ((d.slug, d) for d in docs)
     }
     (settings.data_dir / "state.json").write_text(json.dumps(state, indent=2, sort_keys=True), encoding="utf-8")
+    append_history(settings.data_dir / "run-history.log", summary)
 
     log.info(
         "SUMMARY added=%d updated=%d skipped=%d removed=%d failed=%d | embedded files=%d chunks~%d | store active=%s size=%sB",

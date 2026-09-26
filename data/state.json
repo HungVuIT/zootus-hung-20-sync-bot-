@@ -63,10 +63,6 @@
     "chunks_est": 1,
     "content_hash": "d92378bd3d1183f8758fb95426bdbe4a577777d709d1fc782d5019da3d85415d"
   },
-  "getting-started-with-an-optisigns-free-trial": {
-    "chunks_est": 2,
-    "content_hash": "b3f6e3a3407e8460baa7575b4c1859afbfc41456cc29b331ba4017ff17bb4d04"
-  },
   "getting-started-with-designer": {
     "chunks_est": 7,
     "content_hash": "7f6ee92d3ff6b3a70a2864f9eb5b13151c16e8c259d38881d8a3d59ceb493a45"
@@ -218,6 +214,10 @@
   "how-to-use-streaming-app-with-optisigns": {
     "chunks_est": 1,
     "content_hash": "e8b7e0883cd5b04041b97819a83e710297d0a0457b0d383ae9b0e7b05a139da4"
+  },
+  "how-to-use-the-calendar-mix-app": {
+    "chunks_est": 2,
+    "content_hash": "5506b50ee0d3706d4f29c981cb642527a35d5c60b58ec8f6292b04141ef6b488"
   },
   "how-to-use-the-cap-alert-app": {
     "chunks_est": 6,
