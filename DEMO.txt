@@ -80,12 +80,16 @@ BEFORE RECORDING
 ---------------------------------------------------------------
  6.  DOCKER  --  RUNS ONCE, EXITS 0
 ---------------------------------------------------------------
-    $ docker build -t kb-sync .
-    $ docker run --rm --env-file .env kb-sync --limit 3
-    $ echo exit=%ERRORLEVEL%          -> 0
+    Command Prompt. Type each line on its own and press Enter.
+    Do NOT join them with ';' -- that is bash, not cmd.
 
-    $ docker run --rm kb-sync --limit 3
-    $ echo exit=%ERRORLEVEL%          -> 1   (no key, clean fail)
+    docker build -t kb-sync .
+
+    docker run --rm --env-file .env kb-sync --limit 3
+    echo exit=%ERRORLEVEL%            -> 0   (ran once, clean exit)
+
+    docker run --rm kb-sync --limit 3
+    echo exit=%ERRORLEVEL%            -> 1   (no key, clean fail)
 
 
 ---------------------------------------------------------------
