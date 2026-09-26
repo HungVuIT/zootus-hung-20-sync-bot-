@@ -55,22 +55,31 @@ jobs:
           sudo chown -R "$(id -u):$(id -g)" articles data
           git config user.name "kb-sync-bot"
           git config user.email "kb-sync-bot@users.noreply.github.com"
-          git add articles data
-          if git diff --cached --quiet; then
-            echo "No content changes to commit."
-            exit 0
-          fi
-          git commit -m "chore(sync): daily run #${{ github.run_number }} - $(grep -o 'added=[0-9]* updated=[0-9]* skipped=[0-9]* removed=[0-9]*' data/last_run.log | tail -1)"
-          # Replay this commit on top of whatever the branch looks like now. Without this a
-          # re-run of an older run, or any push that lands mid-job, makes the push fail.
+          counts="$(grep -o 'added=[0-9]* updated=[0-9]* skipped=[0-9]* removed=[0-9]*' data/last_run.log | tail -1)"
           branch="${{ github.ref_name }}"
+          # Build the commit on top of the current branch tip instead of rebasing onto it:
+          # two runs overlapping (or a re-run of an older run) would otherwise collide in
+          # run-history.log, where both append a line to the same end of the file.
           for attempt in 1 2 3; do
             git fetch --quiet origin "$branch"
-            git rebase "origin/$branch" || { git rebase --abort; exit 1; }
+            git reset --quiet "origin/$branch"        # index -> branch tip, generated files kept
+            if git show "origin/$branch:data/run-history.log" > /tmp/remote-history.log 2>/dev/null; then
+              {
+                head -1 /tmp/remote-history.log
+                { tail -n +2 /tmp/remote-history.log; tail -n +2 data/run-history.log; } | sort -u
+              } > /tmp/merged-history.log
+              mv /tmp/merged-history.log data/run-history.log
+            fi
+            git add articles data
+            if git diff --cached --quiet; then
+              echo "No content changes to commit."
+              exit 0
+            fi
+            git commit --quiet -m "chore(sync): daily run #${{ github.run_number }} - $counts"
             if git push origin "HEAD:$branch"; then
               exit 0
             fi
-            echo "push rejected, retrying ($attempt/3)"
+            echo "push rejected, rebuilding on the new tip ($attempt/3)"
             sleep 5
           done
           exit 1

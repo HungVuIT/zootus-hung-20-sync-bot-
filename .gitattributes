@@ -1,2 +1,4 @@
 * text=auto eol=lf
 *.png binary
+
+data/run-history.log merge=union
