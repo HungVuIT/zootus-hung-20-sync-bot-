@@ -1,16 +1,17 @@
-07:23:58 INFO    Using existing File Search store fileSearchStores/optibotkb-f1z0zlwv85nu (optibot-kb)
-07:23:58 WARNING Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+08:36:01 INFO    Using existing File Search store fileSearchStores/optibotkb-f1z0zlwv85nu (optibot-kb)
+08:36:01 WARNING Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+08:36:03 WARNING generate_content failed (503); retry 1/3 in 5s
 Q: How do I add a YouTube video?
 
-To add a YouTube video to your screens, follow these steps:
+To add a YouTube video to OptiSigns, follow these steps:
 
-* **Go to Apps:** Log in to the OptiSigns portal, navigate to **Files/Assets**, and click on **Apps**.
-* **Select YouTube:** Search for and select the **YouTube** app.
-* **Enter Details:** Give your asset a **Name** (optional) and paste the YouTube video **URL** (supports regular, share, or Shorts links; live or embed links are not supported).
-* **Adjust Settings:** Customize your setup under **Display options** (to Mute or turn on Captions) and **Playback options** (to set specific Start and End times).
-* **Save and Assign:** Click **Save**; your video is now in your **Files/Assets** and can be assigned to your screens, playlists, or schedules.
+* **Go to Apps:** Log in to the OptiSigns portal, navigate to **Files/Assets**, and click **Apps**.
+* **Select YouTube:** Search for "YouTube" and select the **YouTube** app.
+* **Enter Details:** Paste your YouTube video, share, or Shorts URL in the URL field, and optionally enter a Name for the asset. 
+* **Configure Options (Optional):** You can adjust **Display options** (to toggle captions or mute the audio) and **Playback options** (to specify a custom "Start At" and "End At" time).
+* **Save and Assign:** Click **Save**. Your video will now appear in your Files/Assets, ready to be assigned to your screens, playlists, or schedules.
 
-For more detailed information, please see the full article:
+For more details, you can refer to the full guide:
 Article URL: https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns
 
 Grounding sources:
