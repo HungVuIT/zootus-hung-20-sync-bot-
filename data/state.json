@@ -3,6 +3,10 @@
     "chunks_est": 1,
     "content_hash": "240c3f910ab25e4122e7563d2e02f0254349aa6271dbe4f99055aefa91cda43f"
   },
+  "advanced-enforce-sso-login-for-your-account": {
+    "chunks_est": 2,
+    "content_hash": "b6a62b6667587cf8e70b1a9f9ef07d82f26f534fb1758c853e9e2c7144a55e89"
+  },
   "amazon-fire-stick-and-security-considerations": {
     "chunks_est": 3,
     "content_hash": "3ea6ed6513ea2505e058879106279706efb440059e540cf7d41be94200e11f1e"
@@ -14,6 +18,10 @@
   "assign-content-to-your-screens": {
     "chunks_est": 1,
     "content_hash": "597e69cb039d6cbf2cdf11470aa9055ed94f818af95d49471564c7473a8a382f"
+  },
+  "billing-how-do-i-change-my-subscription-plan": {
+    "chunks_est": 2,
+    "content_hash": "a09e6d28c3e3c4d674772c600eeb7d4e1cd069068d08aecd011b0d19fea9131e"
   },
   "broadcast-send-scheduled-snapshots-of-your-dashboards": {
     "chunks_est": 5,
@@ -39,14 +47,6 @@
     "chunks_est": 4,
     "content_hash": "cf9671f21363e13b238aa190ba84e9f1f0027451f9f545f79dd7dd5cf4b9d926"
   },
-  "customize-text": {
-    "chunks_est": 6,
-    "content_hash": "7132b87b33fdb5dd32d85a5507d5d05352edcd8e7c2d65ff9d0ed6a23994992a"
-  },
-  "disk-encryption": {
-    "chunks_est": 2,
-    "content_hash": "8c6c14d1d177ede15f0eae9cfbeb95fd90341f7e7012547a3a1683b5f72a5add"
-  },
   "does-optisigns-offer-non-profit-education-discount": {
     "chunks_est": 1,
     "content_hash": "9149a283a6e65f0d0bb63672017c0947f151c29031b538dd2205968ccf7c8e13"
@@ -55,21 +55,9 @@
     "chunks_est": 4,
     "content_hash": "41965bcbc90471a266316f231759603a479899fb6504db1d16e23f6856efc066"
   },
-  "fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-stick": {
-    "chunks_est": 1,
-    "content_hash": "8556be4ef034bba06eeb2513f60a08c5eb61ee5ec61ec585769178554091a875"
-  },
   "get-started-with-optisigns-api": {
     "chunks_est": 1,
     "content_hash": "d92378bd3d1183f8758fb95426bdbe4a577777d709d1fc782d5019da3d85415d"
-  },
-  "getting-started-with-designer": {
-    "chunks_est": 7,
-    "content_hash": "7f6ee92d3ff6b3a70a2864f9eb5b13151c16e8c259d38881d8a3d59ceb493a45"
-  },
-  "handle-oauth-authentication-using-api-gateway-pre-request-configuration": {
-    "chunks_est": 1,
-    "content_hash": "c2299df54e7108890da9d409c83aa6b2e5e92a721feba44b653c112e9ee96161"
   },
   "how-to-access-the-troubleshooting-page-of-the-optisigns-player": {
     "chunks_est": 2,
@@ -78,6 +66,10 @@
   "how-to-add-a-qr-code-in-designs-using-optisigns-designer": {
     "chunks_est": 1,
     "content_hash": "781c4b027d40552bd8b99cecd9d691a283c6d1daa3e573c7cfe4e0b308f79485"
+  },
+  "how-to-add-google-sheets-as-a-datasource-for-optisync": {
+    "chunks_est": 2,
+    "content_hash": "2726d847aa40eadf571306c9b1bd63cbc4f41f2f2e06e2e99f26fa22556e67a3"
   },
   "how-to-change-engage-kiosk-style-preferences": {
     "chunks_est": 1,
@@ -123,6 +115,10 @@
     "chunks_est": 8,
     "content_hash": "87c63ed357aa534c9abc5fa67e10aee555def63b36a0b00f92683bb93e8e86e2"
   },
+  "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns": {
+    "chunks_est": 8,
+    "content_hash": "fc43f784d1b4d7fd4c26b8035223f6a86b4e31928939a0844bc46f9394247b8d"
+  },
   "how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast": {
     "chunks_est": 2,
     "content_hash": "1902dfbd4d5dd8aceb3e73949e83e62c0995479e831371691c2a89018e3c86c7"
@@ -163,6 +159,10 @@
     "chunks_est": 3,
     "content_hash": "867a13218fbc8af57178d6da5dbdb373af4d400fe3ccf7d1cbaa2abcf029d0e4"
   },
+  "how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns": {
+    "chunks_est": 3,
+    "content_hash": "3c8381c607118f08ee7c9e049e34b208841c0b8117c239198c30f883a5cb705e"
+  },
   "how-to-setup-aericast-meet-wireless-video-conferencing": {
     "chunks_est": 3,
     "content_hash": "2b54196e360bf1b8960a0b59b6f17fcab64f96293838c78dfb8afde74396d596"
@@ -170,6 +170,10 @@
   "how-to-use-aericast-add-on-for-wireless-presentation-and-video-conferencing": {
     "chunks_est": 3,
     "content_hash": "7ffd5bca4c790a698a8b1a41cd03f0010d1c2fbe5d37ab7af4857bb55f0ceaba"
+  },
+  "how-to-use-check-in-app-with-sms-follow-up": {
+    "chunks_est": 4,
+    "content_hash": "49f494f53dc07f263af15ad32cf7c4a2e4b1e1c846fd4e1d5be904e0b8f424f2"
   },
   "how-to-use-content-tags-in-the-playlist": {
     "chunks_est": 4,
@@ -330,10 +334,6 @@
   "pagination": {
     "chunks_est": 1,
     "content_hash": "0149f595cbfebb18bbf519940181c217ea3a009faacff0040ede6523842e2af0"
-  },
-  "photos-gifs-and-qr-codes-in-designer": {
-    "chunks_est": 7,
-    "content_hash": "c478dcf5784dea82a00195c93624b11477f0a378a4f40bf1cc9a559edeedc016"
   },
   "setting-up-audit-logging": {
     "chunks_est": 2,
