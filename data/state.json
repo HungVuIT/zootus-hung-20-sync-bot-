@@ -49,7 +49,7 @@
   },
   "does-optisigns-offer-non-profit-education-discount": {
     "chunks_est": 1,
-    "content_hash": "9149a283a6e65f0d0bb63672017c0947f151c29031b538dd2205968ccf7c8e13"
+    "content_hash": "4d2dad54129cc3f0524019dfef1eb42493e4dbaabf5f395af03dac15871735dd"
   },
   "edit-screen-what-does-each-option-do": {
     "chunks_est": 4,
@@ -118,6 +118,10 @@
   "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns": {
     "chunks_est": 8,
     "content_hash": "fc43f784d1b4d7fd4c26b8035223f6a86b4e31928939a0844bc46f9394247b8d"
+  },
+  "how-to-display-salesforce-dashboards-and-reports-on-optisigns": {
+    "chunks_est": 8,
+    "content_hash": "9dbae523a09deebc4f225d2934001e9ae2fe23e250bed232bf89d4572eac9d40"
   },
   "how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast": {
     "chunks_est": 2,
@@ -267,9 +271,17 @@
     "chunks_est": 2,
     "content_hash": "a3acbfd684bc23ad33cb30bffddb9fbb9f3dc0988bda624143a2636a25d316d4"
   },
+  "how-to-use-the-weather-radar-app": {
+    "chunks_est": 3,
+    "content_hash": "1fbd1dfe048ddd0b5a149a4b4cb7c323162e4b41b3a495a569e2773ad36b74f2"
+  },
   "how-to-use-the-youtube-playlist-app-with-optisigns": {
     "chunks_est": 1,
     "content_hash": "f36f2e0948e73783772aa77f40b7520432fc6b295dfdd684af5a0235f906e296"
+  },
+  "how-to-use-weather-apps-in-optisigns": {
+    "chunks_est": 5,
+    "content_hash": "113b87db54fca282f34612ff40b149c4ceec8569d27dbb703ddabbc9f37e399c"
   },
   "how-to-use-youtube-with-optisigns": {
     "chunks_est": 3,
@@ -279,13 +291,9 @@
     "chunks_est": 6,
     "content_hash": "51b69d78dbd0a6e9adc78e1d54492560739e2143990f5a8b1d06bb25a78395b7"
   },
-  "introduction": {
+  "kiosk-setup-hub": {
     "chunks_est": 1,
-    "content_hash": "39ee86a52af46c71d14e7ff7281a0758484f7705eb761426b033a914e51082cc"
-  },
-  "kiosk32": {
-    "chunks_est": 6,
-    "content_hash": "56e00098e171906fcfad4fae471724d7a9c1ec387285a503a73ee2a1e840a494"
+    "content_hash": "55658a7d88476622ba2721e64766fbb4c2aeb541014fd29bb516efe8bde6bca6"
   },
   "legacy-datasources": {
     "chunks_est": 3,
@@ -326,14 +334,6 @@
   "optistick": {
     "chunks_est": 3,
     "content_hash": "c1a6da983fd140511b36311c0ef6701467687847ae145dfca7092af489418c09"
-  },
-  "organizing-your-files-assets-playlists-and-schedules-by-using-folders": {
-    "chunks_est": 1,
-    "content_hash": "9a1ad7466f38222890dc29b1b868676908b4653c88c084fba28e9af59b470e3e"
-  },
-  "pagination": {
-    "chunks_est": 1,
-    "content_hash": "0149f595cbfebb18bbf519940181c217ea3a009faacff0040ede6523842e2af0"
   },
   "setting-up-audit-logging": {
     "chunks_est": 2,
