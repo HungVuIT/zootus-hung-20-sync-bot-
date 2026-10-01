@@ -55,10 +55,6 @@
     "chunks_est": 4,
     "content_hash": "41965bcbc90471a266316f231759603a479899fb6504db1d16e23f6856efc066"
   },
-  "get-started-with-optisigns-api": {
-    "chunks_est": 1,
-    "content_hash": "d92378bd3d1183f8758fb95426bdbe4a577777d709d1fc782d5019da3d85415d"
-  },
   "how-to-access-the-troubleshooting-page-of-the-optisigns-player": {
     "chunks_est": 2,
     "content_hash": "776475371d626902d07eb6e99038e234776062db932052a51ac00f11402bd725"
@@ -106,10 +102,6 @@
   "how-to-delete-your-account-from-optisigns": {
     "chunks_est": 1,
     "content_hash": "7bb39003de42a9251d41dd73da877179ca8f9e19315bd22b85b5727b6ba670ec"
-  },
-  "how-to-display-dynamic-event-schedules-using-optisync": {
-    "chunks_est": 6,
-    "content_hash": "d54fa13ff13369315a538800649cd18dd257e799be41a034fc64a8e14fac86f2"
   },
   "how-to-display-grafana-dashboards-on-optisigns": {
     "chunks_est": 8,
@@ -199,9 +191,25 @@
     "chunks_est": 2,
     "content_hash": "3cedd409d51455b3f7d464eed7fb9a67145e19c09bae7620fe901f3213231f80"
   },
+  "how-to-use-microsoft-excel-online-with-optisigns": {
+    "chunks_est": 3,
+    "content_hash": "b3d6f95cdf623711493a7b76735142327af345a4b2df209aabe44ba46a06603e"
+  },
+  "how-to-use-microsoft-powerpoint-with-optisigns": {
+    "chunks_est": 3,
+    "content_hash": "7b1479913440908f372e0b42eda6aeb613fadd34c356b0876db7737ea124405f"
+  },
+  "how-to-use-microsoft-teams-live-app-with-optisigns": {
+    "chunks_est": 2,
+    "content_hash": "a168208f704dfd6b5e01537125e4c4d53ab856c48872c1cfe9c33e43e70de231"
+  },
   "how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes": {
     "chunks_est": 3,
     "content_hash": "6abd88440617c0d817d2f1bf078a1a0eca1c8759ec04968883464711e4c30ccf"
+  },
+  "how-to-use-optisigns-with-microsoft-teams-rooms": {
+    "chunks_est": 3,
+    "content_hash": "a8212ed0ab74784a1db851b9233f80d1e4ecba63a155aa4d0e3dbcd882c58d34"
   },
   "how-to-use-overlay-layers-with-optisigns": {
     "chunks_est": 1,
@@ -259,9 +267,9 @@
     "chunks_est": 2,
     "content_hash": "589caa2652bf4335d2349989fbbd6182cb3b82881bcd30ed140113a4d2036c6c"
   },
-  "how-to-use-the-stock-app": {
-    "chunks_est": 2,
-    "content_hash": "694656d5cf0cd7c36a7a02577a39465f4ac1c623755d24b0610085844b027f4c"
+  "how-to-use-the-onedrive-app": {
+    "chunks_est": 3,
+    "content_hash": "ad63f2a491b7a4abe4ebc0ae4becf3ee5b669650172bbfd1cebe91ac350c0b07"
   },
   "how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns": {
     "chunks_est": 2,
@@ -294,10 +302,6 @@
   "kiosk-setup-hub": {
     "chunks_est": 1,
     "content_hash": "55658a7d88476622ba2721e64766fbb4c2aeb541014fd29bb516efe8bde6bca6"
-  },
-  "legacy-datasources": {
-    "chunks_est": 3,
-    "content_hash": "c8e3f6ed73ed268d2e5c806f28ee5bbb3d3943a2bc6fe8f2d18d2328d158ce75"
   },
   "lg-webos-signage-commercial-grade": {
     "chunks_est": 3,
@@ -394,9 +398,5 @@
   "working-with-teams-and-security-levels": {
     "chunks_est": 2,
     "content_hash": "ad96e1b8018d92cdbb4bfbefd0a1d3db8aeb74247874106703699d86a0607837"
-  },
-  "your-templates": {
-    "chunks_est": 2,
-    "content_hash": "1774308469a0ed9462cd8f4f6af05ce5b586a34844d62384451b227ee129055f"
   }
 }
