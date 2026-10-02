@@ -47,6 +47,10 @@
     "chunks_est": 4,
     "content_hash": "cf9671f21363e13b238aa190ba84e9f1f0027451f9f545f79dd7dd5cf4b9d926"
   },
+  "displaying-sharepoint-sites-on-optisigns": {
+    "chunks_est": 3,
+    "content_hash": "b415b98430d54537f74d77c3e44b66af0a45fe4a2f28a594b9c4547d78b2abca"
+  },
   "does-optisigns-offer-non-profit-education-discount": {
     "chunks_est": 1,
     "content_hash": "4d2dad54129cc3f0524019dfef1eb42493e4dbaabf5f395af03dac15871735dd"
@@ -55,10 +59,6 @@
     "chunks_est": 4,
     "content_hash": "41965bcbc90471a266316f231759603a479899fb6504db1d16e23f6856efc066"
   },
-  "how-to-access-the-troubleshooting-page-of-the-optisigns-player": {
-    "chunks_est": 2,
-    "content_hash": "776475371d626902d07eb6e99038e234776062db932052a51ac00f11402bd725"
-  },
   "how-to-add-a-qr-code-in-designs-using-optisigns-designer": {
     "chunks_est": 1,
     "content_hash": "781c4b027d40552bd8b99cecd9d691a283c6d1daa3e573c7cfe4e0b308f79485"
@@ -66,10 +66,6 @@
   "how-to-add-google-sheets-as-a-datasource-for-optisync": {
     "chunks_est": 2,
     "content_hash": "2726d847aa40eadf571306c9b1bd63cbc4f41f2f2e06e2e99f26fa22556e67a3"
-  },
-  "how-to-change-engage-kiosk-style-preferences": {
-    "chunks_est": 1,
-    "content_hash": "e83a5fea5fffc79a466ff1331d78386dcf3864824fd874181fb7adb2bf6471fc"
   },
   "how-to-change-time-zone-on-your-fire-stick-device": {
     "chunks_est": 1,
@@ -111,6 +107,10 @@
     "chunks_est": 8,
     "content_hash": "fc43f784d1b4d7fd4c26b8035223f6a86b4e31928939a0844bc46f9394247b8d"
   },
+  "how-to-display-microsoft-teams-chat-on-optisigns": {
+    "chunks_est": 2,
+    "content_hash": "547df11f779804bd25d19003044d4a0066db769511df7d109a57876dac2bfcc1"
+  },
   "how-to-display-salesforce-dashboards-and-reports-on-optisigns": {
     "chunks_est": 8,
     "content_hash": "9dbae523a09deebc4f225d2934001e9ae2fe23e250bed232bf89d4572eac9d40"
@@ -131,13 +131,13 @@
     "chunks_est": 1,
     "content_hash": "0cb8f56d482ef7efb6410f79b33f49d96e07cdcf054322d462d6b41bad4a1012"
   },
+  "how-to-integrate-bonusly-digital-signage-with-optisigns": {
+    "chunks_est": 1,
+    "content_hash": "6047682995b7a261cf934dc6516b82b5542005889cc7738477d7c540b565bb60"
+  },
   "how-to-manage-and-edit-your-playlist-settings": {
     "chunks_est": 5,
     "content_hash": "fbccbf92c0c9e0177ed642c465a655cde97245917138c7079f9d376b302d449a"
-  },
-  "how-to-manually-install-activate-optisigns-ai-add-on-on-linux-or-raspberry-pi": {
-    "chunks_est": 2,
-    "content_hash": "9451c884154defb5b2c4fce933b0f1a3282e08638c39cce65b3b44bbea1e633c"
   },
   "how-to-play-licensed-background-music-on-digital-signs-with-optisound": {
     "chunks_est": 3,
@@ -146,10 +146,6 @@
   "how-to-put-live-tv-on-your-screens-with-optisigns": {
     "chunks_est": 2,
     "content_hash": "bfbfd99e8f752c0f13171ae5d6a19ba17889ba8ffd4412d9159a1b15320e68e0"
-  },
-  "how-to-replace-update-an-existing-asset-image-video-documents": {
-    "chunks_est": 1,
-    "content_hash": "81f2a96f09ba47e375e9a6cfdd2f62789188b3ca1529aa7b747823b3d4782ee4"
   },
   "how-to-set-an-asset-to-live-or-expire-at-specific-time": {
     "chunks_est": 3,
@@ -191,9 +187,17 @@
     "chunks_est": 2,
     "content_hash": "3cedd409d51455b3f7d464eed7fb9a67145e19c09bae7620fe901f3213231f80"
   },
+  "how-to-use-icloud-calendar-with-optisigns": {
+    "chunks_est": 3,
+    "content_hash": "4d5f99841063e376db502c6015a85ce9a933d5c159608544d4a14de50b8ce30f"
+  },
   "how-to-use-microsoft-excel-online-with-optisigns": {
     "chunks_est": 3,
     "content_hash": "b3d6f95cdf623711493a7b76735142327af345a4b2df209aabe44ba46a06603e"
+  },
+  "how-to-use-microsoft-outlook-calendar-with-optisigns": {
+    "chunks_est": 4,
+    "content_hash": "a94550e4b4dd4e0273011889c611ca14f43f3edb259872d6d92ec7303659b9d6"
   },
   "how-to-use-microsoft-powerpoint-with-optisigns": {
     "chunks_est": 3,
@@ -214,10 +218,6 @@
   "how-to-use-overlay-layers-with-optisigns": {
     "chunks_est": 1,
     "content_hash": "667e30424556399ae33fccd25e0b24473122fb4a9cb506bd7d485b8bf6b71093"
-  },
-  "how-to-use-qr-overlay-app-in-engage": {
-    "chunks_est": 2,
-    "content_hash": "93225e3fffce8b93b70296d16a82d4cb3bfce88f90784f489fb5a93e20f2504e"
   },
   "how-to-use-rss-feeds-with-optisigns": {
     "chunks_est": 3,
@@ -243,21 +243,25 @@
     "chunks_est": 3,
     "content_hash": "be1aaf855739cfbc86218e37df080ecdc8e41c099a852303ac2cda1445a9f73d"
   },
+  "how-to-use-the-countup-app": {
+    "chunks_est": 3,
+    "content_hash": "c863245d5528c442cd672d96eaaf220618befd2967ae0999a1a2851c72d30ab9"
+  },
+  "how-to-use-the-dropbox-app": {
+    "chunks_est": 3,
+    "content_hash": "11290babb648f200c8bc26800580f628aaebe66766d957db586eaef71651d7de"
+  },
   "how-to-use-the-emergency-feed-app": {
     "chunks_est": 3,
     "content_hash": "7bab8d800c40fba99217348dec9f0e3652c2bf40108c37d5ec85ff221acb2882"
   },
-  "how-to-use-the-facebook-counter-app": {
-    "chunks_est": 2,
-    "content_hash": "173adc95d6ddeb7fd2ff13be54d7ed609608512a2c964c7763555ec352ffcf85"
-  },
-  "how-to-use-the-flash-message-app": {
-    "chunks_est": 3,
-    "content_hash": "9d99802961971262b4241be35ecd2402754b9bd9ce8824d30950114ca106808d"
-  },
   "how-to-use-the-local-folder-app-in-optisigns": {
     "chunks_est": 4,
     "content_hash": "441711ac59663e76cb24eb43b6ac035742240d56e085b2e64fdf5124eef7fa71"
+  },
+  "how-to-use-the-microsoft-teams-meeting-app": {
+    "chunks_est": 1,
+    "content_hash": "97d943ddac7ae0a98460e09994a1ac9a1fc013694604e28469dd0cb6efa6ba22"
   },
   "how-to-use-the-new-york-times-app": {
     "chunks_est": 2,
@@ -271,13 +275,13 @@
     "chunks_est": 3,
     "content_hash": "ad63f2a491b7a4abe4ebc0ae4becf3ee5b669650172bbfd1cebe91ac350c0b07"
   },
+  "how-to-use-the-slack-app": {
+    "chunks_est": 3,
+    "content_hash": "b14e3925280dfb943c52d09af034c82248fe48f93cdb90c51d9cb68be7e703b4"
+  },
   "how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns": {
     "chunks_est": 2,
     "content_hash": "500ef872285bbd49ee9183d101ac99fa587c702acb3637d2b7165d8a40fb1e75"
-  },
-  "how-to-use-the-wall-street-journal-app": {
-    "chunks_est": 2,
-    "content_hash": "a3acbfd684bc23ad33cb30bffddb9fbb9f3dc0988bda624143a2636a25d316d4"
   },
   "how-to-use-the-weather-radar-app": {
     "chunks_est": 3,
@@ -370,10 +374,6 @@
   "using-the-x-social-app-add-on": {
     "chunks_est": 5,
     "content_hash": "a8101487ef506808c2442b01fe0662683f30e17ec50e55a41945e615f34009d9"
-  },
-  "what-happen-if-internet-connection-is-lost": {
-    "chunks_est": 1,
-    "content_hash": "0f36d5db80eb282bd95d196e260a7c5812a2d4c25a6ea2e6079d2736bf08b023"
   },
   "what-hardware-and-devices-are-supported": {
     "chunks_est": 1,
