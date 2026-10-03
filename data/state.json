@@ -15,6 +15,10 @@
     "chunks_est": 3,
     "content_hash": "7c5317722211d945d4790192e4670dad6eea80f439321a83d5c9fe395c4ce5ae"
   },
+  "amazon-tv-firestick-troubleshooting-guide": {
+    "chunks_est": 2,
+    "content_hash": "9e0d5758fbc02c4a9fef1802c74ecefb017b9416aed60b92cef510f20a16439c"
+  },
   "assign-content-to-your-screens": {
     "chunks_est": 1,
     "content_hash": "597e69cb039d6cbf2cdf11470aa9055ed94f818af95d49471564c7473a8a382f"
@@ -59,13 +63,13 @@
     "chunks_est": 4,
     "content_hash": "41965bcbc90471a266316f231759603a479899fb6504db1d16e23f6856efc066"
   },
-  "how-to-add-a-qr-code-in-designs-using-optisigns-designer": {
-    "chunks_est": 1,
-    "content_hash": "781c4b027d40552bd8b99cecd9d691a283c6d1daa3e573c7cfe4e0b308f79485"
-  },
   "how-to-add-google-sheets-as-a-datasource-for-optisync": {
     "chunks_est": 2,
     "content_hash": "2726d847aa40eadf571306c9b1bd63cbc4f41f2f2e06e2e99f26fa22556e67a3"
+  },
+  "how-to-best-use-canva-with-optisigns": {
+    "chunks_est": 4,
+    "content_hash": "46c46a9b538db83708fca92a42ab4929bc9cfce0624aec32a40ff52d09daa3f3"
   },
   "how-to-change-time-zone-on-your-fire-stick-device": {
     "chunks_est": 1,
@@ -163,6 +167,10 @@
     "chunks_est": 3,
     "content_hash": "7ffd5bca4c790a698a8b1a41cd03f0010d1c2fbe5d37ab7af4857bb55f0ceaba"
   },
+  "how-to-use-airtable-with-optisigns": {
+    "chunks_est": 1,
+    "content_hash": "8be8f18bde00ebd131d59c31865cca577b89f369146bde4e9a86b4f20101861c"
+  },
   "how-to-use-check-in-app-with-sms-follow-up": {
     "chunks_est": 4,
     "content_hash": "49f494f53dc07f263af15ad32cf7c4a2e4b1e1c846fd4e1d5be904e0b8f424f2"
@@ -215,14 +223,6 @@
     "chunks_est": 3,
     "content_hash": "a8212ed0ab74784a1db851b9233f80d1e4ecba63a155aa4d0e3dbcd882c58d34"
   },
-  "how-to-use-overlay-layers-with-optisigns": {
-    "chunks_est": 1,
-    "content_hash": "667e30424556399ae33fccd25e0b24473122fb4a9cb506bd7d485b8bf6b71093"
-  },
-  "how-to-use-rss-feeds-with-optisigns": {
-    "chunks_est": 3,
-    "content_hash": "589addbadea307d7fc748f20116de673fb561c85f5f36b17460fbc3a34fab60d"
-  },
   "how-to-use-scrolling-website-app": {
     "chunks_est": 2,
     "content_hash": "18dd4c97b1a92c08a7186943d93227a5db6e55d6d058f147d2f60b00d189c40b"
@@ -263,9 +263,13 @@
     "chunks_est": 1,
     "content_hash": "97d943ddac7ae0a98460e09994a1ac9a1fc013694604e28469dd0cb6efa6ba22"
   },
-  "how-to-use-the-new-york-times-app": {
+  "how-to-use-the-mindmeister-app": {
     "chunks_est": 2,
-    "content_hash": "dbfa0e00d97ae0ec57e039f4c98cb7ecbbff9fc255353475c99a8299d4c46c6a"
+    "content_hash": "30c6ec336a462ee18d4ffb16ba537141f549657b2758338ea0a1bb79e90a8aa0"
+  },
+  "how-to-use-the-monday-com-app": {
+    "chunks_est": 1,
+    "content_hash": "c2b0bb55d13fadb34778c2b79b185064bf9464f590ac82b818ee2b066438c3b7"
   },
   "how-to-use-the-on-this-day-app": {
     "chunks_est": 2,
@@ -314,10 +318,6 @@
   "making-a-video-wall-with-optisigns-video-wall-app": {
     "chunks_est": 7,
     "content_hash": "b382bfe3cceb182e15dfbf34d23fb256301ce9c35def15670b929071d292cdce"
-  },
-  "multi-select-assets-in-files-assets-view": {
-    "chunks_est": 1,
-    "content_hash": "7f204a2e326fac87305dac0e8a441698cb9755ed32949363aaee2ff94d8dda71"
   },
   "multilingual-and-multi-currency-options": {
     "chunks_est": 1,
