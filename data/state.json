@@ -83,10 +83,6 @@
     "chunks_est": 1,
     "content_hash": "8f640e93a4c12115d69bb6676ea05c6523493fc31b2d2008ab3f2398a9e265c3"
   },
-  "how-to-create-and-use-nested-playlists": {
-    "chunks_est": 2,
-    "content_hash": "792b4ba15a8df4e4ae5237522f783d25ab593ba3557c3d3d6e473497c0784739"
-  },
   "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232": {
     "chunks_est": 4,
     "content_hash": "566e76b1d31b0030d28a0b19f72a60606d6679f57ceb549310a405cdd5fd4574"
@@ -146,6 +142,10 @@
   "how-to-play-licensed-background-music-on-digital-signs-with-optisound": {
     "chunks_est": 3,
     "content_hash": "2a69d59ffa68ab869b3fd1ca0a1e761f7cdf406d59b23d1c05347cb1ad71fe1e"
+  },
+  "how-to-preview-a-screen": {
+    "chunks_est": 1,
+    "content_hash": "a3323214d0a99d30b6b29a429bf5637759c8219b4d264bbc6f713cc4e6eee790"
   },
   "how-to-put-live-tv-on-your-screens-with-optisigns": {
     "chunks_est": 2,
@@ -238,10 +238,6 @@
   "how-to-use-the-cap-alert-app": {
     "chunks_est": 6,
     "content_hash": "d8b416fef930c94b00ae884408d02d4067906990a75bd959c0fc6009e71a67b8"
-  },
-  "how-to-use-the-countdown-app": {
-    "chunks_est": 3,
-    "content_hash": "be1aaf855739cfbc86218e37df080ecdc8e41c099a852303ac2cda1445a9f73d"
   },
   "how-to-use-the-countup-app": {
     "chunks_est": 3,
@@ -342,6 +338,10 @@
   "optistick": {
     "chunks_est": 3,
     "content_hash": "c1a6da983fd140511b36311c0ef6701467687847ae145dfca7092af489418c09"
+  },
+  "powerpoint-resolution-size-for-use-with-digital-signage": {
+    "chunks_est": 2,
+    "content_hash": "9235542a87547d1d4612d223a8f29ef013d8a80914664eb970313b3620b6acd1"
   },
   "setting-up-audit-logging": {
     "chunks_est": 2,
