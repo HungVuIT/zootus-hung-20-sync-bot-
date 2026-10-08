@@ -355,10 +355,6 @@
     "chunks_est": 1,
     "content_hash": "fb97c7e9471082f170bbb9c7726ee98d3e78f2ed77e8a76a102ba704784bd2c9"
   },
-  "tutorial-create-update-add-remove-items-from-playlists": {
-    "chunks_est": 2,
-    "content_hash": "22092a0cdb319f9f3086ba4e99c39f7094f83b837ed5e571f2527ff47ada12c5"
-  },
   "using-rs232-to-schedule-tv-power-on-off-or-other-commands": {
     "chunks_est": 3,
     "content_hash": "e2f9af14b5e0397073621544785ab5d98eb26971add97b94dd0b606d98a6622c"
@@ -374,6 +370,10 @@
   "using-the-x-social-app-add-on": {
     "chunks_est": 5,
     "content_hash": "a8101487ef506808c2442b01fe0662683f30e17ec50e55a41945e615f34009d9"
+  },
+  "what-do-i-get-with-an-optisigns-free-plan": {
+    "chunks_est": 3,
+    "content_hash": "7888564bfbdebca2d7d9d7ef420d85916878f2d672cbe92822aa04ad8d947827"
   },
   "what-hardware-and-devices-are-supported": {
     "chunks_est": 1,
