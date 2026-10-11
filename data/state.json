@@ -127,10 +127,6 @@
     "chunks_est": 2,
     "content_hash": "61824d1fbd2d00dee0d31c3e21157a3a6dfb7425068ca11787361f5b9901dd6a"
   },
-  "how-to-install-optisigns-player-on-apple-tv": {
-    "chunks_est": 1,
-    "content_hash": "0cb8f56d482ef7efb6410f79b33f49d96e07cdcf054322d462d6b41bad4a1012"
-  },
   "how-to-integrate-bonusly-digital-signage-with-optisigns": {
     "chunks_est": 1,
     "content_hash": "6047682995b7a261cf934dc6516b82b5542005889cc7738477d7c540b565bb60"
@@ -310,6 +306,10 @@
   "lg-webos-signage-commercial-grade": {
     "chunks_est": 3,
     "content_hash": "aa2a9be0f3c7cb9e978e39137ec6876ab0e0e0a3428c003e47f8a70ab2300d50"
+  },
+  "list-of-supported-cities-for-weather-wall-city-themes": {
+    "chunks_est": 1,
+    "content_hash": "0d43883ef8d260c01b2957d9145d9d9b90d1aded2d8f940661bdb4d0b5c8088d"
   },
   "making-a-video-wall-with-optisigns-video-wall-app": {
     "chunks_est": 7,
