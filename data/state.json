@@ -79,9 +79,9 @@
     "chunks_est": 1,
     "content_hash": "cab1c26808318c16349e1ea13aaa9c176d2717d3e86d1cc2bc3c9fbd7a2620fe"
   },
-  "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232": {
-    "chunks_est": 4,
-    "content_hash": "566e76b1d31b0030d28a0b19f72a60606d6679f57ceb549310a405cdd5fd4574"
+  "how-to-create-and-use-nested-playlists": {
+    "chunks_est": 2,
+    "content_hash": "792b4ba15a8df4e4ae5237522f783d25ab593ba3557c3d3d6e473497c0784739"
   },
   "how-to-create-and-use-the-split-screen-app": {
     "chunks_est": 3,
@@ -91,9 +91,17 @@
     "chunks_est": 1,
     "content_hash": "0506b8d2764ba4afe24ca01283dcce95eda686c815e4840441924fa48f24ff60"
   },
+  "how-to-create-use-playlists": {
+    "chunks_est": 2,
+    "content_hash": "06389e893476f93c3f51ad6066b6ae48cbbe2ed342849edb794b0cac206e71f8"
+  },
   "how-to-delete-your-account-from-optisigns": {
     "chunks_est": 1,
     "content_hash": "7bb39003de42a9251d41dd73da877179ca8f9e19315bd22b85b5727b6ba670ec"
+  },
+  "how-to-display-a-smartsheet-report-on-optisigns": {
+    "chunks_est": 2,
+    "content_hash": "4533e645271344d4dcdde15f34eb1d9497da31125b874d1de7bbfcf3eb2d181b"
   },
   "how-to-display-grafana-dashboards-on-optisigns": {
     "chunks_est": 14,
@@ -108,8 +116,12 @@
     "content_hash": "547df11f779804bd25d19003044d4a0066db769511df7d109a57876dac2bfcc1"
   },
   "how-to-display-salesforce-dashboards-and-reports-on-optisigns": {
-    "chunks_est": 8,
-    "content_hash": "9dbae523a09deebc4f225d2934001e9ae2fe23e250bed232bf89d4572eac9d40"
+    "chunks_est": 9,
+    "content_hash": "2753dab1b62dd9be2bdb4141b0b72b0c9a51931e964f9e7a2932109f54f6f8a7"
+  },
+  "how-to-display-vimeo-videos-with-optisigns": {
+    "chunks_est": 1,
+    "content_hash": "c673cf50b072fdf4721190fd5a32899b27309321f6ec02625e27bd1006b47fc3"
   },
   "how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast": {
     "chunks_est": 2,
@@ -133,7 +145,7 @@
   },
   "how-to-manage-and-edit-your-playlist-settings": {
     "chunks_est": 4,
-    "content_hash": "a2d378c4a08a7f876475a5f9d32b9602efeb95b3428442051faf6bb19a5ba371"
+    "content_hash": "8f93770cebeec38b0a1d9aae50f7d09862a1555a8fe5b0623d8a01927dcadcb8"
   },
   "how-to-play-licensed-background-music-on-digital-signs-with-optisound": {
     "chunks_est": 3,
@@ -147,17 +159,9 @@
     "chunks_est": 2,
     "content_hash": "bfbfd99e8f752c0f13171ae5d6a19ba17889ba8ffd4412d9159a1b15320e68e0"
   },
-  "how-to-set-an-asset-to-live-or-expire-at-specific-time": {
-    "chunks_est": 3,
-    "content_hash": "867a13218fbc8af57178d6da5dbdb373af4d400fe3ccf7d1cbaa2abcf029d0e4"
-  },
   "how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns": {
     "chunks_est": 3,
     "content_hash": "3c8381c607118f08ee7c9e049e34b208841c0b8117c239198c30f883a5cb705e"
-  },
-  "how-to-setup-aericast-meet-wireless-video-conferencing": {
-    "chunks_est": 3,
-    "content_hash": "2b54196e360bf1b8960a0b59b6f17fcab64f96293838c78dfb8afde74396d596"
   },
   "how-to-use-aericast-add-on-for-wireless-presentation-and-video-conferencing": {
     "chunks_est": 3,
@@ -218,10 +222,6 @@
   "how-to-use-optisigns-with-microsoft-teams-rooms": {
     "chunks_est": 3,
     "content_hash": "a8212ed0ab74784a1db851b9233f80d1e4ecba63a155aa4d0e3dbcd882c58d34"
-  },
-  "how-to-use-scrolling-website-app": {
-    "chunks_est": 2,
-    "content_hash": "18dd4c97b1a92c08a7186943d93227a5db6e55d6d058f147d2f60b00d189c40b"
   },
   "how-to-use-streaming-app-with-optisigns": {
     "chunks_est": 1,
@@ -287,6 +287,10 @@
     "chunks_est": 1,
     "content_hash": "f36f2e0948e73783772aa77f40b7520432fc6b295dfdd684af5a0235f906e296"
   },
+  "how-to-use-toast-api-data-with-optisigns": {
+    "chunks_est": 3,
+    "content_hash": "bb633cedfbadfcdf16d66b5826a8c64244e55d4f49670026f0d2d4e680695515"
+  },
   "how-to-use-weather-apps-in-optisigns": {
     "chunks_est": 5,
     "content_hash": "113b87db54fca282f34612ff40b149c4ceec8569d27dbb703ddabbc9f37e399c"
@@ -346,10 +350,6 @@
   "setting-up-audit-logging": {
     "chunks_est": 2,
     "content_hash": "477ecd4d464615bafc8ad71780f51765d6142344319b3cd774a58f1abe78d3a2"
-  },
-  "sharing-playlists-and-folders-with-external-users": {
-    "chunks_est": 3,
-    "content_hash": "48e2a61a49cb6b9283397ab3b5e28d575fc312926a682e9250b4aba6bb1605f0"
   },
   "show-youtube-video-s-subtitle-closed-caption": {
     "chunks_est": 1,

@@ -4,7 +4,7 @@ article_id: 28295074995859
 url: https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings
 section: "Playlist"
 category: "Create & Manage Contents"
-updated_at: 2026-10-12T07:27:37Z
+updated_at: 2026-10-12T16:03:25Z
 ---
 
 # How to Manage and Edit Your Playlist Settings
@@ -88,7 +88,7 @@ To add items from your files/asset to your playlist:
   - Slow
   - Medium
   - Fast
-  - Custom: You will have the option to select a specific duration in seconds, with choices ranging from 1 to 20 in five-second intervals.
+  - Custom: You will have the option to select a specific duration in seconds, with a Speed Value slider ranging from 1 to 20 in five-second intervals.
 
 **4.** Click the Advanced button:
 
@@ -111,7 +111,7 @@ To add items from your files/asset to your playlist:
     - You will also need to set up content tagging which you can learn more about [here](https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-The-Asset-Tag-Features-in-The-Playlist).
     - Make sure to select "Use Playlist Default".
     - Under the "Content Tag Rule" under Edit Screens simply select the playlist tag instead of the asset tag.
-- **Item Schedule:** Control the schedule of each playlist item.
+- **Sub-playlist Schedule:** Control the schedule of each playlist item.
 - **Sub-playlist control:** With Sub-playlist control, you can define how many items you want to play from the sub-playlist and if it is embedded as a nested playlist. It can help you better manage the time allocation of a certain type of content.
 - **Resume on next play:** With this option enabled, the playlist will resume from where it left off last time, rather than starting from the beginning. This can enhance the user experience, especially when the playlist is interrupted for any reason.
 - **Respect Orientation:** Choose the orientation you would like for your playlist:
