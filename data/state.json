@@ -31,10 +31,6 @@
     "chunks_est": 5,
     "content_hash": "ef5d687dc8e9c777825a5c072665ef995c24e3dad94d840545c6f923de000a73"
   },
-  "build-integrations-using-the-optisigns-enterprise-app": {
-    "chunks_est": 4,
-    "content_hash": "50f3fc1768db8577d2468bfdf6a219974db5db9268136f2ecdc497899945daaa"
-  },
   "changing-screen-s-orientation-portrait-landscape": {
     "chunks_est": 1,
     "content_hash": "2fbf5a1dbf298bbefded799e87b7c3fbecff3b3690adaf01093959b10e99cb26"
@@ -120,8 +116,8 @@
     "content_hash": "2753dab1b62dd9be2bdb4141b0b72b0c9a51931e964f9e7a2932109f54f6f8a7"
   },
   "how-to-display-vimeo-videos-with-optisigns": {
-    "chunks_est": 1,
-    "content_hash": "c673cf50b072fdf4721190fd5a32899b27309321f6ec02625e27bd1006b47fc3"
+    "chunks_est": 3,
+    "content_hash": "76a5449120e4557f711c9e8702c50ba7866a3307a9abc31262bbe73def583839"
   },
   "how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast": {
     "chunks_est": 2,
@@ -175,10 +171,6 @@
     "chunks_est": 4,
     "content_hash": "49f494f53dc07f263af15ad32cf7c4a2e4b1e1c846fd4e1d5be904e0b8f424f2"
   },
-  "how-to-use-content-tags-in-the-playlist": {
-    "chunks_est": 4,
-    "content_hash": "d503ffbcd2737624671480ff7741b27c2450ad08d138dedd058fb787ed818270"
-  },
   "how-to-use-facebook-live-stream-app": {
     "chunks_est": 2,
     "content_hash": "64616c177e7c6ca75de4c186f60594b8af579034a85fa7362cebdf340b62df6e"
@@ -223,9 +215,9 @@
     "chunks_est": 3,
     "content_hash": "a8212ed0ab74784a1db851b9233f80d1e4ecba63a155aa4d0e3dbcd882c58d34"
   },
-  "how-to-use-streaming-app-with-optisigns": {
-    "chunks_est": 1,
-    "content_hash": "e8b7e0883cd5b04041b97819a83e710297d0a0457b0d383ae9b0e7b05a139da4"
+  "how-to-use-the-asana-app": {
+    "chunks_est": 2,
+    "content_hash": "403a9bf40f90cbf96815f7ededc7ea111ec5504b6976a0522651606ab10c6f71"
   },
   "how-to-use-the-calendar-mix-app": {
     "chunks_est": 2,
@@ -247,9 +239,17 @@
     "chunks_est": 3,
     "content_hash": "7bab8d800c40fba99217348dec9f0e3652c2bf40108c37d5ec85ff221acb2882"
   },
+  "how-to-use-the-jira-app": {
+    "chunks_est": 3,
+    "content_hash": "49b119b9e708bd2bb67862a78b4adaa5c017299e64c796be17189d66975e7e03"
+  },
   "how-to-use-the-local-folder-app-in-optisigns": {
     "chunks_est": 4,
     "content_hash": "441711ac59663e76cb24eb43b6ac035742240d56e085b2e64fdf5124eef7fa71"
+  },
+  "how-to-use-the-matterport-app": {
+    "chunks_est": 2,
+    "content_hash": "cf19db86481d534a7652bad5ed24dbedab596fc8d2ca3918ab7aeac718427ce1"
   },
   "how-to-use-the-microsoft-teams-meeting-app": {
     "chunks_est": 1,
@@ -263,6 +263,14 @@
     "chunks_est": 1,
     "content_hash": "c2b0bb55d13fadb34778c2b79b185064bf9464f590ac82b818ee2b066438c3b7"
   },
+  "how-to-use-the-musthavemenus-app": {
+    "chunks_est": 2,
+    "content_hash": "0f2a125ce0fcbd3aa89b77398f7071662e71ec146c838734ae59315d051137f5"
+  },
+  "how-to-use-the-notion-app": {
+    "chunks_est": 2,
+    "content_hash": "4dc9a49f9421c2eec38250cb9175307f69f58fd9b705e7bee0a20e0390e98e69"
+  },
   "how-to-use-the-on-this-day-app": {
     "chunks_est": 2,
     "content_hash": "589caa2652bf4335d2349989fbbd6182cb3b82881bcd30ed140113a4d2036c6c"
@@ -275,6 +283,14 @@
     "chunks_est": 3,
     "content_hash": "b14e3925280dfb943c52d09af034c82248fe48f93cdb90c51d9cb68be7e703b4"
   },
+  "how-to-use-the-trello-app": {
+    "chunks_est": 2,
+    "content_hash": "4baf8612214b0a5382bec73c949dfdb7367d8b2bfc4545065c4e4bdb16c8edea"
+  },
+  "how-to-use-the-twitch-app": {
+    "chunks_est": 2,
+    "content_hash": "a7c5ede9c26a1e050092c340bbf0f3e1184ebd302e8c7743b77ddfec573a27bc"
+  },
   "how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns": {
     "chunks_est": 2,
     "content_hash": "500ef872285bbd49ee9183d101ac99fa587c702acb3637d2b7165d8a40fb1e75"
@@ -282,10 +298,6 @@
   "how-to-use-the-weather-radar-app": {
     "chunks_est": 3,
     "content_hash": "1fbd1dfe048ddd0b5a149a4b4cb7c323162e4b41b3a495a569e2773ad36b74f2"
-  },
-  "how-to-use-the-youtube-playlist-app-with-optisigns": {
-    "chunks_est": 1,
-    "content_hash": "f36f2e0948e73783772aa77f40b7520432fc6b295dfdd684af5a0235f906e296"
   },
   "how-to-use-toast-api-data-with-optisigns": {
     "chunks_est": 3,
@@ -327,10 +339,6 @@
     "chunks_est": 2,
     "content_hash": "efdeba827c40e1fd9b655f4c2f9f610cf1347a81c8dbcd041e20406b6509316e"
   },
-  "optisigns-iot-sensor-add-on-quick-start": {
-    "chunks_est": 7,
-    "content_hash": "81920539ded4ea5b03e9ba7cf07ff27992c82c67e7e73daa043631df027de1a5"
-  },
   "optisigns-pro-player-advanced-features": {
     "chunks_est": 6,
     "content_hash": "2b72c258433cfc377db7da9877d8144df77997d5bd7b83cbf8200f5667aa1432"
@@ -339,10 +347,6 @@
     "chunks_est": 5,
     "content_hash": "4a01a19fedffb6a24c1121c4f0bb85c8cc2e6f3812ff450d4d6990655c9bf87c"
   },
-  "optistick": {
-    "chunks_est": 3,
-    "content_hash": "c1a6da983fd140511b36311c0ef6701467687847ae145dfca7092af489418c09"
-  },
   "powerpoint-resolution-size-for-use-with-digital-signage": {
     "chunks_est": 2,
     "content_hash": "9235542a87547d1d4612d223a8f29ef013d8a80914664eb970313b3620b6acd1"
@@ -350,10 +354,6 @@
   "setting-up-audit-logging": {
     "chunks_est": 2,
     "content_hash": "477ecd4d464615bafc8ad71780f51765d6142344319b3cd774a58f1abe78d3a2"
-  },
-  "show-youtube-video-s-subtitle-closed-caption": {
-    "chunks_est": 1,
-    "content_hash": "fb97c7e9471082f170bbb9c7726ee98d3e78f2ed77e8a76a102ba704784bd2c9"
   },
   "using-rs232-to-schedule-tv-power-on-off-or-other-commands": {
     "chunks_est": 3,
