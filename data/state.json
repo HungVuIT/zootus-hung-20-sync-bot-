@@ -35,6 +35,10 @@
     "chunks_est": 1,
     "content_hash": "2fbf5a1dbf298bbefded799e87b7c3fbecff3b3690adaf01093959b10e99cb26"
   },
+  "chromeos-pwa-instructions": {
+    "chunks_est": 4,
+    "content_hash": "ac7d6bcb6e43078fde9af2d384d6835f32bef784bd4e5bd0ea603d74cdd2ed20"
+  },
   "configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices": {
     "chunks_est": 2,
     "content_hash": "89705923d5c219dcfb7ed82419d2367ec831f3f36330331cc0b5637e063a6926"
@@ -57,7 +61,7 @@
   },
   "edit-screen-what-does-each-option-do": {
     "chunks_est": 4,
-    "content_hash": "41965bcbc90471a266316f231759603a479899fb6504db1d16e23f6856efc066"
+    "content_hash": "883d2fa148e2996fb915227cde9b5116ef8ffc873d1f1fb0c1efa30de18a18e5"
   },
   "how-to-add-google-sheets-as-a-datasource-for-optisync": {
     "chunks_est": 2,
@@ -141,11 +145,11 @@
   },
   "how-to-manage-and-edit-your-playlist-settings": {
     "chunks_est": 4,
-    "content_hash": "8f93770cebeec38b0a1d9aae50f7d09862a1555a8fe5b0623d8a01927dcadcb8"
+    "content_hash": "9c6db8caa1fe6deec187a09bbf7c58ff264d46481f65468b188af64e575758da"
   },
   "how-to-play-licensed-background-music-on-digital-signs-with-optisound": {
-    "chunks_est": 3,
-    "content_hash": "2a69d59ffa68ab869b3fd1ca0a1e761f7cdf406d59b23d1c05347cb1ad71fe1e"
+    "chunks_est": 4,
+    "content_hash": "b1d440213b42792dca5c02a2d63162c6dae67f75b3f925581040fcee677d8866"
   },
   "how-to-preview-a-screen": {
     "chunks_est": 1,
@@ -271,10 +275,6 @@
     "chunks_est": 2,
     "content_hash": "4dc9a49f9421c2eec38250cb9175307f69f58fd9b705e7bee0a20e0390e98e69"
   },
-  "how-to-use-the-on-this-day-app": {
-    "chunks_est": 2,
-    "content_hash": "589caa2652bf4335d2349989fbbd6182cb3b82881bcd30ed140113a4d2036c6c"
-  },
   "how-to-use-the-onedrive-app": {
     "chunks_est": 3,
     "content_hash": "ad63f2a491b7a4abe4ebc0ae4becf3ee5b669650172bbfd1cebe91ac350c0b07"
@@ -298,6 +298,10 @@
   "how-to-use-the-weather-radar-app": {
     "chunks_est": 3,
     "content_hash": "1fbd1dfe048ddd0b5a149a4b4cb7c323162e4b41b3a495a569e2773ad36b74f2"
+  },
+  "how-to-use-the-zendesk-app": {
+    "chunks_est": 2,
+    "content_hash": "a6d24cc690aafd2416c6c811586dfe049f201c791f304fc7179476fb0625de3c"
   },
   "how-to-use-toast-api-data-with-optisigns": {
     "chunks_est": 3,
@@ -354,10 +358,6 @@
   "setting-up-audit-logging": {
     "chunks_est": 2,
     "content_hash": "477ecd4d464615bafc8ad71780f51765d6142344319b3cd774a58f1abe78d3a2"
-  },
-  "using-rs232-to-schedule-tv-power-on-off-or-other-commands": {
-    "chunks_est": 3,
-    "content_hash": "e2f9af14b5e0397073621544785ab5d98eb26971add97b94dd0b606d98a6622c"
   },
   "using-the-flight-schedule-app": {
     "chunks_est": 5,

@@ -4,7 +4,7 @@ article_id: 28295074995859
 url: https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings
 section: "Playlist"
 category: "Create & Manage Contents"
-updated_at: 2026-10-12T16:03:25Z
+updated_at: 2026-10-14T18:00:33Z
 ---
 
 # How to Manage and Edit Your Playlist Settings
@@ -61,20 +61,24 @@ To add items from your files/asset to your playlist:
 **3.** The following Playlist Option features will be listed below.
 
 - **Scale Image:** The option will default to Fit. This option will allow you to resize your Image per the selected preference:
-  - None
-  - Fit
-  - Stretch
-  - Zoom
+  - None - Shows the image at its original size, centered.
+  - Fit - Fills as much of the screen as possible, without distortion. Bars may be present.
+  - Stretch - Fills the whole screen, with possible distortion.
+  - Zoom - Fills the whole screen by cropping the edges.
 - **Scale Video:** The option will default to Fit. This option will allow you to resize your Video per the selected preference:
   - None
   - Fit
   - Stretch
   - Zoom
-- **Scale Document:** The option will default to Fit. This option will allow you to resize your Document per the selected preference:
+- **Scale Document:** The option will default to Fit (this default can be changed from your account's Preferences). This option will allow you to resize your Document per the selected preference:
+
   - None
   - Fit
   - Stretch
   - Zoom
+  > **TIP**
+  >
+  > For the sharpest results, use images or documents that match your screen's resolution. The Scale settings matter most when content is smaller than the screen.
 - **Shuffle:** The "shuffle" option for a playlist randomizes the playback order of items.
 - **Default Transition:** This option determines the type of transition effect that occurs when switching between items in the playlist:
   - Fade

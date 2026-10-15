@@ -4,7 +4,7 @@ article_id: 360048914673
 url: https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do
 section: "OptiSigns Player Software"
 category: "Troubleshooting"
-updated_at: 2026-09-02T20:33:01Z
+updated_at: 2026-10-14T18:02:17Z
 ---
 
 # Edit Screen: What does each option do?
@@ -48,6 +48,10 @@ The Edit Screen window, shown below, will appear.
     - You can click on 'Go To' to go to the selected playlist. It will open a new window and display the playlist and its contents.
   - **Schedule**: Selecting this allows you to [Select a Schedule](https://support.optisigns.com/hc/en-us/articles/360016981853) from the drop-down and designate a schedule you want the screen to follow.
 - **Scale** - Adjust how your selected content displays and fits to your screen with None, Fit, Stretch, or Zoom.
+  - **None:** Shows the image at its original size, centered.
+  - **Fit:** Fills as much of the screen as possible, without distortion. Bars may be present.
+  - **Stretch:** Fills the whole screen, with possible distortion.
+  - **Zoom:** Fills the whole screen by cropping the edges.
 - **Orientation** - Adjust the positioning of the content on your screen.
   - **Landscape**: Default layout for most screens
   - **Rotate 90 degrees**:  Rotates screen 90 degrees clockwise from landscape.
