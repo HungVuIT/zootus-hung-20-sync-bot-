@@ -31,10 +31,6 @@
     "chunks_est": 5,
     "content_hash": "ef5d687dc8e9c777825a5c072665ef995c24e3dad94d840545c6f923de000a73"
   },
-  "changing-screen-s-orientation-portrait-landscape": {
-    "chunks_est": 1,
-    "content_hash": "2fbf5a1dbf298bbefded799e87b7c3fbecff3b3690adaf01093959b10e99cb26"
-  },
   "chromeos-pwa-instructions": {
     "chunks_est": 4,
     "content_hash": "ac7d6bcb6e43078fde9af2d384d6835f32bef784bd4e5bd0ea603d74cdd2ed20"
@@ -43,13 +39,13 @@
     "chunks_est": 2,
     "content_hash": "89705923d5c219dcfb7ed82419d2367ec831f3f36330331cc0b5637e063a6926"
   },
-  "connect-sharepoint-news-to-optisigns-digital-signage": {
-    "chunks_est": 7,
-    "content_hash": "ed7077ba8443d041ee19da88fd6295008a4c722a769efab6fa9da6335f049272"
-  },
   "creating-and-using-schedules-with-optisigns": {
     "chunks_est": 4,
     "content_hash": "cf9671f21363e13b238aa190ba84e9f1f0027451f9f545f79dd7dd5cf4b9d926"
+  },
+  "device-management-and-mass-provisioning": {
+    "chunks_est": 6,
+    "content_hash": "a89a986a0608f4b9cc241d26e7ed01fc3ad0fccc7762b26c07eae7ebd03d53e6"
   },
   "displaying-sharepoint-sites-on-optisigns": {
     "chunks_est": 3,
@@ -123,10 +119,6 @@
     "chunks_est": 3,
     "content_hash": "76a5449120e4557f711c9e8702c50ba7866a3307a9abc31262bbe73def583839"
   },
-  "how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast": {
-    "chunks_est": 2,
-    "content_hash": "1902dfbd4d5dd8aceb3e73949e83e62c0995479e831371691c2a89018e3c86c7"
-  },
   "how-to-get-the-most-out-of-your-digital-signs": {
     "chunks_est": 1,
     "content_hash": "601ba559142c2c89657f98579ceeb463909b92ec0c7778470da4fe9e7ccf3119"
@@ -155,10 +147,6 @@
     "chunks_est": 1,
     "content_hash": "a3323214d0a99d30b6b29a429bf5637759c8219b4d264bbc6f713cc4e6eee790"
   },
-  "how-to-put-live-tv-on-your-screens-with-optisigns": {
-    "chunks_est": 2,
-    "content_hash": "bfbfd99e8f752c0f13171ae5d6a19ba17889ba8ffd4412d9159a1b15320e68e0"
-  },
   "how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns": {
     "chunks_est": 3,
     "content_hash": "3c8381c607118f08ee7c9e049e34b208841c0b8117c239198c30f883a5cb705e"
@@ -182,14 +170,6 @@
   "how-to-use-google-sheets-with-optisigns": {
     "chunks_est": 4,
     "content_hash": "8c0a1d0c35b0cad113ad53f55dbfc5ec71623e3156ac06ea37a7c4e0396f28c3"
-  },
-  "how-to-use-google-traffic-app": {
-    "chunks_est": 1,
-    "content_hash": "c31074cef85a0daf31a073c81755170e9c6c6ecd6310de368f1dd6c331d2b4f7"
-  },
-  "how-to-use-google-trends-app": {
-    "chunks_est": 2,
-    "content_hash": "3cedd409d51455b3f7d464eed7fb9a67145e19c09bae7620fe901f3213231f80"
   },
   "how-to-use-icloud-calendar-with-optisigns": {
     "chunks_est": 3,
@@ -231,21 +211,33 @@
     "chunks_est": 6,
     "content_hash": "d8b416fef930c94b00ae884408d02d4067906990a75bd959c0fc6009e71a67b8"
   },
+  "how-to-use-the-countdown-app": {
+    "chunks_est": 3,
+    "content_hash": "3fce7d7051911005540d11ed64f834a9effa0ce85ca6cfb372639c043971540e"
+  },
   "how-to-use-the-countup-app": {
     "chunks_est": 3,
-    "content_hash": "c863245d5528c442cd672d96eaaf220618befd2967ae0999a1a2851c72d30ab9"
+    "content_hash": "27d88c6111ebe8b321899edd6645332a6e29018f7ed8874b933a8a9c5a152514"
   },
   "how-to-use-the-dropbox-app": {
     "chunks_est": 3,
     "content_hash": "11290babb648f200c8bc26800580f628aaebe66766d957db586eaef71651d7de"
   },
-  "how-to-use-the-emergency-feed-app": {
+  "how-to-use-the-follow-us-app": {
+    "chunks_est": 2,
+    "content_hash": "4f8ad17dee5816313b13f7120bca935071b55dc01049c97bf36f12c66d96e96f"
+  },
+  "how-to-use-the-instagram-business-app": {
     "chunks_est": 3,
-    "content_hash": "7bab8d800c40fba99217348dec9f0e3652c2bf40108c37d5ec85ff221acb2882"
+    "content_hash": "41bd238655229acf994a75df5872ed5d854ff56d000b45d2b1097598a39575f2"
   },
   "how-to-use-the-jira-app": {
     "chunks_est": 3,
     "content_hash": "49b119b9e708bd2bb67862a78b4adaa5c017299e64c796be17189d66975e7e03"
+  },
+  "how-to-use-the-linkedin-app": {
+    "chunks_est": 3,
+    "content_hash": "1ba096a3b8cfdec0cdb19f6e77e9d0ed872e4fc1c4ac55ac26c3349ce43e6c97"
   },
   "how-to-use-the-local-folder-app-in-optisigns": {
     "chunks_est": 4,
@@ -282,6 +274,14 @@
   "how-to-use-the-slack-app": {
     "chunks_est": 3,
     "content_hash": "b14e3925280dfb943c52d09af034c82248fe48f93cdb90c51d9cb68be7e703b4"
+  },
+  "how-to-use-the-social-mix-app": {
+    "chunks_est": 3,
+    "content_hash": "788d439d1ebf8d7de7a4de1fd09c2ef97625559924dcd08c935c3f21f18de97c"
+  },
+  "how-to-use-the-taggbox-display-app": {
+    "chunks_est": 2,
+    "content_hash": "176ade33ce8efac2cbb26e8b3dd5e5792ec05e7d3c8ffac7b4b186865317b86e"
   },
   "how-to-use-the-trello-app": {
     "chunks_est": 2,
