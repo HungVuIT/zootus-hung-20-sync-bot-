@@ -4,7 +4,7 @@ article_id: 360051495193
 url: https://support.optisigns.com/hc/en-us/articles/360051495193-How-to-Use-the-Instagram-Business-App
 section: "Social Media"
 category: "Apps & Integrations"
-updated_at: 2026-10-15T19:29:03Z
+updated_at: 2026-10-16T21:53:33Z
 ---
 
 # How to Use the Instagram Business App
@@ -34,6 +34,19 @@ Let's get started.
 - Your Instagram account linked to a Facebook Page ([see how](https://support.optisigns.com/hc/en-us/articles/360050855313))
 - An [OptiSigns-enabled device](https://support.optisigns.com/hc/en-us/articles/360021855653)
 - A screen, set up and paired with OptiSigns ([see our Getting Started guide](https://support.optisigns.com/hc/en-us/articles/18823504383891))
+
+---
+
+## Instagram or Instagram Business?
+
+OptiSigns has two Instagram apps. Pick the one that matches what you want to show:
+
+- **Instagram** - Shows the posts from your own Instagram profile. You sign in with Instagram directly. This is the app covered in this article.
+- **Instagram Business** - Shows the posts from any public profile or a hashtag. You connect through Facebook, using an Instagram account linked to a Facebook Page. See [How to Use the Instagram Business App](https://support.optisigns.com/hc/en-us/articles/360051495193).
+
+> **NOTE**
+>
+> Both apps need an Instagram **Business** or **Creator** account. Personal accounts can't be used, as this is Meta's policy. Switching is free and only takes a few clicks ([see how](https://help.instagram.com/502981923235522)).
 
 ---
 

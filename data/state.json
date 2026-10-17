@@ -19,10 +19,6 @@
     "chunks_est": 2,
     "content_hash": "9e0d5758fbc02c4a9fef1802c74ecefb017b9416aed60b92cef510f20a16439c"
   },
-  "assign-content-to-your-screens": {
-    "chunks_est": 1,
-    "content_hash": "597e69cb039d6cbf2cdf11470aa9055ed94f818af95d49471564c7473a8a382f"
-  },
   "billing-how-do-i-change-my-subscription-plan": {
     "chunks_est": 2,
     "content_hash": "a09e6d28c3e3c4d674772c600eeb7d4e1cd069068d08aecd011b0d19fea9131e"
@@ -34,10 +30,6 @@
   "chromeos-pwa-instructions": {
     "chunks_est": 4,
     "content_hash": "ac7d6bcb6e43078fde9af2d384d6835f32bef784bd4e5bd0ea603d74cdd2ed20"
-  },
-  "configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices": {
-    "chunks_est": 2,
-    "content_hash": "89705923d5c219dcfb7ed82419d2367ec831f3f36330331cc0b5637e063a6926"
   },
   "creating-and-using-schedules-with-optisigns": {
     "chunks_est": 4,
@@ -83,21 +75,21 @@
     "chunks_est": 3,
     "content_hash": "e4f3a16f005d9fb2cc9a1f5beb37412dbe81fc6bcfe1e53c939d4bb124650202"
   },
-  "how-to-create-and-use-virtual-screen-app": {
-    "chunks_est": 1,
-    "content_hash": "0506b8d2764ba4afe24ca01283dcce95eda686c815e4840441924fa48f24ff60"
-  },
   "how-to-create-use-playlists": {
     "chunks_est": 2,
     "content_hash": "06389e893476f93c3f51ad6066b6ae48cbbe2ed342849edb794b0cac206e71f8"
   },
-  "how-to-delete-your-account-from-optisigns": {
-    "chunks_est": 1,
-    "content_hash": "7bb39003de42a9251d41dd73da877179ca8f9e19315bd22b85b5727b6ba670ec"
-  },
   "how-to-display-a-smartsheet-report-on-optisigns": {
     "chunks_est": 2,
     "content_hash": "4533e645271344d4dcdde15f34eb1d9497da31125b874d1de7bbfcf3eb2d181b"
+  },
+  "how-to-display-content-from-websites-that-require-a-login": {
+    "chunks_est": 3,
+    "content_hash": "2eb1ce4e91b1e18974250011121a35c5d80ff128c30b1200f96360e3c908256e"
+  },
+  "how-to-display-datadog-dashboards-on-optisigns": {
+    "chunks_est": 5,
+    "content_hash": "b01a66bfed1250a961c2f0957547f84cf2333e4130fdae8219cd4cc534a76caa"
   },
   "how-to-display-grafana-dashboards-on-optisigns": {
     "chunks_est": 14,
@@ -113,7 +105,7 @@
   },
   "how-to-display-salesforce-dashboards-and-reports-on-optisigns": {
     "chunks_est": 9,
-    "content_hash": "2753dab1b62dd9be2bdb4141b0b72b0c9a51931e964f9e7a2932109f54f6f8a7"
+    "content_hash": "a267e4f25dea7d18522d69bc50ddf892fbcad98c891e9fe187869376418204b5"
   },
   "how-to-display-vimeo-videos-with-optisigns": {
     "chunks_est": 3,
@@ -167,10 +159,6 @@
     "chunks_est": 2,
     "content_hash": "64616c177e7c6ca75de4c186f60594b8af579034a85fa7362cebdf340b62df6e"
   },
-  "how-to-use-google-sheets-with-optisigns": {
-    "chunks_est": 4,
-    "content_hash": "8c0a1d0c35b0cad113ad53f55dbfc5ec71623e3156ac06ea37a7c4e0396f28c3"
-  },
   "how-to-use-icloud-calendar-with-optisigns": {
     "chunks_est": 3,
     "content_hash": "4d5f99841063e376db502c6015a85ce9a933d5c159608544d4a14de50b8ce30f"
@@ -199,6 +187,10 @@
     "chunks_est": 3,
     "content_hash": "a8212ed0ab74784a1db851b9233f80d1e4ecba63a155aa4d0e3dbcd882c58d34"
   },
+  "how-to-use-the-air-quality-index-app": {
+    "chunks_est": 3,
+    "content_hash": "fad514e14693cfcee27a95f9124a8aa0dcba7e09981857ab3b043ba556685efb"
+  },
   "how-to-use-the-asana-app": {
     "chunks_est": 2,
     "content_hash": "403a9bf40f90cbf96815f7ededc7ea111ec5504b6976a0522651606ab10c6f71"
@@ -206,10 +198,6 @@
   "how-to-use-the-calendar-mix-app": {
     "chunks_est": 2,
     "content_hash": "5506b50ee0d3706d4f29c981cb642527a35d5c60b58ec8f6292b04141ef6b488"
-  },
-  "how-to-use-the-cap-alert-app": {
-    "chunks_est": 6,
-    "content_hash": "d8b416fef930c94b00ae884408d02d4067906990a75bd959c0fc6009e71a67b8"
   },
   "how-to-use-the-countdown-app": {
     "chunks_est": 3,
@@ -221,15 +209,31 @@
   },
   "how-to-use-the-dropbox-app": {
     "chunks_est": 3,
-    "content_hash": "11290babb648f200c8bc26800580f628aaebe66766d957db586eaef71651d7de"
+    "content_hash": "4ead646ebbacdeb5573178bcf65844122f765d86b04b86ab246cec12f79f80c3"
+  },
+  "how-to-use-the-eventbrite-events-app": {
+    "chunks_est": 4,
+    "content_hash": "ad911ab3063ca59a62bf3d2df18e2ac95a9ae7a02e07f25babc008cb69105d3a"
   },
   "how-to-use-the-follow-us-app": {
     "chunks_est": 2,
     "content_hash": "4f8ad17dee5816313b13f7120bca935071b55dc01049c97bf36f12c66d96e96f"
   },
-  "how-to-use-the-instagram-business-app": {
+  "how-to-use-the-google-drive-app": {
     "chunks_est": 3,
-    "content_hash": "41bd238655229acf994a75df5872ed5d854ff56d000b45d2b1097598a39575f2"
+    "content_hash": "0eae10dc5e8b17186b039aad7b5c1e3d9373cc4c4085a248fdde5d34672bf9ac"
+  },
+  "how-to-use-the-google-reviews-app": {
+    "chunks_est": 5,
+    "content_hash": "4870f82d347763c18a9487f57e831f96c72775722fa31dc4f2f54775aa9948b3"
+  },
+  "how-to-use-the-instagram-app": {
+    "chunks_est": 3,
+    "content_hash": "d34f49836eef335639f37fba09cd8f6b3c6d52990a4fe1904818aa2217e77cf5"
+  },
+  "how-to-use-the-instagram-business-app": {
+    "chunks_est": 4,
+    "content_hash": "418d79c9c947d3179a93b1bfb1026ea83e1d8e49c2cbd864d37d362c15e856a3"
   },
   "how-to-use-the-jira-app": {
     "chunks_est": 3,
@@ -269,7 +273,11 @@
   },
   "how-to-use-the-onedrive-app": {
     "chunks_est": 3,
-    "content_hash": "ad63f2a491b7a4abe4ebc0ae4becf3ee5b669650172bbfd1cebe91ac350c0b07"
+    "content_hash": "027cb5b07d20240ecd654dc0a23c7f8d4a957c9b087c8928e432c3a0de881d3f"
+  },
+  "how-to-use-the-optisigns-mobile-admin-app": {
+    "chunks_est": 5,
+    "content_hash": "2ff3c76ffb1d400f3adc50fb619e73b940d7a1819f15372738996e522774ba8b"
   },
   "how-to-use-the-slack-app": {
     "chunks_est": 3,
@@ -323,6 +331,10 @@
     "chunks_est": 1,
     "content_hash": "55658a7d88476622ba2721e64766fbb4c2aeb541014fd29bb516efe8bde6bca6"
   },
+  "kiosk10": {
+    "chunks_est": 4,
+    "content_hash": "f93c78a96614af1cfe200e368f8866c07297f45538e1952dc1dec606c3bfd2ad"
+  },
   "lg-webos-signage-commercial-grade": {
     "chunks_est": 3,
     "content_hash": "aa2a9be0f3c7cb9e978e39137ec6876ab0e0e0a3428c003e47f8a70ab2300d50"
@@ -335,17 +347,9 @@
     "chunks_est": 7,
     "content_hash": "b382bfe3cceb182e15dfbf34d23fb256301ce9c35def15670b929071d292cdce"
   },
-  "multilingual-and-multi-currency-options": {
-    "chunks_est": 1,
-    "content_hash": "446b53d239080cb209ed947296751a841b0511525d5d267cf9eee34ed5782033"
-  },
   "optisigns-getting-started-guide": {
     "chunks_est": 2,
     "content_hash": "efdeba827c40e1fd9b655f4c2f9f610cf1347a81c8dbcd041e20406b6509316e"
-  },
-  "optisigns-pro-player-advanced-features": {
-    "chunks_est": 6,
-    "content_hash": "2b72c258433cfc377db7da9877d8144df77997d5bd7b83cbf8200f5667aa1432"
   },
   "optisigns-pro-promax-player-troubleshooting-guide": {
     "chunks_est": 5,
@@ -386,10 +390,6 @@
   "where-to-buy-optisigns-devices": {
     "chunks_est": 3,
     "content_hash": "cfdb75094441f0953efa6725415d0fcb0e02af3194e122a4b4ffb85034c7272c"
-  },
-  "whitelist-optisigns-ip-addresses-ports": {
-    "chunks_est": 2,
-    "content_hash": "cadace583a49acb85c16c9143f29d65f7574cea9b14c697c05fc858f268e5ef0"
   },
   "windows": {
     "chunks_est": 1,
