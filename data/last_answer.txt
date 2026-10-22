@@ -1,15 +1,14 @@
-08:34:45 INFO    Using existing File Search store fileSearchStores/optibotkb-f1z0zlwv85nu (optibot-kb)
-08:34:45 WARNING Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
-08:34:47 WARNING generate_content failed (503); retry 1/3 in 5s
+08:37:07 INFO    Using existing File Search store fileSearchStores/optibotkb-f1z0zlwv85nu (optibot-kb)
+08:37:07 WARNING Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
 Q: How do I add a YouTube video?
 
 To add a YouTube video to OptiSigns, follow these steps:
 
-* Log in to the OptiSigns portal, go to **Files/Assets**, and click **Apps**.
-* Search for **YouTube** and select the **YouTube** app.
-* Paste your video link into the **URL** field (supports standard video, share, or Shorts links) and enter an optional **Name**.
-* (Optional) Configure **Display options** (captions, mute) or **Playback options** (start/end times).
-* Click **Save** to add the video to your assets, then assign it to your screen, playlist, or schedule.
+1. Log in to the OptiSigns portal, navigate to **Files/Assets**, and click **Apps**.
+2. Search for **YouTube** and select the **YouTube** app.
+3. Enter a **Name** (optional) and paste the YouTube video **URL** (supports regular video, share, or Shorts links).
+4. (Optional) Configure **Display options** (Captions, Mute) or **Playback options** (Start At, End At).
+5. Click **Save** to create the asset, which you can then assign to your screens, playlists, or schedules.
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns
 

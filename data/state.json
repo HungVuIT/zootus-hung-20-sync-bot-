@@ -27,6 +27,10 @@
     "chunks_est": 5,
     "content_hash": "ef5d687dc8e9c777825a5c072665ef995c24e3dad94d840545c6f923de000a73"
   },
+  "cannot-find-the-optisigns-app-on-your-samsung-smart-tv": {
+    "chunks_est": 1,
+    "content_hash": "f4f405f0ce511cc6d86c5c4225a9e9913354d3318bbd8fba26d6e963ab391c2a"
+  },
   "chromeos-pwa-instructions": {
     "chunks_est": 4,
     "content_hash": "ac7d6bcb6e43078fde9af2d384d6835f32bef784bd4e5bd0ea603d74cdd2ed20"
@@ -242,10 +246,6 @@
   "how-to-use-the-linkedin-app": {
     "chunks_est": 3,
     "content_hash": "1ba096a3b8cfdec0cdb19f6e77e9d0ed872e4fc1c4ac55ac26c3349ce43e6c97"
-  },
-  "how-to-use-the-local-folder-app-in-optisigns": {
-    "chunks_est": 4,
-    "content_hash": "441711ac59663e76cb24eb43b6ac035742240d56e085b2e64fdf5124eef7fa71"
   },
   "how-to-use-the-matterport-app": {
     "chunks_est": 2,
