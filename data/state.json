@@ -23,10 +23,6 @@
     "chunks_est": 2,
     "content_hash": "a09e6d28c3e3c4d674772c600eeb7d4e1cd069068d08aecd011b0d19fea9131e"
   },
-  "broadcast-send-scheduled-snapshots-of-your-dashboards": {
-    "chunks_est": 5,
-    "content_hash": "ef5d687dc8e9c777825a5c072665ef995c24e3dad94d840545c6f923de000a73"
-  },
   "cannot-find-the-optisigns-app-on-your-samsung-smart-tv": {
     "chunks_est": 1,
     "content_hash": "f4f405f0ce511cc6d86c5c4225a9e9913354d3318bbd8fba26d6e963ab391c2a"
@@ -54,6 +50,10 @@
   "edit-screen-what-does-each-option-do": {
     "chunks_est": 4,
     "content_hash": "883d2fa148e2996fb915227cde9b5116ef8ffc873d1f1fb0c1efa30de18a18e5"
+  },
+  "error-handling": {
+    "chunks_est": 1,
+    "content_hash": "89e94209988144d8a478cf074038cd2b1f5229075dba9c3019070dcbf326604a"
   },
   "how-to-add-google-sheets-as-a-datasource-for-optisync": {
     "chunks_est": 2,
@@ -351,6 +351,10 @@
     "chunks_est": 7,
     "content_hash": "b382bfe3cceb182e15dfbf34d23fb256301ce9c35def15670b929071d292cdce"
   },
+  "operational-schedule-troubleshooting": {
+    "chunks_est": 4,
+    "content_hash": "d7faaac1b17e2ee787a7daf3b1c8dc3e0ff58d3805bcf67e5cd4113317342608"
+  },
   "optisigns-getting-started-guide": {
     "chunks_est": 2,
     "content_hash": "efdeba827c40e1fd9b655f4c2f9f610cf1347a81c8dbcd041e20406b6509316e"
@@ -362,10 +366,6 @@
   "powerpoint-resolution-size-for-use-with-digital-signage": {
     "chunks_est": 2,
     "content_hash": "9235542a87547d1d4612d223a8f29ef013d8a80914664eb970313b3620b6acd1"
-  },
-  "using-the-flight-schedule-app": {
-    "chunks_est": 5,
-    "content_hash": "91eee5c30dfa1d75f666934c1acbc5f563ec7cbb89b74016b365ed9ff3e3453c"
   },
   "using-the-x-social-app-add-on": {
     "chunks_est": 5,
