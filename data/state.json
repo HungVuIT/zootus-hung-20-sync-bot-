@@ -131,6 +131,10 @@
     "chunks_est": 1,
     "content_hash": "6047682995b7a261cf934dc6516b82b5542005889cc7738477d7c540b565bb60"
   },
+  "how-to-lockdown-ipad-single-app-with-guided-accessibility": {
+    "chunks_est": 1,
+    "content_hash": "68211e527b258a4d2d4190987141edb78ca85c78747f656939b698ea4e647815"
+  },
   "how-to-manage-and-edit-your-playlist-settings": {
     "chunks_est": 4,
     "content_hash": "9c6db8caa1fe6deec187a09bbf7c58ff264d46481f65468b188af64e575758da"
@@ -386,10 +390,6 @@
   "what-types-of-files-are-supported": {
     "chunks_est": 1,
     "content_hash": "6005c455c9c75959ae00757679eeca2a537eac313288a08d9e4784a40729e4c9"
-  },
-  "where-to-buy-optisigns-devices": {
-    "chunks_est": 3,
-    "content_hash": "cfdb75094441f0953efa6725415d0fcb0e02af3194e122a4b4ffb85034c7272c"
   },
   "windows": {
     "chunks_est": 1,
