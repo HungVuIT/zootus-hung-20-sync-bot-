@@ -15,6 +15,10 @@
     "chunks_est": 3,
     "content_hash": "7c5317722211d945d4790192e4670dad6eea80f439321a83d5c9fe395c4ce5ae"
   },
+  "amazon-signage-stick": {
+    "chunks_est": 2,
+    "content_hash": "ddb1a61d33550fed4f830909bd2eca03e3ad06f2a344cdca72c332ae5a1748cd"
+  },
   "amazon-tv-firestick-troubleshooting-guide": {
     "chunks_est": 2,
     "content_hash": "9e0d5758fbc02c4a9fef1802c74ecefb017b9416aed60b92cef510f20a16439c"
@@ -370,10 +374,6 @@
   "powerpoint-resolution-size-for-use-with-digital-signage": {
     "chunks_est": 2,
     "content_hash": "9235542a87547d1d4612d223a8f29ef013d8a80914664eb970313b3620b6acd1"
-  },
-  "using-the-x-social-app-add-on": {
-    "chunks_est": 5,
-    "content_hash": "a8101487ef506808c2442b01fe0662683f30e17ec50e55a41945e615f34009d9"
   },
   "video-codec-or-video-playback-issues": {
     "chunks_est": 2,
