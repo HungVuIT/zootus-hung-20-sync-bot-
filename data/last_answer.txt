@@ -1,17 +1,17 @@
-08:55:33 INFO    Using existing File Search store fileSearchStores/optibotkb-f1z0zlwv85nu (optibot-kb)
-08:55:33 WARNING Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+08:59:47 INFO    Using existing File Search store fileSearchStores/optibotkb-f1z0zlwv85nu (optibot-kb)
+08:59:47 WARNING Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+08:59:55 WARNING generate_content failed (503); retry 1/3 in 5s
 Q: How do I add a YouTube video?
 
-To add a YouTube video in OptiSigns, follow these steps:
+To add a YouTube video or Short to OptiSigns, follow these steps:
 
-* Copy the URL of the YouTube video you wish to display.
-* Log in to the OptiSigns portal, navigate to **Files/Assets**, and click **Apps**.
+* Log in to the OptiSigns portal, go to **Files/Assets**, and click **Apps**.
 * Search for **YouTube** and select the **YouTube** app.
-* Fill in an asset **Name**, paste your video link into the URL field, and click **Save**.
-* Assign the created YouTube asset to your screen, playlist, or schedule.
+* Enter an optional **Name** and paste your YouTube video link in the **URL** field (supports regular, share, or Shorts links).
+* (Optional) Configure **Display options** (captions, mute) or **Playback options** (set start/end times).
+* Click **Save**, then assign the YouTube asset to your screen, playlist, or schedule.
+
+Article URL: https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns
 
 Grounding sources:
-  - how-to-display-vimeo-videos-with-optisigns.md  https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns
-  - how-to-use-the-twitch-app.md  https://support.optisigns.com/hc/en-us/articles/360046859534-How-to-Use-the-Twitch-App
-  - what-do-i-get-with-an-optisigns-free-plan.md
-  - how-to-create-use-playlists.md  https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists
+  - how-to-use-youtube-with-optisigns.md  https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns

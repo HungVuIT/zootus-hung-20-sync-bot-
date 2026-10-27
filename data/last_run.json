@@ -1,20 +1,20 @@
 {
-  "run_at": "2026-10-26T08:55:31+00:00",
-  "duration_s": 10.0,
+  "run_at": "2026-10-27T08:59:46+00:00",
+  "duration_s": 8.0,
   "scraped": 100,
-  "added": 2,
+  "added": 3,
   "updated": 0,
-  "skipped": 98,
-  "removed": 2,
+  "skipped": 97,
+  "removed": 3,
   "failed": 0,
-  "embedded_files": 2,
-  "embedded_chunks_est": 7,
+  "embedded_files": 3,
+  "embedded_chunks_est": 5,
   "store": {
     "name": "fileSearchStores/optibotkb-f1z0zlwv85nu",
     "active_documents": 100,
     "pending_documents": null,
     "failed_documents": null,
-    "size_bytes": 671567
+    "size_bytes": 658660
   },
   "chunking": {
     "max_tokens_per_chunk": 400,
