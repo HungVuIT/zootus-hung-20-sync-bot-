@@ -27,10 +27,6 @@
     "chunks_est": 2,
     "content_hash": "9e0d5758fbc02c4a9fef1802c74ecefb017b9416aed60b92cef510f20a16439c"
   },
-  "billing-how-do-i-change-my-subscription-plan": {
-    "chunks_est": 2,
-    "content_hash": "a09e6d28c3e3c4d674772c600eeb7d4e1cd069068d08aecd011b0d19fea9131e"
-  },
   "build-integrations-using-the-optisigns-enterprise-app": {
     "chunks_est": 4,
     "content_hash": "67622a5cd0aa1d341311102e534723eb87cd15c9df1a07fa86cac908a92c0b02"
@@ -322,6 +318,10 @@
   "how-to-use-the-weather-radar-app": {
     "chunks_est": 3,
     "content_hash": "1fbd1dfe048ddd0b5a149a4b4cb7c323162e4b41b3a495a569e2773ad36b74f2"
+  },
+  "how-to-use-the-web-scripting-app": {
+    "chunks_est": 4,
+    "content_hash": "7a8918cb6af8b1e9c31dd6e458a979b1e30115ee336254033f93fe2c4ba53d8c"
   },
   "how-to-use-the-zendesk-app": {
     "chunks_est": 2,
