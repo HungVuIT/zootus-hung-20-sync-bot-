@@ -7,6 +7,10 @@
     "chunks_est": 1,
     "content_hash": "240c3f910ab25e4122e7563d2e02f0254349aa6271dbe4f99055aefa91cda43f"
   },
+  "advanced-custom-domain-mapping": {
+    "chunks_est": 2,
+    "content_hash": "00bcea49b559adce35c85e9e3226f081713878a96a314ac5f0b3f49608bd3886"
+  },
   "advanced-enforce-sso-login-for-your-account": {
     "chunks_est": 2,
     "content_hash": "b6a62b6667587cf8e70b1a9f9ef07d82f26f534fb1758c853e9e2c7144a55e89"
@@ -26,6 +30,10 @@
   "amazon-tv-firestick-troubleshooting-guide": {
     "chunks_est": 2,
     "content_hash": "9e0d5758fbc02c4a9fef1802c74ecefb017b9416aed60b92cef510f20a16439c"
+  },
+  "android-tv-chromecast": {
+    "chunks_est": 2,
+    "content_hash": "6874fa8d53cba7c61623f578a2c1977d232bcc34ae9913ea305e857d8ca76f2b"
   },
   "build-integrations-using-the-optisigns-enterprise-app": {
     "chunks_est": 4,
@@ -47,6 +55,10 @@
     "chunks_est": 4,
     "content_hash": "cf9671f21363e13b238aa190ba84e9f1f0027451f9f545f79dd7dd5cf4b9d926"
   },
+  "custom-branding-settings-and-branded-portals": {
+    "chunks_est": 3,
+    "content_hash": "36a9777767f8ee946eda699a1b71be7826e36f9717df6179a6fdcbcef0bcc519"
+  },
   "device-management-and-mass-provisioning": {
     "chunks_est": 6,
     "content_hash": "a89a986a0608f4b9cc241d26e7ed01fc3ad0fccc7762b26c07eae7ebd03d53e6"
@@ -66,6 +78,10 @@
   "error-handling": {
     "chunks_est": 1,
     "content_hash": "89e94209988144d8a478cf074038cd2b1f5229075dba9c3019070dcbf326604a"
+  },
+  "fireos-tvs-amazon-insigna-toshiba-tcl": {
+    "chunks_est": 2,
+    "content_hash": "4c4446da92aefbb6fc229225cb10cd75ced216ae71bde87d508e217f4e75c910"
   },
   "how-to-best-use-canva-with-optisigns": {
     "chunks_est": 4,
@@ -110,10 +126,6 @@
   "how-to-display-grafana-dashboards-on-optisigns": {
     "chunks_est": 14,
     "content_hash": "09939e8608846537e84ea12328a5fdea769351f366b33020d78b5ddf271cc23d"
-  },
-  "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns": {
-    "chunks_est": 8,
-    "content_hash": "fc43f784d1b4d7fd4c26b8035223f6a86b4e31928939a0844bc46f9394247b8d"
   },
   "how-to-display-microsoft-teams-chat-on-optisigns": {
     "chunks_est": 2,
@@ -163,10 +175,6 @@
     "chunks_est": 1,
     "content_hash": "a3323214d0a99d30b6b29a429bf5637759c8219b4d264bbc6f713cc4e6eee790"
   },
-  "how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns": {
-    "chunks_est": 3,
-    "content_hash": "3c8381c607118f08ee7c9e049e34b208841c0b8117c239198c30f883a5cb705e"
-  },
   "how-to-use-aericast-add-on-for-wireless-presentation-and-video-conferencing": {
     "chunks_est": 3,
     "content_hash": "7ffd5bca4c790a698a8b1a41cd03f0010d1c2fbe5d37ab7af4857bb55f0ceaba"
@@ -175,37 +183,17 @@
     "chunks_est": 1,
     "content_hash": "8be8f18bde00ebd131d59c31865cca577b89f369146bde4e9a86b4f20101861c"
   },
-  "how-to-use-check-in-app-with-sms-follow-up": {
-    "chunks_est": 4,
-    "content_hash": "49f494f53dc07f263af15ad32cf7c4a2e4b1e1c846fd4e1d5be904e0b8f424f2"
-  },
   "how-to-use-icloud-calendar-with-optisigns": {
     "chunks_est": 3,
     "content_hash": "4d5f99841063e376db502c6015a85ce9a933d5c159608544d4a14de50b8ce30f"
-  },
-  "how-to-use-microsoft-excel-online-with-optisigns": {
-    "chunks_est": 3,
-    "content_hash": "b3d6f95cdf623711493a7b76735142327af345a4b2df209aabe44ba46a06603e"
   },
   "how-to-use-microsoft-outlook-calendar-with-optisigns": {
     "chunks_est": 4,
     "content_hash": "a94550e4b4dd4e0273011889c611ca14f43f3edb259872d6d92ec7303659b9d6"
   },
-  "how-to-use-microsoft-powerpoint-with-optisigns": {
-    "chunks_est": 3,
-    "content_hash": "7b1479913440908f372e0b42eda6aeb613fadd34c356b0876db7737ea124405f"
-  },
-  "how-to-use-microsoft-teams-live-app-with-optisigns": {
-    "chunks_est": 2,
-    "content_hash": "a168208f704dfd6b5e01537125e4c4d53ab856c48872c1cfe9c33e43e70de231"
-  },
   "how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes": {
     "chunks_est": 3,
     "content_hash": "6abd88440617c0d817d2f1bf078a1a0eca1c8759ec04968883464711e4c30ccf"
-  },
-  "how-to-use-optisigns-with-microsoft-teams-rooms": {
-    "chunks_est": 3,
-    "content_hash": "a8212ed0ab74784a1db851b9233f80d1e4ecba63a155aa4d0e3dbcd882c58d34"
   },
   "how-to-use-the-air-quality-index-app": {
     "chunks_est": 3,
@@ -315,10 +303,6 @@
     "chunks_est": 2,
     "content_hash": "b6b448cfcddfbf9f5b30e13f25d6b25c2309cce119bbdb77a862f858ad5c79b7"
   },
-  "how-to-use-the-weather-radar-app": {
-    "chunks_est": 3,
-    "content_hash": "1fbd1dfe048ddd0b5a149a4b4cb7c323162e4b41b3a495a569e2773ad36b74f2"
-  },
   "how-to-use-the-web-scripting-app": {
     "chunks_est": 4,
     "content_hash": "7a8918cb6af8b1e9c31dd6e458a979b1e30115ee336254033f93fe2c4ba53d8c"
@@ -335,13 +319,13 @@
     "chunks_est": 5,
     "content_hash": "113b87db54fca282f34612ff40b149c4ceec8569d27dbb703ddabbc9f37e399c"
   },
+  "how-to-use-youtube-live-schedule-with-optisigns": {
+    "chunks_est": 3,
+    "content_hash": "3dc5fd4a426c0a20e0a66767a2d609145521f142efd4d7f0d7900dc2389df824"
+  },
   "how-to-use-youtube-with-optisigns": {
     "chunks_est": 3,
     "content_hash": "ca8662a2dc04b15865d3070cbea8764e20917700bbf7d4e1f99b72dc01f8f52d"
-  },
-  "kiosk-setup-hub": {
-    "chunks_est": 1,
-    "content_hash": "55658a7d88476622ba2721e64766fbb4c2aeb541014fd29bb516efe8bde6bca6"
   },
   "kiosk10": {
     "chunks_est": 4,
@@ -351,9 +335,17 @@
     "chunks_est": 3,
     "content_hash": "aa2a9be0f3c7cb9e978e39137ec6876ab0e0e0a3428c003e47f8a70ab2300d50"
   },
+  "linux": {
+    "chunks_est": 3,
+    "content_hash": "2e86faab59115fbe11a07be9a745c213fbb4b1541ae67c71f9dc4e3f2b7c2c97"
+  },
   "list-of-supported-cities-for-weather-wall-city-themes": {
     "chunks_est": 1,
     "content_hash": "0d43883ef8d260c01b2957d9145d9d9b90d1aded2d8f940661bdb4d0b5c8088d"
+  },
+  "macos": {
+    "chunks_est": 2,
+    "content_hash": "47860f7f09701fa1c7c980a0edc98382da152d7c6268e8c2b01f8f57d94437f1"
   },
   "making-a-video-wall-with-optisigns-video-wall-app": {
     "chunks_est": 7,
@@ -371,9 +363,17 @@
     "chunks_est": 5,
     "content_hash": "4a01a19fedffb6a24c1121c4f0bb85c8cc2e6f3812ff450d4d6990655c9bf87c"
   },
+  "optistick": {
+    "chunks_est": 3,
+    "content_hash": "6b077b438af313793b1880deecfdefdd35db17102ceca9fee13e9dd6267e369f"
+  },
   "powerpoint-resolution-size-for-use-with-digital-signage": {
     "chunks_est": 2,
     "content_hash": "9235542a87547d1d4612d223a8f29ef013d8a80914664eb970313b3620b6acd1"
+  },
+  "preventing-the-optisigns-app-from-turning-on-your-screen": {
+    "chunks_est": 2,
+    "content_hash": "58243243f769713f9ced646aca9a11a3725674bdaa59c65c0f36afc153800c61"
   },
   "video-codec-or-video-playback-issues": {
     "chunks_est": 2,
@@ -381,7 +381,7 @@
   },
   "what-do-i-get-with-an-optisigns-free-plan": {
     "chunks_est": 3,
-    "content_hash": "3c58bb524ca8b0c006e7ea67c21702d14924b86b24a5d330f98b17aebedf9f4b"
+    "content_hash": "81bc3c77f2613f06de57dda9c4ff1e0aa3459148ad309471f227d71c4b75cb8a"
   },
   "what-hardware-and-devices-are-supported": {
     "chunks_est": 1,
@@ -392,8 +392,8 @@
     "content_hash": "6005c455c9c75959ae00757679eeca2a537eac313288a08d9e4784a40729e4c9"
   },
   "windows": {
-    "chunks_est": 1,
-    "content_hash": "ec5aec051e28791eeb3986c1efb5c0432089c16d74a50f1a1c9afb85f47568dd"
+    "chunks_est": 2,
+    "content_hash": "fd4f6e1d64b054c3dc35ecb6fdb8df651af746605372c61370c26279f49211dd"
   },
   "working-with-teams-and-security-levels": {
     "chunks_est": 2,
