@@ -25,7 +25,7 @@
   },
   "amazon-signage-stick": {
     "chunks_est": 2,
-    "content_hash": "ddb1a61d33550fed4f830909bd2eca03e3ad06f2a344cdca72c332ae5a1748cd"
+    "content_hash": "848cda569280ea7a400e9063b8b83779cb2366a41eb6244be95e950a9340bde1"
   },
   "amazon-tv-firestick-troubleshooting-guide": {
     "chunks_est": 2,
@@ -34,6 +34,10 @@
   "android-tv-chromecast": {
     "chunks_est": 2,
     "content_hash": "6874fa8d53cba7c61623f578a2c1977d232bcc34ae9913ea305e857d8ca76f2b"
+  },
+  "brightsign-players": {
+    "chunks_est": 3,
+    "content_hash": "632f7673e588cad9ba2d0b89100e22123961b6292e97aaae50742dc296db7eb8"
   },
   "build-integrations-using-the-optisigns-enterprise-app": {
     "chunks_est": 4,
@@ -62,10 +66,6 @@
   "device-management-and-mass-provisioning": {
     "chunks_est": 6,
     "content_hash": "a89a986a0608f4b9cc241d26e7ed01fc3ad0fccc7762b26c07eae7ebd03d53e6"
-  },
-  "displaying-sharepoint-sites-on-optisigns": {
-    "chunks_est": 3,
-    "content_hash": "b415b98430d54537f74d77c3e44b66af0a45fe4a2f28a594b9c4547d78b2abca"
   },
   "does-optisigns-offer-non-profit-education-discount": {
     "chunks_est": 1,
@@ -127,10 +127,6 @@
     "chunks_est": 14,
     "content_hash": "09939e8608846537e84ea12328a5fdea769351f366b33020d78b5ddf271cc23d"
   },
-  "how-to-display-microsoft-teams-chat-on-optisigns": {
-    "chunks_est": 2,
-    "content_hash": "547df11f779804bd25d19003044d4a0066db769511df7d109a57876dac2bfcc1"
-  },
   "how-to-display-salesforce-dashboards-and-reports-on-optisigns": {
     "chunks_est": 9,
     "content_hash": "a267e4f25dea7d18522d69bc50ddf892fbcad98c891e9fe187869376418204b5"
@@ -146,14 +142,6 @@
   "how-to-install-an-apk-file-on-your-fire-tv": {
     "chunks_est": 1,
     "content_hash": "911a9fb00c293b6b3bbd83f7c78437c88033db852cc488d90ccbfc6f6e4dc3c8"
-  },
-  "how-to-install-optisigns-as-channel-app-on-roku": {
-    "chunks_est": 2,
-    "content_hash": "61824d1fbd2d00dee0d31c3e21157a3a6dfb7425068ca11787361f5b9901dd6a"
-  },
-  "how-to-integrate-bonusly-digital-signage-with-optisigns": {
-    "chunks_est": 1,
-    "content_hash": "6047682995b7a261cf934dc6516b82b5542005889cc7738477d7c540b565bb60"
   },
   "how-to-lockdown-ipad-single-app-with-guided-accessibility": {
     "chunks_est": 1,
@@ -182,14 +170,6 @@
   "how-to-use-airtable-with-optisigns": {
     "chunks_est": 1,
     "content_hash": "8be8f18bde00ebd131d59c31865cca577b89f369146bde4e9a86b4f20101861c"
-  },
-  "how-to-use-icloud-calendar-with-optisigns": {
-    "chunks_est": 3,
-    "content_hash": "4d5f99841063e376db502c6015a85ce9a933d5c159608544d4a14de50b8ce30f"
-  },
-  "how-to-use-microsoft-outlook-calendar-with-optisigns": {
-    "chunks_est": 4,
-    "content_hash": "a94550e4b4dd4e0273011889c611ca14f43f3edb259872d6d92ec7303659b9d6"
   },
   "how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes": {
     "chunks_est": 3,
@@ -250,10 +230,6 @@
   "how-to-use-the-matterport-app": {
     "chunks_est": 2,
     "content_hash": "cf19db86481d534a7652bad5ed24dbedab596fc8d2ca3918ab7aeac718427ce1"
-  },
-  "how-to-use-the-microsoft-teams-meeting-app": {
-    "chunks_est": 1,
-    "content_hash": "97d943ddac7ae0a98460e09994a1ac9a1fc013694604e28469dd0cb6efa6ba22"
   },
   "how-to-use-the-mindmeister-app": {
     "chunks_est": 2,
@@ -327,13 +303,25 @@
     "chunks_est": 3,
     "content_hash": "ca8662a2dc04b15865d3070cbea8764e20917700bbf7d4e1f99b72dc01f8f52d"
   },
+  "install-optisigns-as-channel-or-app-on-roku": {
+    "chunks_est": 3,
+    "content_hash": "ad33d0a20fa0537079cca2d2981924669401eda6c630d8664d45dbd5698f0d83"
+  },
+  "installing-optisigns-on-samsung-tizen-smart-tvs": {
+    "chunks_est": 2,
+    "content_hash": "0ce03ea33dfc890e982b032d2d18126af8258f785490b4d89e8b223cd9234bef"
+  },
   "kiosk10": {
     "chunks_est": 4,
     "content_hash": "f93c78a96614af1cfe200e368f8866c07297f45538e1952dc1dec606c3bfd2ad"
   },
   "lg-webos-signage-commercial-grade": {
-    "chunks_est": 3,
-    "content_hash": "aa2a9be0f3c7cb9e978e39137ec6876ab0e0e0a3428c003e47f8a70ab2300d50"
+    "chunks_est": 5,
+    "content_hash": "a4a899a60fecce10618223ff87d7a1b0a986ab3ed8e1c6389c72043f9d3eb23c"
+  },
+  "lg-webos-smart-tvs-consumer-grade": {
+    "chunks_est": 2,
+    "content_hash": "fbe0896917f036fb20b223e3c2a18fc5d130160151d11d6be89fb902bf2d29a3"
   },
   "linux": {
     "chunks_est": 3,
@@ -375,6 +363,14 @@
     "chunks_est": 2,
     "content_hash": "58243243f769713f9ced646aca9a11a3725674bdaa59c65c0f36afc153800c61"
   },
+  "raspberry-pi": {
+    "chunks_est": 4,
+    "content_hash": "3a5ff9f460d4cbd7488ea4dda3ff03f832a5f32140d81e0301bebf6e6b9f34cc"
+  },
+  "setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade": {
+    "chunks_est": 5,
+    "content_hash": "c7fdce1f2990bd7a69e2225c4376373f5634d172222fdbafd1ba424f19e6286b"
+  },
   "video-codec-or-video-playback-issues": {
     "chunks_est": 2,
     "content_hash": "03c93789aae038f0e82d16a1c89c43d6b471de4f9e40c822722f517e0646ad1c"
@@ -390,6 +386,10 @@
   "what-types-of-files-are-supported": {
     "chunks_est": 1,
     "content_hash": "6005c455c9c75959ae00757679eeca2a537eac313288a08d9e4784a40729e4c9"
+  },
+  "where-to-buy-optisigns-devices": {
+    "chunks_est": 4,
+    "content_hash": "2ffe661bd70ca6866fe7035844e3b5d8d3c0a8fafeabb7735265cb2945cc47c7"
   },
   "windows": {
     "chunks_est": 2,
