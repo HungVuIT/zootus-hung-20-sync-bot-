@@ -4,7 +4,7 @@ article_id: 360016388733
 url: https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-Use-the-Instagram-App
 section: "Social Media"
 category: "Apps & Integrations"
-updated_at: 2026-10-16T21:51:44Z
+updated_at: 2026-10-30T20:24:26Z
 ---
 
 # How to Use the Instagram App

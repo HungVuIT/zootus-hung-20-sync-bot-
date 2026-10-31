@@ -40,8 +40,8 @@
     "content_hash": "632f7673e588cad9ba2d0b89100e22123961b6292e97aaae50742dc296db7eb8"
   },
   "build-integrations-using-the-optisigns-enterprise-app": {
-    "chunks_est": 4,
-    "content_hash": "67622a5cd0aa1d341311102e534723eb87cd15c9df1a07fa86cac908a92c0b02"
+    "chunks_est": 3,
+    "content_hash": "22e64a4f73f11d4dac3efcc751bf2ab198cfc107e6b6769199f32f7496636a91"
   },
   "can-i-have-my-invoices-receipts-sent-to-a-different-email-address": {
     "chunks_est": 1,
@@ -54,6 +54,10 @@
   "chromeos-pwa-instructions": {
     "chunks_est": 4,
     "content_hash": "ac7d6bcb6e43078fde9af2d384d6835f32bef784bd4e5bd0ea603d74cdd2ed20"
+  },
+  "connect-chatgpt-claude-and-grok-to-optisigns-digital-signage-with-ai-connector": {
+    "chunks_est": 4,
+    "content_hash": "31ecc74d2f14635f63f79104d64d0a3ee5dba506d01d17319b1ad95e84db4b08"
   },
   "creating-and-using-schedules-with-optisigns": {
     "chunks_est": 4,
@@ -82,10 +86,6 @@
   "fireos-tvs-amazon-insigna-toshiba-tcl": {
     "chunks_est": 2,
     "content_hash": "4c4446da92aefbb6fc229225cb10cd75ced216ae71bde87d508e217f4e75c910"
-  },
-  "how-to-best-use-canva-with-optisigns": {
-    "chunks_est": 4,
-    "content_hash": "46c46a9b538db83708fca92a42ab4929bc9cfce0624aec32a40ff52d09daa3f3"
   },
   "how-to-change-engage-kiosk-style-preferences": {
     "chunks_est": 1,
@@ -163,13 +163,13 @@
     "chunks_est": 1,
     "content_hash": "a3323214d0a99d30b6b29a429bf5637759c8219b4d264bbc6f713cc4e6eee790"
   },
+  "how-to-set-up-an-instagram-business-creator-account": {
+    "chunks_est": 2,
+    "content_hash": "f519644db574e71424061a6c4618f67766d9e08679112ef1d4c04477a61bc523"
+  },
   "how-to-use-aericast-add-on-for-wireless-presentation-and-video-conferencing": {
     "chunks_est": 3,
     "content_hash": "7ffd5bca4c790a698a8b1a41cd03f0010d1c2fbe5d37ab7af4857bb55f0ceaba"
-  },
-  "how-to-use-airtable-with-optisigns": {
-    "chunks_est": 1,
-    "content_hash": "8be8f18bde00ebd131d59c31865cca577b89f369146bde4e9a86b4f20101861c"
   },
   "how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes": {
     "chunks_est": 3,
@@ -213,7 +213,7 @@
   },
   "how-to-use-the-instagram-app": {
     "chunks_est": 3,
-    "content_hash": "d34f49836eef335639f37fba09cd8f6b3c6d52990a4fe1904818aa2217e77cf5"
+    "content_hash": "6ea3237fa5272bfca74cc99b1190852b50a4725d6f7f076c21146d20f0649ecc"
   },
   "how-to-use-the-instagram-business-app": {
     "chunks_est": 4,
@@ -254,10 +254,6 @@
   "how-to-use-the-optisigns-mobile-admin-app": {
     "chunks_est": 5,
     "content_hash": "2ff3c76ffb1d400f3adc50fb619e73b940d7a1819f15372738996e522774ba8b"
-  },
-  "how-to-use-the-slack-app": {
-    "chunks_est": 3,
-    "content_hash": "b14e3925280dfb943c52d09af034c82248fe48f93cdb90c51d9cb68be7e703b4"
   },
   "how-to-use-the-social-mix-app": {
     "chunks_est": 3,
@@ -300,8 +296,8 @@
     "content_hash": "3dc5fd4a426c0a20e0a66767a2d609145521f142efd4d7f0d7900dc2389df824"
   },
   "how-to-use-youtube-with-optisigns": {
-    "chunks_est": 3,
-    "content_hash": "ca8662a2dc04b15865d3070cbea8764e20917700bbf7d4e1f99b72dc01f8f52d"
+    "chunks_est": 4,
+    "content_hash": "603017bb0c0513475e4148fb9923f8741f731e3a0f75e4600295be863d528952"
   },
   "install-optisigns-as-channel-or-app-on-roku": {
     "chunks_est": 3,
@@ -390,6 +386,10 @@
   "where-to-buy-optisigns-devices": {
     "chunks_est": 4,
     "content_hash": "2ffe661bd70ca6866fe7035844e3b5d8d3c0a8fafeabb7735265cb2945cc47c7"
+  },
+  "whitelist-optisigns-ip-addresses-ports": {
+    "chunks_est": 3,
+    "content_hash": "e26a08abab7acaaf28043a0dbb3b68f6fa570c20c5536b3aad109c2ed467d509"
   },
   "windows": {
     "chunks_est": 2,
