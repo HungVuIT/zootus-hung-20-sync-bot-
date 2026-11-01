@@ -235,10 +235,6 @@
     "chunks_est": 2,
     "content_hash": "30c6ec336a462ee18d4ffb16ba537141f549657b2758338ea0a1bb79e90a8aa0"
   },
-  "how-to-use-the-monday-com-app": {
-    "chunks_est": 1,
-    "content_hash": "c2b0bb55d13fadb34778c2b79b185064bf9464f590ac82b818ee2b066438c3b7"
-  },
   "how-to-use-the-musthavemenus-app": {
     "chunks_est": 2,
     "content_hash": "0f2a125ce0fcbd3aa89b77398f7071662e71ec146c838734ae59315d051137f5"
@@ -362,6 +358,10 @@
   "raspberry-pi": {
     "chunks_est": 4,
     "content_hash": "3a5ff9f460d4cbd7488ea4dda3ff03f832a5f32140d81e0301bebf6e6b9f34cc"
+  },
+  "samsung-tizen-tvs-troubleshooting-guide": {
+    "chunks_est": 2,
+    "content_hash": "972ce9c3e490de8dd04b9fdd0ba675671bb838bc67e74f23a1b2ad80eed2ef87"
   },
   "setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade": {
     "chunks_est": 5,
