@@ -67,6 +67,10 @@
     "chunks_est": 3,
     "content_hash": "36a9777767f8ee946eda699a1b71be7826e36f9717df6179a6fdcbcef0bcc519"
   },
+  "data-residency-and-optisigns": {
+    "chunks_est": 1,
+    "content_hash": "3157ef0b026618a6e8cfaf20f1c61b8045b0bc8bcb37207a371fe1c185d45e51"
+  },
   "device-management-and-mass-provisioning": {
     "chunks_est": 6,
     "content_hash": "a89a986a0608f4b9cc241d26e7ed01fc3ad0fccc7762b26c07eae7ebd03d53e6"
@@ -98,6 +102,10 @@
   "how-to-clear-cache-on-your-fire-stick-device": {
     "chunks_est": 1,
     "content_hash": "cab1c26808318c16349e1ea13aaa9c176d2717d3e86d1cc2bc3c9fbd7a2620fe"
+  },
+  "how-to-contact-optisigns-support": {
+    "chunks_est": 1,
+    "content_hash": "fe33e80c5ead909f46e1c980fed3dc61bc689889ff55633640f574a36eafa09a"
   },
   "how-to-create-and-use-nested-playlists": {
     "chunks_est": 2,
@@ -158,10 +166,6 @@
   "how-to-play-licensed-background-music-on-digital-signs-with-optisound": {
     "chunks_est": 4,
     "content_hash": "b1d440213b42792dca5c02a2d63162c6dae67f75b3f925581040fcee677d8866"
-  },
-  "how-to-preview-a-screen": {
-    "chunks_est": 1,
-    "content_hash": "a3323214d0a99d30b6b29a429bf5637759c8219b4d264bbc6f713cc4e6eee790"
   },
   "how-to-set-up-an-instagram-business-creator-account": {
     "chunks_est": 2,
@@ -230,10 +234,6 @@
   "how-to-use-the-matterport-app": {
     "chunks_est": 2,
     "content_hash": "cf19db86481d534a7652bad5ed24dbedab596fc8d2ca3918ab7aeac718427ce1"
-  },
-  "how-to-use-the-mindmeister-app": {
-    "chunks_est": 2,
-    "content_hash": "30c6ec336a462ee18d4ffb16ba537141f549657b2758338ea0a1bb79e90a8aa0"
   },
   "how-to-use-the-musthavemenus-app": {
     "chunks_est": 2,
