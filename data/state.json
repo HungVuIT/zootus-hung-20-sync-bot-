@@ -19,10 +19,6 @@
     "chunks_est": 3,
     "content_hash": "3ea6ed6513ea2505e058879106279706efb440059e540cf7d41be94200e11f1e"
   },
-  "amazon-firestick": {
-    "chunks_est": 3,
-    "content_hash": "7c5317722211d945d4790192e4670dad6eea80f439321a83d5c9fe395c4ce5ae"
-  },
   "amazon-signage-stick": {
     "chunks_est": 2,
     "content_hash": "848cda569280ea7a400e9063b8b83779cb2366a41eb6244be95e950a9340bde1"
@@ -95,14 +91,6 @@
     "chunks_est": 1,
     "content_hash": "e83a5fea5fffc79a466ff1331d78386dcf3864824fd874181fb7adb2bf6471fc"
   },
-  "how-to-change-time-zone-on-your-fire-stick-device": {
-    "chunks_est": 1,
-    "content_hash": "47f4ee47f56c238dd276e67b2164249112b47157c4bfa2370f1660269b7cccdb"
-  },
-  "how-to-clear-cache-on-your-fire-stick-device": {
-    "chunks_est": 1,
-    "content_hash": "cab1c26808318c16349e1ea13aaa9c176d2717d3e86d1cc2bc3c9fbd7a2620fe"
-  },
   "how-to-contact-optisigns-support": {
     "chunks_est": 1,
     "content_hash": "fe33e80c5ead909f46e1c980fed3dc61bc689889ff55633640f574a36eafa09a"
@@ -147,10 +135,6 @@
     "chunks_est": 1,
     "content_hash": "601ba559142c2c89657f98579ceeb463909b92ec0c7778470da4fe9e7ccf3119"
   },
-  "how-to-install-an-apk-file-on-your-fire-tv": {
-    "chunks_est": 1,
-    "content_hash": "911a9fb00c293b6b3bbd83f7c78437c88033db852cc488d90ccbfc6f6e4dc3c8"
-  },
   "how-to-lockdown-ipad-single-app-with-guided-accessibility": {
     "chunks_est": 1,
     "content_hash": "68211e527b258a4d2d4190987141edb78ca85c78747f656939b698ea4e647815"
@@ -167,9 +151,17 @@
     "chunks_est": 4,
     "content_hash": "b1d440213b42792dca5c02a2d63162c6dae67f75b3f925581040fcee677d8866"
   },
+  "how-to-preview-a-screen": {
+    "chunks_est": 1,
+    "content_hash": "a3323214d0a99d30b6b29a429bf5637759c8219b4d264bbc6f713cc4e6eee790"
+  },
   "how-to-set-up-an-instagram-business-creator-account": {
     "chunks_est": 2,
     "content_hash": "f519644db574e71424061a6c4618f67766d9e08679112ef1d4c04477a61bc523"
+  },
+  "how-to-set-up-and-manage-optisigns-on-amazon-firetv-and-firesticks": {
+    "chunks_est": 7,
+    "content_hash": "4840acbd0a16c876d338ef816b187d77ab59d8d4e3d0513b17dc700c0101a240"
   },
   "how-to-use-aericast-add-on-for-wireless-presentation-and-video-conferencing": {
     "chunks_est": 3,
@@ -234,6 +226,14 @@
   "how-to-use-the-matterport-app": {
     "chunks_est": 2,
     "content_hash": "cf19db86481d534a7652bad5ed24dbedab596fc8d2ca3918ab7aeac718427ce1"
+  },
+  "how-to-use-the-mindmeister-app": {
+    "chunks_est": 2,
+    "content_hash": "30c6ec336a462ee18d4ffb16ba537141f549657b2758338ea0a1bb79e90a8aa0"
+  },
+  "how-to-use-the-monday-com-app": {
+    "chunks_est": 1,
+    "content_hash": "c2b0bb55d13fadb34778c2b79b185064bf9464f590ac82b818ee2b066438c3b7"
   },
   "how-to-use-the-musthavemenus-app": {
     "chunks_est": 2,
@@ -311,10 +311,6 @@
     "chunks_est": 5,
     "content_hash": "a4a899a60fecce10618223ff87d7a1b0a986ab3ed8e1c6389c72043f9d3eb23c"
   },
-  "lg-webos-smart-tvs-consumer-grade": {
-    "chunks_est": 2,
-    "content_hash": "fbe0896917f036fb20b223e3c2a18fc5d130160151d11d6be89fb902bf2d29a3"
-  },
   "linux": {
     "chunks_est": 3,
     "content_hash": "2e86faab59115fbe11a07be9a745c213fbb4b1541ae67c71f9dc4e3f2b7c2c97"
@@ -362,6 +358,10 @@
   "samsung-tizen-tvs-troubleshooting-guide": {
     "chunks_est": 2,
     "content_hash": "972ce9c3e490de8dd04b9fdd0ba675671bb838bc67e74f23a1b2ad80eed2ef87"
+  },
+  "set-up-add-or-unpair-a-screen": {
+    "chunks_est": 3,
+    "content_hash": "e7cb4281120e2e3936cec1b6b788873c057f08dd4ef6f455da5322815e9228ec"
   },
   "setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade": {
     "chunks_est": 5,
