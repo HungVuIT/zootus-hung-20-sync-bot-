@@ -1,14 +1,16 @@
-10:56:19 INFO    Using existing File Search store fileSearchStores/optibotkb-f1z0zlwv85nu (optibot-kb)
-10:56:19 WARNING Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+10:53:01 INFO    Using existing File Search store fileSearchStores/optibotkb-f1z0zlwv85nu (optibot-kb)
+10:53:01 WARNING Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
 Q: How do I add a YouTube video?
 
 To add a YouTube video to OptiSigns, follow these steps:
 
-1. Log in to the OptiSigns portal, go to **Files/Assets**, and click **Apps**.
-2. Search for **YouTube** and select the **YouTube** app.
-3. Paste the video link into the **URL** field (a regular video, share, or Shorts link).
-4. (Optional) Adjust **Display options** (such as Mute or Caption) or **Playback Options** (to set a custom **Start At** or **End At** time).
-5. Click **Save** to create your YouTube asset.
+* Go to **Files/Assets** in the OptiSigns portal and select **Apps**.
+* Search for **YouTube** and select the **YouTube** app.
+* Paste your video link into the **URL** field (accepts regular video, share, or YouTube Shorts links).
+* Adjust optional settings like **Name**, **Display options** (Caption or Mute), or **Playback Options** (Start At and End At times).
+* Click **Save** to create your YouTube app asset.
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns
 
+Grounding sources:
+  - how-to-use-youtube-with-optisigns.md  https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns
