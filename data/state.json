@@ -99,9 +99,9 @@
     "chunks_est": 1,
     "content_hash": "fe33e80c5ead909f46e1c980fed3dc61bc689889ff55633640f574a36eafa09a"
   },
-  "how-to-create-and-use-nested-playlists": {
-    "chunks_est": 2,
-    "content_hash": "792b4ba15a8df4e4ae5237522f783d25ab593ba3557c3d3d6e473497c0784739"
+  "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232": {
+    "chunks_est": 4,
+    "content_hash": "566e76b1d31b0030d28a0b19f72a60606d6679f57ceb549310a405cdd5fd4574"
   },
   "how-to-create-and-use-the-split-screen-app": {
     "chunks_est": 3,
@@ -110,10 +110,6 @@
   "how-to-create-use-playlists": {
     "chunks_est": 2,
     "content_hash": "06389e893476f93c3f51ad6066b6ae48cbbe2ed342849edb794b0cac206e71f8"
-  },
-  "how-to-display-a-smartsheet-report-on-optisigns": {
-    "chunks_est": 2,
-    "content_hash": "4533e645271344d4dcdde15f34eb1d9497da31125b874d1de7bbfcf3eb2d181b"
   },
   "how-to-display-content-from-websites-that-require-a-login": {
     "chunks_est": 3,
@@ -130,6 +126,10 @@
   "how-to-display-vimeo-videos-with-optisigns": {
     "chunks_est": 3,
     "content_hash": "76a5449120e4557f711c9e8702c50ba7866a3307a9abc31262bbe73def583839"
+  },
+  "how-to-fix-the-scaling-issue-on-optisigns-android-devices": {
+    "chunks_est": 2,
+    "content_hash": "755135ca7862bd28ce4418f1c0fb711bc9cfbf90142ddbbe2a12e42a48665f16"
   },
   "how-to-lockdown-ipad-single-app-with-guided-accessibility": {
     "chunks_est": 1,
@@ -275,10 +275,6 @@
     "chunks_est": 2,
     "content_hash": "a6d24cc690aafd2416c6c811586dfe049f201c791f304fc7179476fb0625de3c"
   },
-  "how-to-use-toast-api-data-with-optisigns": {
-    "chunks_est": 3,
-    "content_hash": "bb633cedfbadfcdf16d66b5826a8c64244e55d4f49670026f0d2d4e680695515"
-  },
   "how-to-use-weather-apps-in-optisigns": {
     "chunks_est": 5,
     "content_hash": "113b87db54fca282f34612ff40b149c4ceec8569d27dbb703ddabbc9f37e399c"
@@ -354,6 +350,10 @@
   "samsung-tizen-tvs-troubleshooting-guide": {
     "chunks_est": 2,
     "content_hash": "972ce9c3e490de8dd04b9fdd0ba675671bb838bc67e74f23a1b2ad80eed2ef87"
+  },
+  "screen-calibration-fix-content-bleeding-off-the-screen": {
+    "chunks_est": 2,
+    "content_hash": "35102bfe61c30876f794179abafd678eb62447c7d3d2bf324cd5dd4beeba27f6"
   },
   "set-up-add-or-unpair-a-screen": {
     "chunks_est": 3,
