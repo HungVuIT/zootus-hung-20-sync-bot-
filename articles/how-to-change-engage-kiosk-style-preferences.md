@@ -2,8 +2,8 @@
 title: "How to Change Engage/Kiosk Style Preferences"
 article_id: 28115946505107
 url: https://support.optisigns.com/hc/en-us/articles/28115946505107-How-to-Change-Engage-Kiosk-Style-Preferences
-section: "Billing & Account Management"
-category: "Accounts & Security"
+section: "Engage Overview"
+category: "Engage & Kiosk"
 updated_at: 2026-09-10T21:01:31Z
 ---
 

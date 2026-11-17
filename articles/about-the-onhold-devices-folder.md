@@ -2,8 +2,8 @@
 title: "About the OnHold Devices Folder"
 article_id: 1500003244381
 url: https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder
-section: "Billing & Account Management"
-category: "Accounts & Security"
+section: "Screens Management"
+category: "Troubleshooting"
 updated_at: 2026-09-04T16:45:10Z
 ---
 

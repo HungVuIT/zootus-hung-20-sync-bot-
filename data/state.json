@@ -1,7 +1,7 @@
 {
   "about-the-onhold-devices-folder": {
     "chunks_est": 3,
-    "content_hash": "bdd88d23fd0d97a92900b7418a5eabb1f9cce41b8394e7a776362bc90cf4a706"
+    "content_hash": "77937587b3ebc359382193861b3763ca27d0906d9e99d927cc97505b6d70aab1"
   },
   "adjust-the-gpu-memory-on-the-raspberry-pi": {
     "chunks_est": 1,
@@ -27,6 +27,14 @@
     "chunks_est": 2,
     "content_hash": "6874fa8d53cba7c61623f578a2c1977d232bcc34ae9913ea305e857d8ca76f2b"
   },
+  "billing-changing-plans-or-screen-counts": {
+    "chunks_est": 5,
+    "content_hash": "52309db775ce801ad9b6f81014084a53364ecde51e3e6da46b1e21c6381e8950"
+  },
+  "billing-details-failed-payments-receipts": {
+    "chunks_est": 6,
+    "content_hash": "2c2900b7a85bd8176311623ae764b407992806add2fa0357de80e7f54b5f136c"
+  },
   "brightsign-players": {
     "chunks_est": 3,
     "content_hash": "632f7673e588cad9ba2d0b89100e22123961b6292e97aaae50742dc296db7eb8"
@@ -35,9 +43,9 @@
     "chunks_est": 3,
     "content_hash": "22e64a4f73f11d4dac3efcc751bf2ab198cfc107e6b6769199f32f7496636a91"
   },
-  "can-i-have-my-invoices-receipts-sent-to-a-different-email-address": {
-    "chunks_est": 1,
-    "content_hash": "3fee136f7b59ae4dfccbe84325dcefe0933c3379b0116183d4f0fd61671cdd53"
+  "cancel-pause-or-downgrade-your-subscription": {
+    "chunks_est": 5,
+    "content_hash": "f776be10f3ab028f57eb4e37fdf076147b7684dd3cc2ca7a3128b2154c8efb3f"
   },
   "cannot-find-the-optisigns-app-on-your-samsung-smart-tv": {
     "chunks_est": 1,
@@ -75,6 +83,10 @@
     "chunks_est": 4,
     "content_hash": "883d2fa148e2996fb915227cde9b5116ef8ffc873d1f1fb0c1efa30de18a18e5"
   },
+  "engage-plan-faqs": {
+    "chunks_est": 2,
+    "content_hash": "cfced208d0bc36236d51e57e476194be033066a44a06fed1c9300372f146a8e7"
+  },
   "error-handling": {
     "chunks_est": 1,
     "content_hash": "89e94209988144d8a478cf074038cd2b1f5229075dba9c3019070dcbf326604a"
@@ -83,13 +95,13 @@
     "chunks_est": 2,
     "content_hash": "4c4446da92aefbb6fc229225cb10cd75ced216ae71bde87d508e217f4e75c910"
   },
+  "how-to-change-account-owners": {
+    "chunks_est": 1,
+    "content_hash": "2336ac76273b98eb24b16c1c027ff8aa2a9f2cbb8452a2ce8c6c511081d012d1"
+  },
   "how-to-change-engage-kiosk-style-preferences": {
     "chunks_est": 1,
-    "content_hash": "e83a5fea5fffc79a466ff1331d78386dcf3864824fd874181fb7adb2bf6471fc"
-  },
-  "how-to-change-your-billing-information-view-billing-history-and-download-receipts": {
-    "chunks_est": 3,
-    "content_hash": "5d0120354abb0276b255034f7013d9e2f3a8d1121b2aa9c780e19b29bb527b1c"
+    "content_hash": "878db262de500676a051e1ac530049f19bf95e1b81afc1cc0de04d33f1fa7409"
   },
   "how-to-contact-optisigns-support": {
     "chunks_est": 1,
@@ -106,6 +118,10 @@
   "how-to-create-use-playlists": {
     "chunks_est": 2,
     "content_hash": "06389e893476f93c3f51ad6066b6ae48cbbe2ed342849edb794b0cac206e71f8"
+  },
+  "how-to-delete-your-account-from-optisigns": {
+    "chunks_est": 1,
+    "content_hash": "5eb449e1ab8e147307d558cb2f9f3ef3d7b877501ddf31ed18ef9bafbd8470d1"
   },
   "how-to-display-content-from-websites-that-require-a-login": {
     "chunks_est": 3,
@@ -227,18 +243,6 @@
     "chunks_est": 3,
     "content_hash": "1ba096a3b8cfdec0cdb19f6e77e9d0ed872e4fc1c4ac55ac26c3349ce43e6c97"
   },
-  "how-to-use-the-matterport-app": {
-    "chunks_est": 2,
-    "content_hash": "cf19db86481d534a7652bad5ed24dbedab596fc8d2ca3918ab7aeac718427ce1"
-  },
-  "how-to-use-the-musthavemenus-app": {
-    "chunks_est": 2,
-    "content_hash": "0f2a125ce0fcbd3aa89b77398f7071662e71ec146c838734ae59315d051137f5"
-  },
-  "how-to-use-the-notion-app": {
-    "chunks_est": 2,
-    "content_hash": "4dc9a49f9421c2eec38250cb9175307f69f58fd9b705e7bee0a20e0390e98e69"
-  },
   "how-to-use-the-onedrive-app": {
     "chunks_est": 3,
     "content_hash": "027cb5b07d20240ecd654dc0a23c7f8d4a957c9b087c8928e432c3a0de881d3f"
@@ -258,10 +262,6 @@
   "how-to-use-the-trello-app": {
     "chunks_est": 2,
     "content_hash": "4baf8612214b0a5382bec73c949dfdb7367d8b2bfc4545065c4e4bdb16c8edea"
-  },
-  "how-to-use-the-twitch-app": {
-    "chunks_est": 2,
-    "content_hash": "a7c5ede9c26a1e050092c340bbf0f3e1184ebd302e8c7743b77ddfec573a27bc"
   },
   "how-to-use-the-walls-io-app": {
     "chunks_est": 2,
