@@ -69,7 +69,7 @@
   },
   "data-residency-and-optisigns": {
     "chunks_est": 1,
-    "content_hash": "3157ef0b026618a6e8cfaf20f1c61b8045b0bc8bcb37207a371fe1c185d45e51"
+    "content_hash": "75e7d149f47d9d66705299595287b18283e9600bd0fb32dc273bb064eaa626e6"
   },
   "device-management-and-mass-provisioning": {
     "chunks_est": 6,
@@ -259,10 +259,6 @@
     "chunks_est": 2,
     "content_hash": "176ade33ce8efac2cbb26e8b3dd5e5792ec05e7d3c8ffac7b4b186865317b86e"
   },
-  "how-to-use-the-trello-app": {
-    "chunks_est": 2,
-    "content_hash": "4baf8612214b0a5382bec73c949dfdb7367d8b2bfc4545065c4e4bdb16c8edea"
-  },
   "how-to-use-the-walls-io-app": {
     "chunks_est": 2,
     "content_hash": "b6b448cfcddfbf9f5b30e13f25d6b25c2309cce119bbdb77a862f858ad5c79b7"
@@ -366,6 +362,10 @@
   "show-offline-indicator-feature": {
     "chunks_est": 2,
     "content_hash": "a189ce33ca0d0844df1f7012ccc1817bef66a1d815d6c5e3fcbd8b5f2f77c862"
+  },
+  "the-new-designer-complete-feature-guide": {
+    "chunks_est": 11,
+    "content_hash": "8b7a77e8a3d483d49e834f2434cd8eed3f89a2e2501b26ebbf20a65dfc417b11"
   },
   "video-codec-or-video-playback-issues-and-how-to-re-encode-videos": {
     "chunks_est": 2,
