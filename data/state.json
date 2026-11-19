@@ -3,6 +3,10 @@
     "chunks_est": 3,
     "content_hash": "77937587b3ebc359382193861b3763ca27d0906d9e99d927cc97505b6d70aab1"
   },
+  "accepted-payment-methods-and-currencies": {
+    "chunks_est": 4,
+    "content_hash": "0a0ff5659aeac0e35fd09deab75267a13b541273444b10f22e9653989b405651"
+  },
   "adjust-the-gpu-memory-on-the-raspberry-pi": {
     "chunks_est": 1,
     "content_hash": "240c3f910ab25e4122e7563d2e02f0254349aa6271dbe4f99055aefa91cda43f"
@@ -14,6 +18,10 @@
   "advanced-enforce-sso-login-for-your-account": {
     "chunks_est": 2,
     "content_hash": "b6a62b6667587cf8e70b1a9f9ef07d82f26f534fb1758c853e9e2c7144a55e89"
+  },
+  "ai-tools-in-optisigns-optibot-ai-designer-optidev-and-the-ai-connector": {
+    "chunks_est": 5,
+    "content_hash": "075d5199800b60335ae4b5800cf36cc0577dd60ff5a8be32354e24cf9cf242c2"
   },
   "amazon-fire-stick-and-security-considerations": {
     "chunks_est": 3,
@@ -33,7 +41,7 @@
   },
   "billing-details-failed-payments-receipts": {
     "chunks_est": 6,
-    "content_hash": "2c2900b7a85bd8176311623ae764b407992806add2fa0357de80e7f54b5f136c"
+    "content_hash": "22d2a8fa6c24f3ed1f0069552b6000f468e96512575b3a400e5bc1b8442f331b"
   },
   "brightsign-players": {
     "chunks_est": 3,
@@ -51,13 +59,9 @@
     "chunks_est": 1,
     "content_hash": "f4f405f0ce511cc6d86c5c4225a9e9913354d3318bbd8fba26d6e963ab391c2a"
   },
-  "chromeos-pwa-instructions": {
-    "chunks_est": 4,
-    "content_hash": "ac7d6bcb6e43078fde9af2d384d6835f32bef784bd4e5bd0ea603d74cdd2ed20"
-  },
   "connect-chatgpt-claude-and-grok-to-optisigns-digital-signage-with-ai-connector": {
     "chunks_est": 4,
-    "content_hash": "31ecc74d2f14635f63f79104d64d0a3ee5dba506d01d17319b1ad95e84db4b08"
+    "content_hash": "bc4b65fc8f722b658fe7e6e99b20507056f7fe1eb6782bb87d37efaac9229c41"
   },
   "creating-and-using-schedules-with-optisigns": {
     "chunks_est": 4,
@@ -71,9 +75,9 @@
     "chunks_est": 1,
     "content_hash": "75e7d149f47d9d66705299595287b18283e9600bd0fb32dc273bb064eaa626e6"
   },
-  "device-management-and-mass-provisioning": {
-    "chunks_est": 6,
-    "content_hash": "a89a986a0608f4b9cc241d26e7ed01fc3ad0fccc7762b26c07eae7ebd03d53e6"
+  "displaying-sharepoint-sites-on-optisigns": {
+    "chunks_est": 4,
+    "content_hash": "fee74be08a5a966a0acbc2c9b8ef5a6946cabb81d3a413680e848178a0125fee"
   },
   "does-optisigns-offer-non-profit-education-discount": {
     "chunks_est": 1,
@@ -151,10 +155,6 @@
     "chunks_est": 1,
     "content_hash": "68211e527b258a4d2d4190987141edb78ca85c78747f656939b698ea4e647815"
   },
-  "how-to-manage-and-edit-your-playlist-settings": {
-    "chunks_est": 4,
-    "content_hash": "9c6db8caa1fe6deec187a09bbf7c58ff264d46481f65468b188af64e575758da"
-  },
   "how-to-moderate-your-social-media-feeds": {
     "chunks_est": 2,
     "content_hash": "3e14c629a518c9d8334e9b3f9bcc007a140df0a632139a5c93f588c3e0799d41"
@@ -191,6 +191,10 @@
     "chunks_est": 3,
     "content_hash": "e627fb32fd0d7fe0cb7f8b7352d14e15215a041891c5cfbbeeabc37132335e7d"
   },
+  "how-to-use-the-advanced-website-app": {
+    "chunks_est": 5,
+    "content_hash": "888dceb4385d1b5a83f8fc9188ddbd49fd7375ec3ffaa03b37d6a32099ba4659"
+  },
   "how-to-use-the-air-quality-index-app": {
     "chunks_est": 3,
     "content_hash": "fad514e14693cfcee27a95f9124a8aa0dcba7e09981857ab3b043ba556685efb"
@@ -198,10 +202,6 @@
   "how-to-use-the-countdown-app": {
     "chunks_est": 3,
     "content_hash": "3fce7d7051911005540d11ed64f834a9effa0ce85ca6cfb372639c043971540e"
-  },
-  "how-to-use-the-countup-app": {
-    "chunks_est": 3,
-    "content_hash": "27d88c6111ebe8b321899edd6645332a6e29018f7ed8874b933a8a9c5a152514"
   },
   "how-to-use-the-dropbox-app": {
     "chunks_est": 3,
@@ -236,8 +236,8 @@
     "content_hash": "418d79c9c947d3179a93b1bfb1026ea83e1d8e49c2cbd864d37d362c15e856a3"
   },
   "how-to-use-the-jira-app": {
-    "chunks_est": 3,
-    "content_hash": "49b119b9e708bd2bb67862a78b4adaa5c017299e64c796be17189d66975e7e03"
+    "chunks_est": 4,
+    "content_hash": "7f1f9728a4ca147d0132fb3642ea668d45d0a07816d0171be5afe10361de53d0"
   },
   "how-to-use-the-linkedin-app": {
     "chunks_est": 3,
@@ -266,10 +266,6 @@
   "how-to-use-the-web-scripting-app": {
     "chunks_est": 4,
     "content_hash": "7a8918cb6af8b1e9c31dd6e458a979b1e30115ee336254033f93fe2c4ba53d8c"
-  },
-  "how-to-use-the-zendesk-app": {
-    "chunks_est": 2,
-    "content_hash": "a6d24cc690aafd2416c6c811586dfe049f201c791f304fc7179476fb0625de3c"
   },
   "how-to-use-weather-apps-in-optisigns": {
     "chunks_est": 5,
@@ -314,6 +310,10 @@
   "operational-schedule-troubleshooting": {
     "chunks_est": 4,
     "content_hash": "d7faaac1b17e2ee787a7daf3b1c8dc3e0ff58d3805bcf67e5cd4113317342608"
+  },
+  "optidev-add-on-free-trial-and-pricing": {
+    "chunks_est": 5,
+    "content_hash": "4d17bd27b9e910e04b5c95bc4c0f4a67cde1d6f46c3b69d760c83979192e711b"
   },
   "optisigns-getting-started-guide": {
     "chunks_est": 2,

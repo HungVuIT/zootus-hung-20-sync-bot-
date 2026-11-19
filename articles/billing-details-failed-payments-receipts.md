@@ -4,7 +4,7 @@ article_id: 360041587014
 url: https://support.optisigns.com/hc/en-us/articles/360041587014-Billing-Details-Failed-Payments-Receipts
 section: "Billing & Account Management"
 category: "Accounts & Security"
-updated_at: 2026-11-16T21:36:09Z
+updated_at: 2026-11-18T22:06:47Z
 ---
 
 # Billing Details, Failed Payments & Receipts
@@ -128,7 +128,7 @@ If your subscription has been cancelled, **Update Payment** opens the plans inst
 >
 > Only the account Owner, a Super Admin or an Admin can pay. Other users see "Please contact your account admin" or "Already paid? Contact your Super Admin or Account Owner." If that's you, ask one of them to update the payment method.
 
-If you pay by invoice or purchase order rather than by card, contact [support@optisigns.com](mailto:support@optisigns.com) about an overdue invoice.
+If you pay by invoice or purchase order rather than by card, contact [billing@optisigns.com](mailto:billing@optisigns.com) about an overdue invoice.
 
 ---
 
@@ -189,7 +189,7 @@ Check the code for typos and make sure it hasn't expired. If it still doesn't wo
 
 #### Can I Pay by Invoice or Purchase Order?
 
-Contact [support@optisigns.com](mailto:support@optisigns.com) to ask about paying by invoice or purchase order.
+Contact [billing@optisigns.com](mailto:billing@optisigns.com) to ask about paying by invoice or purchase order.
 
 #### How Do I Change My Plan or Number of Screens?
 
