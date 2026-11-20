@@ -1,16 +1,17 @@
-11:40:07 INFO    Using existing File Search store fileSearchStores/optibotkb-f1z0zlwv85nu (optibot-kb)
-11:40:07 WARNING Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+11:39:54 INFO    Using existing File Search store fileSearchStores/optibotkb-f1z0zlwv85nu (optibot-kb)
+11:39:54 WARNING Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
 Q: How do I add a YouTube video?
 
-To add a YouTube video to OptiSigns, follow these steps:
+To add a YouTube video in OptiSigns:
 
-* Go to **Files/Assets** in the OptiSigns portal and click **Apps**.
-* Search for and select the **YouTube** app.
-* Paste the video link into the **URL** field (supports regular video, share, or YouTube Shorts links).
-* (Optional) Adjust **Display Options** (Caption, Mute) or **Playback Options** (Start At, End At).
-* Click **Save** to create your YouTube asset, which can then be assigned to your screens, playlists, or schedules.
+1. Log in to your OptiSigns portal, go to **Files/Assets**, and select **Apps**.
+2. Search for **YouTube** and select the **YouTube** app.
+3. Paste your video link into the **URL** field (regular, share, or Shorts links are supported) and set an asset **Name**.
+4. (Optional) Configure settings under **Display options** (Caption, Mute) or **Playback options** (Start At, End At).
+5. Click **Save** to create the asset and store it in your Files/Assets.
 
-Article URL: https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns
+Article URL:
+* https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns
 
 Grounding sources:
   - how-to-use-youtube-with-optisigns.md  https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns
