@@ -31,6 +31,10 @@
     "chunks_est": 2,
     "content_hash": "e9d42f96b78dd3369f39bba8c628ca7d2c42e8f10dc88e0dc81cfee7df340d5f"
   },
+  "amazon-tv-firestick-troubleshooting-guide": {
+    "chunks_est": 2,
+    "content_hash": "9e0d5758fbc02c4a9fef1802c74ecefb017b9416aed60b92cef510f20a16439c"
+  },
   "android-tv-chromecast": {
     "chunks_est": 2,
     "content_hash": "6874fa8d53cba7c61623f578a2c1977d232bcc34ae9913ea305e857d8ca76f2b"
@@ -246,10 +250,6 @@
   "how-to-use-the-onedrive-app": {
     "chunks_est": 3,
     "content_hash": "027cb5b07d20240ecd654dc0a23c7f8d4a957c9b087c8928e432c3a0de881d3f"
-  },
-  "how-to-use-the-optisigns-mobile-admin-app": {
-    "chunks_est": 5,
-    "content_hash": "2ff3c76ffb1d400f3adc50fb619e73b940d7a1819f15372738996e522774ba8b"
   },
   "how-to-use-the-walls-io-app": {
     "chunks_est": 2,
