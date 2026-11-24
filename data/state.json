@@ -41,11 +41,11 @@
   },
   "billing-changing-plans-or-screen-counts": {
     "chunks_est": 5,
-    "content_hash": "52309db775ce801ad9b6f81014084a53364ecde51e3e6da46b1e21c6381e8950"
+    "content_hash": "a7ef46391931bdf68bdd8660c89616a4571946ef82247780f0c5919a645b722e"
   },
   "billing-details-failed-payments-receipts": {
     "chunks_est": 6,
-    "content_hash": "22d2a8fa6c24f3ed1f0069552b6000f468e96512575b3a400e5bc1b8442f331b"
+    "content_hash": "ba5ff62824d31ce21a480e70aa1b8b8e056c9f5f06785ced71e091d669233743"
   },
   "billing-for-multiple-locations-sub-accounts-and-team-billing": {
     "chunks_est": 5,
@@ -199,6 +199,10 @@
     "chunks_est": 3,
     "content_hash": "7ffd5bca4c790a698a8b1a41cd03f0010d1c2fbe5d37ab7af4857bb55f0ceaba"
   },
+  "how-to-use-google-sheets-with-optisigns": {
+    "chunks_est": 7,
+    "content_hash": "02976e86e47eee7ad1ac7c7ef6bbc6c0ae5937ef6c3622e90223a38de801ef71"
+  },
   "how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes": {
     "chunks_est": 3,
     "content_hash": "6abd88440617c0d817d2f1bf078a1a0eca1c8759ec04968883464711e4c30ccf"
@@ -228,8 +232,8 @@
     "content_hash": "3bc29c2bf6a968072cff45e5710c715992dbe61397f2088d79728427a1ba51f8"
   },
   "how-to-use-the-google-drive-app": {
-    "chunks_est": 3,
-    "content_hash": "0eae10dc5e8b17186b039aad7b5c1e3d9373cc4c4085a248fdde5d34672bf9ac"
+    "chunks_est": 7,
+    "content_hash": "50247b8998681d7ec792fc1f36f997d59dcf9ade3132332ac2899de050e911b8"
   },
   "how-to-use-the-google-reviews-app": {
     "chunks_est": 5,
@@ -246,10 +250,6 @@
   "how-to-use-the-jira-app": {
     "chunks_est": 4,
     "content_hash": "7f1f9728a4ca147d0132fb3642ea668d45d0a07816d0171be5afe10361de53d0"
-  },
-  "how-to-use-the-onedrive-app": {
-    "chunks_est": 3,
-    "content_hash": "027cb5b07d20240ecd654dc0a23c7f8d4a957c9b087c8928e432c3a0de881d3f"
   },
   "how-to-use-the-walls-io-app": {
     "chunks_est": 2,

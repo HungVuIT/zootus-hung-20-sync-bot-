@@ -4,7 +4,7 @@ article_id: 360041587014
 url: https://support.optisigns.com/hc/en-us/articles/360041587014-Billing-Details-Failed-Payments-Receipts
 section: "Billing & Account Management"
 category: "Accounts & Security"
-updated_at: 2026-11-18T22:06:47Z
+updated_at: 2026-11-23T18:20:03Z
 ---
 
 # Billing Details, Failed Payments & Receipts
@@ -169,7 +169,7 @@ Some banks ask you to approve a payment, for example with a code or in your bank
 
 #### I Updated My Card but Still See the Past-Due Banner
 
-Refresh the page. If the banner is still there, check **Billing History**: if the invoice still shows **Failed Charge**, the new card was declined too, so try another card or contact your bank. If you've already paid and the banner stays, contact [support@optisigns.com](mailto:support@optisigns.com).
+Refresh the page. If the banner is still there, check **Billing History**: if the invoice still shows **Failed Charge**, the new card was declined too, so try another card or contact your bank. If you've already paid and the banner stays, contact [billing@optisigns.com](mailto:billing@optisigns.com).
 
 #### Can I Have My Invoices and Receipts Sent to a Different Email Address?
 
@@ -185,7 +185,7 @@ Billing pages are only available to the account Owner, a Super Admin or an Admin
 
 #### "Invalid coupon code"
 
-Check the code for typos and make sure it hasn't expired. If it still doesn't work, contact [support@optisigns.com](mailto:support@optisigns.com).
+Check the code for typos and make sure it hasn't expired. If it still doesn't work, contact [billing@optisigns.com](mailto:billing@optisigns.com).
 
 #### Can I Pay by Invoice or Purchase Order?
 
