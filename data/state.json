@@ -136,8 +136,8 @@
     "content_hash": "e4f3a16f005d9fb2cc9a1f5beb37412dbe81fc6bcfe1e53c939d4bb124650202"
   },
   "how-to-create-use-playlists": {
-    "chunks_est": 2,
-    "content_hash": "06389e893476f93c3f51ad6066b6ae48cbbe2ed342849edb794b0cac206e71f8"
+    "chunks_est": 5,
+    "content_hash": "d0eb25df7c31f3197a3bed1dad06cb89467c7216f0c6b58aa9f58a2b62810872"
   },
   "how-to-delete-your-account-from-optisigns": {
     "chunks_est": 2,
@@ -179,6 +179,10 @@
     "chunks_est": 4,
     "content_hash": "b1d440213b42792dca5c02a2d63162c6dae67f75b3f925581040fcee677d8866"
   },
+  "how-to-set-an-asset-to-live-or-expire-at-specific-time": {
+    "chunks_est": 3,
+    "content_hash": "867a13218fbc8af57178d6da5dbdb373af4d400fe3ccf7d1cbaa2abcf029d0e4"
+  },
   "how-to-set-up-an-instagram-business-creator-account": {
     "chunks_est": 2,
     "content_hash": "f519644db574e71424061a6c4618f67766d9e08679112ef1d4c04477a61bc523"
@@ -218,10 +222,6 @@
   "how-to-use-the-air-quality-index-app": {
     "chunks_est": 3,
     "content_hash": "fad514e14693cfcee27a95f9124a8aa0dcba7e09981857ab3b043ba556685efb"
-  },
-  "how-to-use-the-dropbox-app": {
-    "chunks_est": 3,
-    "content_hash": "4ead646ebbacdeb5573178bcf65844122f765d86b04b86ab246cec12f79f80c3"
   },
   "how-to-use-the-emergency-message-alert-app": {
     "chunks_est": 4,
