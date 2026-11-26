@@ -4,7 +4,7 @@ article_id: 360047232054
 url: https://support.optisigns.com/hc/en-us/articles/360047232054-Amazon-Fire-Stick-and-security-considerations
 section: "Fire TV"
 category: "Troubleshooting"
-updated_at: 2020-05-06T14:44:54Z
+updated_at: 2026-11-25T17:56:39Z
 ---
 
 # Amazon Fire Stick and security considerations
@@ -85,3 +85,11 @@ Raspberry Pi: fully support Linux, you can run the distribution of your choosing
 Or ChromeOS devices, ChromeOS is known for its enterprise support, from hardened hardware to Google Cloud Enterprise Device Management that allow you to remote manage devices, apply patches and more.
 
 Feel free to reach out to us at [support@optisigns.com](mailto:support@optisigns.com) for a free consultation call regard this topic.
+
+---
+
+## Related Articles
+
+- [How to Set Up and Manage OptiSigns on Amazon FireTV and Firesticks](https://support.optisigns.com/hc/en-us/articles/360016174554?ref=related)
+- [Amazon TV / FireStick Troubleshooting Guide](https://support.optisigns.com/hc/en-us/articles/27463953562899?ref=related)
+- [Amazon Signage Devices: Signage Sticks and Signage Displays](https://support.optisigns.com/hc/en-us/articles/34087061669523?ref=related)

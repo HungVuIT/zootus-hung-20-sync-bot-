@@ -4,7 +4,7 @@ article_id: 360061576673
 url: https://support.optisigns.com/hc/en-us/articles/360061576673-Advanced-Enforce-SSO-login-for-your-account
 section: "Security & Teams"
 category: "Accounts & Security"
-updated_at: 2026-09-28T21:53:26Z
+updated_at: 2026-11-25T20:20:52Z
 ---
 
 # Advanced: Enforce SSO login for your account
@@ -62,6 +62,16 @@ We have numerous articles covering this process, as well as general best practic
 - [**Google Workspace SAML 2.0 SSO Setup**](https://support.optisigns.com/hc/en-us/articles/4407493404307-How-to-set-up-SAML-2-0-with-OptiSigns-and-Google-Workspace)
 
 Please follow one of these guides to set up SSO via SAML.
+
+---
+
+## Related Articles
+
+- [How to Set Up SAML 2.0 with OptiSigns and MS Entra ID (formerly Azure AD)](https://support.optisigns.com/hc/en-us/articles/4407252213395?ref=related)
+- [SAML Integration Strategies & Best Practices](https://support.optisigns.com/hc/en-us/articles/4407128433299?ref=related)
+- [Advanced Security: Managing User Roles](https://support.optisigns.com/hc/en-us/articles/360046356113?ref=related)
+- [How to Configure Multi-Factor Authentication with your OptiSigns account.](https://support.optisigns.com/hc/en-us/articles/18381542133779?ref=related)
+- [How to Set Up SAML 2.0 with OptiSigns and Okta](https://support.optisigns.com/hc/en-us/articles/4404590815635?ref=related)
 
 ### That's all!
 

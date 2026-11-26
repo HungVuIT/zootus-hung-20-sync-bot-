@@ -4,7 +4,7 @@ article_id: 360039566974
 url: https://support.optisigns.com/hc/en-us/articles/360039566974-Install-OptiSigns-as-Channel-or-App-on-Roku
 section: "More ways to run OptiSigns Players"
 category: "Setup Screens"
-updated_at: 2026-10-29T16:45:01Z
+updated_at: 2026-11-25T17:57:09Z
 ---
 
 # Install OptiSigns as Channel or App on Roku

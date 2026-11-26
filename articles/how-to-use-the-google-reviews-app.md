@@ -4,7 +4,7 @@ article_id: 360037463934
 url: https://support.optisigns.com/hc/en-us/articles/360037463934-How-to-Use-the-Google-Reviews-App
 section: "Google Apps"
 category: "Apps & Integrations"
-updated_at: 2026-10-16T21:27:23Z
+updated_at: 2026-11-25T18:09:25Z
 ---
 
 # How to Use the Google Reviews App
@@ -180,6 +180,15 @@ The **Select Asset** window will open. Search for your Google Reviews app, click
 Back in **Edit Screen**, hit **Save**. Your Google reviews will now display on your screen.
 
 Your Google Reviews app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+- [How to Create and Use the Yelp App](https://support.optisigns.com/hc/en-us/articles/360038769394?ref=related)
+- [How to Use the Facebook Page App](https://support.optisigns.com/hc/en-us/articles/360023848334?ref=related)
+- [How to Use the Follow Us App](https://support.optisigns.com/hc/en-us/articles/360049875794?ref=related)
+- [How to Use the Social Mix App](https://support.optisigns.com/hc/en-us/articles/4403267825171?ref=related)
 
 ### That’s all!
 

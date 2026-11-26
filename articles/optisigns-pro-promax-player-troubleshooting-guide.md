@@ -4,7 +4,7 @@ article_id: 40736654972563
 url: https://support.optisigns.com/hc/en-us/articles/40736654972563-OptiSigns-Pro-ProMax-Player-Troubleshooting-Guide
 section: "OptiSigns Players"
 category: "Troubleshooting"
-updated_at: 2026-01-13T21:20:16Z
+updated_at: 2026-11-25T17:47:14Z
 ---
 
 # OptiSigns Pro/ProMax Player Troubleshooting Guide
@@ -188,6 +188,16 @@ Our RMA process is as follows:
 - RMA request is reviewed within 3 business days.
 - New device ships within 3-5 business days to most places in the U.S.
 - Return the old device within 30 days.
+
+---
+
+## Related Articles
+
+- [OptiSigns Pro Player Advanced Features](https://support.optisigns.com/hc/en-us/articles/35577511423635?ref=related)
+- [ProPlayer](https://support.optisigns.com/hc/en-us/articles/32272215514131?ref=related)
+- [Whitelist OptiSigns IP Addresses & Ports](https://support.optisigns.com/hc/en-us/articles/360047275934?ref=related)
+- [Operational Schedule Troubleshooting](https://support.optisigns.com/hc/en-us/articles/48241081473043?ref=related)
+- [Update OptiSigns player on OptiSigns Pro Player (Gen 2) via script](https://support.optisigns.com/hc/en-us/articles/21449362442003?ref=related)
 
 ### That's all!
 

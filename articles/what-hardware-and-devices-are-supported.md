@@ -4,7 +4,7 @@ article_id: 360021855653
 url: https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported
 section: "FAQ"
 category: "How-to / FAQs"
-updated_at: 2026-01-07T16:05:26Z
+updated_at: 2026-11-25T18:01:03Z
 ---
 
 # What hardware and devices are supported?
@@ -72,3 +72,13 @@ Article URL: https://support.optisigns.com/hc/en-us/articles/360021855653-What-h
 ---
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+- [Where to Buy OptiSigns Devices](https://support.optisigns.com/hc/en-us/articles/32129032857875?ref=related)
+- [OptiStick](https://support.optisigns.com/hc/en-us/articles/27267311796243?ref=related)
+- [Setting Up Your Samsung Smart Signage Platform (SSSP - Commercial Grade)](https://support.optisigns.com/hc/en-us/articles/11116333259283?ref=related)
+- [LG WebOS Signage (Commercial Grade)](https://support.optisigns.com/hc/en-us/articles/4414496579475?ref=related)
+- [Set Up, Add, or Unpair a Screen](https://support.optisigns.com/hc/en-us/articles/360016374813?ref=related)

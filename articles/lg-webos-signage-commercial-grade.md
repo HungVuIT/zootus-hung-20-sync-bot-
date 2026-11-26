@@ -4,7 +4,7 @@ article_id: 4414496579475
 url: https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade
 section: "Use Your Players"
 category: "Setup Screens"
-updated_at: 2026-10-29T16:49:32Z
+updated_at: 2026-11-25T18:04:13Z
 ---
 
 # LG WebOS Signage (Commercial Grade)

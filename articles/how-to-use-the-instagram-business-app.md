@@ -4,7 +4,7 @@ article_id: 360051495193
 url: https://support.optisigns.com/hc/en-us/articles/360051495193-How-to-Use-the-Instagram-Business-App
 section: "Social Media"
 category: "Apps & Integrations"
-updated_at: 2026-10-16T21:53:33Z
+updated_at: 2026-11-25T18:07:24Z
 ---
 
 # How to Use the Instagram Business App
@@ -123,6 +123,15 @@ The **Select Asset** window will open. Search for your Instagram Business app, c
 Back in **Edit Screen**, hit **Save**. Your Instagram posts will now display on your screen.
 
 Your Instagram Business app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+- [How to Set up an Instagram Business/Creator account](https://support.optisigns.com/hc/en-us/articles/360051745633?ref=related)
+- [How to Use the Facebook Page App](https://support.optisigns.com/hc/en-us/articles/360023848334?ref=related)
+- [How to use Instagram Counter App](https://support.optisigns.com/hc/en-us/articles/360047501233?ref=related)
+- [How to Moderate Your Social Media Feeds](https://support.optisigns.com/hc/en-us/articles/4403015887763?ref=related)
 
 ### That’s all!
 

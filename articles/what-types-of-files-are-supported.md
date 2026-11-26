@@ -4,7 +4,7 @@ article_id: 360016342373
 url: https://support.optisigns.com/hc/en-us/articles/360016342373-What-types-of-files-are-supported
 section: "Files"
 category: "Create & Manage Contents"
-updated_at: 2025-09-08T14:04:57Z
+updated_at: 2026-11-25T17:57:53Z
 ---
 
 # What types of files are supported?
@@ -71,3 +71,13 @@ Televisions compatible with OptiSigns are of the following resolutions:
   - 8K UHD (7680 × 4320 progressive scan)
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+- [How to Upload & Manage Your Files/ Assets](https://support.optisigns.com/hc/en-us/articles/360016247974?ref=related)
+- [How to use a PDF with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360024310813?ref=related)
+- [How to Create & Use Playlists](https://support.optisigns.com/hc/en-us/articles/28295104605843?ref=related)
+- [Guide for Creating Content with OptiSigns](https://support.optisigns.com/hc/en-us/articles/29792081890323?ref=related)
+- [Screen Calibration: Fix Content Bleeding off the Screen](https://support.optisigns.com/hc/en-us/articles/360041570153?ref=related)

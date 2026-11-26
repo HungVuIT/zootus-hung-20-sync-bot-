@@ -4,7 +4,7 @@ article_id: 360016174554
 url: https://support.optisigns.com/hc/en-us/articles/360016174554-How-to-Set-Up-and-Manage-OptiSigns-on-Amazon-FireTV-and-Firesticks
 section: "Use Your Players"
 category: "Setup Screens"
-updated_at: 2026-11-04T17:44:59Z
+updated_at: 2026-11-25T18:02:50Z
 ---
 
 # How to Set Up and Manage OptiSigns on Amazon FireTV and Firesticks

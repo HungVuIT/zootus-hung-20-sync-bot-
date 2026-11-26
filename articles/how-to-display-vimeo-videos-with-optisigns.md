@@ -4,7 +4,7 @@ article_id: 360016254994
 url: https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns
 section: "Youtube & Other Video Platforms"
 category: "Apps & Integrations"
-updated_at: 2026-10-13T17:40:14Z
+updated_at: 2026-11-25T18:10:02Z
 ---
 
 # How to Display Vimeo Videos with OptiSigns
@@ -110,6 +110,15 @@ The **Select Asset** window will open. Search for your Vimeo app, click it, then
 Back in **Edit Screen**, hit **Save**. Your Vimeo video will now play on your screen. This same process can be applied to a Streaming app if you're wanting to display your Vimeo video with captions.
 
 Your Vimeo app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+- [How to Use YouTube with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360051014713?ref=related)
+- [How to Use the Twitch App](https://support.optisigns.com/hc/en-us/articles/360046859534?ref=related)
+- [Video Codec or Video Playback Issues and How to Re-encode Videos](https://support.optisigns.com/hc/en-us/articles/360038992973?ref=related)
+- [How to use the Video Stream app](https://support.optisigns.com/hc/en-us/articles/8369526604435?ref=related)
 
 ### That’s all!
 

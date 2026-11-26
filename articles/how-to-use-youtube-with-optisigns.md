@@ -4,7 +4,7 @@ article_id: 360051014713
 url: https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns
 section: "Youtube & Other Video Platforms"
 category: "Apps & Integrations"
-updated_at: 2026-10-30T20:43:53Z
+updated_at: 2026-11-25T18:07:32Z
 ---
 
 # How to Use YouTube with OptiSigns

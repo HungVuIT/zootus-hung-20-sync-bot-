@@ -4,7 +4,7 @@ article_id: 14502723487379
 url: https://support.optisigns.com/hc/en-us/articles/14502723487379-How-to-use-AeriCast-Add-on-for-Wireless-Presentation-and-Video-Conferencing
 section: "Wireless Presentation & Conferences"
 category: "Wireless Presentation & Conferences"
-updated_at: 2025-07-09T16:36:28Z
+updated_at: 2026-11-25T18:02:10Z
 ---
 
 # How to use AeriCast Add-on for Wireless Presentation and Video Conferencing

@@ -4,7 +4,7 @@ article_id: 360056977214
 url: https://support.optisigns.com/hc/en-us/articles/360056977214-How-to-Use-Google-Sheets-with-OptiSigns
 section: "Google Apps"
 category: "Apps & Integrations"
-updated_at: 2026-11-23T21:15:48Z
+updated_at: 2026-11-25T18:06:56Z
 ---
 
 # How to Use Google Sheets with OptiSigns
@@ -226,6 +226,16 @@ Formulas that recalculate on their own, like NOW() or GOOGLEFINANCE(), normally 
 #### My Screen Shows Old Data While It's Offline
 
 If a screen loses its internet connection, it keeps showing the last version of the sheet. It catches up once it's back online.
+
+---
+
+## Related Articles
+
+- [How to add Google Sheets as a DataSource for OptiSync](https://support.optisigns.com/hc/en-us/articles/29838866920211?ref=related)
+- [How to Display Birthday Lists with OptiSync Data Mapping and Google Sheets](https://support.optisigns.com/hc/en-us/articles/29979283289235?ref=related)
+- [How to Use Google Slides with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360050642833?ref=related)
+- [How to Use the Google Drive App](https://support.optisigns.com/hc/en-us/articles/360049518313?ref=related)
+- [How to Use Microsoft Excel Online with OptiSigns](https://support.optisigns.com/hc/en-us/articles/4529298306963?ref=related)
 
 ### That’s all!
 

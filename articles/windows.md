@@ -4,7 +4,7 @@ article_id: 360034379293
 url: https://support.optisigns.com/hc/en-us/articles/360034379293-Windows
 section: "Use Your Players"
 category: "Setup Screens"
-updated_at: 2026-10-28T21:29:33Z
+updated_at: 2026-11-25T17:57:29Z
 ---
 
 # Windows

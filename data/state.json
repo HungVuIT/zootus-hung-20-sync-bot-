@@ -1,402 +1,402 @@
 {
-  "about-the-onhold-devices-folder": {
-    "chunks_est": 3,
-    "content_hash": "77937587b3ebc359382193861b3763ca27d0906d9e99d927cc97505b6d70aab1"
-  },
-  "accepted-payment-methods-and-currencies": {
-    "chunks_est": 4,
-    "content_hash": "0a0ff5659aeac0e35fd09deab75267a13b541273444b10f22e9653989b405651"
-  },
   "adjust-the-gpu-memory-on-the-raspberry-pi": {
     "chunks_est": 1,
     "content_hash": "240c3f910ab25e4122e7563d2e02f0254349aa6271dbe4f99055aefa91cda43f"
   },
-  "advanced-custom-domain-mapping": {
-    "chunks_est": 2,
-    "content_hash": "00bcea49b559adce35c85e9e3226f081713878a96a314ac5f0b3f49608bd3886"
-  },
   "advanced-enforce-sso-login-for-your-account": {
     "chunks_est": 2,
-    "content_hash": "b6a62b6667587cf8e70b1a9f9ef07d82f26f534fb1758c853e9e2c7144a55e89"
-  },
-  "ai-tools-in-optisigns-optibot-ai-designer-optidev-and-the-ai-connector": {
-    "chunks_est": 5,
-    "content_hash": "075d5199800b60335ae4b5800cf36cc0577dd60ff5a8be32354e24cf9cf242c2"
+    "content_hash": "e77a7829652ef04e1f427cbc6e7a8c64afe874c0a2cf57add354bb330852c8b8"
   },
   "amazon-fire-stick-and-security-considerations": {
     "chunks_est": 3,
-    "content_hash": "3ea6ed6513ea2505e058879106279706efb440059e540cf7d41be94200e11f1e"
-  },
-  "amazon-signage-devices-signage-sticks-and-signage-displays": {
-    "chunks_est": 2,
-    "content_hash": "e9d42f96b78dd3369f39bba8c628ca7d2c42e8f10dc88e0dc81cfee7df340d5f"
-  },
-  "amazon-tv-firestick-troubleshooting-guide": {
-    "chunks_est": 2,
-    "content_hash": "9e0d5758fbc02c4a9fef1802c74ecefb017b9416aed60b92cef510f20a16439c"
-  },
-  "android-tv-chromecast": {
-    "chunks_est": 2,
-    "content_hash": "6874fa8d53cba7c61623f578a2c1977d232bcc34ae9913ea305e857d8ca76f2b"
-  },
-  "billing-changing-plans-or-screen-counts": {
-    "chunks_est": 5,
-    "content_hash": "a7ef46391931bdf68bdd8660c89616a4571946ef82247780f0c5919a645b722e"
+    "content_hash": "4991e0927ff8da3cabdd17d4ec97209f0b96420cfe8d8e419abe6bf18f0ac0bc"
   },
   "billing-details-failed-payments-receipts": {
     "chunks_est": 6,
-    "content_hash": "ba5ff62824d31ce21a480e70aa1b8b8e056c9f5f06785ced71e091d669233743"
+    "content_hash": "c6a71e54b3076da5bf5364979bea20beb04c9d4204936ef3cab2a6ae19bc6b50"
   },
-  "billing-for-multiple-locations-sub-accounts-and-team-billing": {
-    "chunks_est": 5,
-    "content_hash": "b4709bba6cb5336945d8c14f01dc2583f73fe8b867d09b6ae46e13eca556d901"
-  },
-  "billing-purchase-orders-invoices-and-tax-exemption": {
-    "chunks_est": 3,
-    "content_hash": "54eaae5b2cafc1b253d4a4c432212e074796ed63abe95df3c812e60cba7bfcbb"
-  },
-  "brightsign-players": {
-    "chunks_est": 3,
-    "content_hash": "632f7673e588cad9ba2d0b89100e22123961b6292e97aaae50742dc296db7eb8"
-  },
-  "build-integrations-using-the-optisigns-enterprise-app": {
-    "chunks_est": 3,
-    "content_hash": "22e64a4f73f11d4dac3efcc751bf2ab198cfc107e6b6769199f32f7496636a91"
-  },
-  "cancel-pause-or-downgrade-your-subscription": {
-    "chunks_est": 5,
-    "content_hash": "36077e0f0cb46d15d0de102c6682a33eee9ab93d477fa5689cb113263f70638f"
-  },
-  "cannot-find-the-optisigns-app-on-your-samsung-smart-tv": {
+  "clean-install-of-optisigns-player-on-windows": {
     "chunks_est": 1,
-    "content_hash": "f4f405f0ce511cc6d86c5c4225a9e9913354d3318bbd8fba26d6e963ab391c2a"
-  },
-  "connect-chatgpt-claude-and-grok-to-optisigns-digital-signage-with-ai-connector": {
-    "chunks_est": 4,
-    "content_hash": "bc4b65fc8f722b658fe7e6e99b20507056f7fe1eb6782bb87d37efaac9229c41"
+    "content_hash": "72a87c58624bdf3520bfce250ca99cb2b0acf4289d9a0d9fcac7c249fde72220"
   },
   "creating-and-using-schedules-with-optisigns": {
     "chunks_est": 4,
-    "content_hash": "cf9671f21363e13b238aa190ba84e9f1f0027451f9f545f79dd7dd5cf4b9d926"
-  },
-  "custom-branding-settings-and-branded-portals": {
-    "chunks_est": 3,
-    "content_hash": "36a9777767f8ee946eda699a1b71be7826e36f9717df6179a6fdcbcef0bcc519"
-  },
-  "data-residency-and-optisigns": {
-    "chunks_est": 1,
-    "content_hash": "75e7d149f47d9d66705299595287b18283e9600bd0fb32dc273bb064eaa626e6"
-  },
-  "displaying-sharepoint-sites-on-optisigns": {
-    "chunks_est": 4,
-    "content_hash": "fee74be08a5a966a0acbc2c9b8ef5a6946cabb81d3a413680e848178a0125fee"
+    "content_hash": "adc0cb5608ee2c8212804e78d5b911adec89838c16195650f69e0be8aa208028"
   },
   "does-optisigns-offer-non-profit-education-discount": {
     "chunks_est": 1,
-    "content_hash": "4d2dad54129cc3f0524019dfef1eb42493e4dbaabf5f395af03dac15871735dd"
+    "content_hash": "4ddacaa682cf6fffabca2d5cbdae726f9c5c8ebd04eaa1e15e59aaae1646342e"
   },
   "edit-screen-what-does-each-option-do": {
+    "chunks_est": 5,
+    "content_hash": "4a60333683813876d7053ad08bd08506d5280a449aa3cb6853ea2f1c89abd97d"
+  },
+  "how-to-best-use-canva-with-optisigns": {
     "chunks_est": 4,
-    "content_hash": "883d2fa148e2996fb915227cde9b5116ef8ffc873d1f1fb0c1efa30de18a18e5"
+    "content_hash": "3e90fb281d5aea5766250d723b4f699c1e59a2af5359647c58a514764439ca63"
   },
-  "engage-plan-faqs": {
+  "how-to-create-and-use-qr-code-call-to-action-app": {
     "chunks_est": 2,
-    "content_hash": "cfced208d0bc36236d51e57e476194be033066a44a06fed1c9300372f146a8e7"
-  },
-  "error-handling": {
-    "chunks_est": 1,
-    "content_hash": "89e94209988144d8a478cf074038cd2b1f5229075dba9c3019070dcbf326604a"
-  },
-  "fireos-tvs-amazon-insigna-toshiba-tcl": {
-    "chunks_est": 2,
-    "content_hash": "4c4446da92aefbb6fc229225cb10cd75ced216ae71bde87d508e217f4e75c910"
-  },
-  "getting-started-with-an-optisigns-free-trial": {
-    "chunks_est": 2,
-    "content_hash": "1360c828393d0a76aa72e4907e0923fbb4772c1e7daa48c3b3f9e4afdbc8a63d"
-  },
-  "how-to-change-account-owners": {
-    "chunks_est": 1,
-    "content_hash": "2336ac76273b98eb24b16c1c027ff8aa2a9f2cbb8452a2ce8c6c511081d012d1"
-  },
-  "how-to-change-engage-kiosk-style-preferences": {
-    "chunks_est": 1,
-    "content_hash": "878db262de500676a051e1ac530049f19bf95e1b81afc1cc0de04d33f1fa7409"
-  },
-  "how-to-contact-optisigns-support": {
-    "chunks_est": 1,
-    "content_hash": "fe33e80c5ead909f46e1c980fed3dc61bc689889ff55633640f574a36eafa09a"
-  },
-  "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232": {
-    "chunks_est": 4,
-    "content_hash": "566e76b1d31b0030d28a0b19f72a60606d6679f57ceb549310a405cdd5fd4574"
+    "content_hash": "b3cb84c24cb4c073e54783cb6951cb34deef0fb1cf748682b2df2da4e9b4bbae"
   },
   "how-to-create-and-use-the-split-screen-app": {
-    "chunks_est": 3,
-    "content_hash": "e4f3a16f005d9fb2cc9a1f5beb37412dbe81fc6bcfe1e53c939d4bb124650202"
+    "chunks_est": 4,
+    "content_hash": "df3f67020526f22fd1137032e84a2f649519323b2c8bc4b4658c8f6d74b4f88d"
+  },
+  "how-to-create-and-use-the-yelp-app": {
+    "chunks_est": 2,
+    "content_hash": "177819e5f6869612f72ebbeb2630c5e5898e280f7ad075f10bc405650a8fb32f"
+  },
+  "how-to-create-and-use-virtual-screen-app": {
+    "chunks_est": 1,
+    "content_hash": "081620a2888a6282518d8f2b96058b8405304e5a9018dde5d96d71fbaafd3161"
+  },
+  "how-to-create-custom-news-feeds-with-optisync": {
+    "chunks_est": 7,
+    "content_hash": "795b6a68ece8bf7e3ba9edc32beb16663bd510c114170ab48994c02437c13ff0"
   },
   "how-to-create-use-playlists": {
     "chunks_est": 5,
-    "content_hash": "d0eb25df7c31f3197a3bed1dad06cb89467c7216f0c6b58aa9f58a2b62810872"
+    "content_hash": "50305a87412731c5780035ff8ef1e7fef403667482bda6367ac20b871a716a7f"
   },
-  "how-to-delete-your-account-from-optisigns": {
+  "how-to-display-a-smartsheet-report-on-optisigns": {
     "chunks_est": 2,
-    "content_hash": "6fce497582bd73661735af36eaa8cbcadb218c122ea929e98f8ecd6bee31b27c"
-  },
-  "how-to-display-content-from-websites-that-require-a-login": {
-    "chunks_est": 3,
-    "content_hash": "2eb1ce4e91b1e18974250011121a35c5d80ff128c30b1200f96360e3c908256e"
-  },
-  "how-to-display-datadog-dashboards-on-optisigns": {
-    "chunks_est": 5,
-    "content_hash": "b01a66bfed1250a961c2f0957547f84cf2333e4130fdae8219cd4cc534a76caa"
+    "content_hash": "ddbb6f8e46444c4473e2fd4d5e6a2ba983f5ebf4fa4f1f297179d67a669d167d"
   },
   "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns": {
     "chunks_est": 8,
-    "content_hash": "7e35bb59091146634d89781c2c17884034927c7b3d05b3834f3510ffd9407c55"
+    "content_hash": "a76d4cf22836afe804099dc8e6d6b425081bb75180edaadcd6cfaba3e4c722b1"
   },
-  "how-to-display-salesforce-dashboards-and-reports-on-optisigns": {
-    "chunks_est": 9,
-    "content_hash": "a267e4f25dea7d18522d69bc50ddf892fbcad98c891e9fe187869376418204b5"
+  "how-to-display-microsoft-teams-chat-on-optisigns": {
+    "chunks_est": 2,
+    "content_hash": "b40f3cc5430f2c4f246b7522ee85c978a5d2bbcb1a1643a4d567ef158f95cc50"
   },
   "how-to-display-vimeo-videos-with-optisigns": {
     "chunks_est": 3,
-    "content_hash": "76a5449120e4557f711c9e8702c50ba7866a3307a9abc31262bbe73def583839"
+    "content_hash": "36d6eabe3638ed056ac8cd6319567953979eb41234779cab97593fd8a74e6742"
   },
-  "how-to-fix-the-scaling-issue-on-optisigns-android-devices": {
-    "chunks_est": 2,
-    "content_hash": "755135ca7862bd28ce4418f1c0fb711bc9cfbf90142ddbbe2a12e42a48665f16"
-  },
-  "how-to-lockdown-ipad-single-app-with-guided-accessibility": {
-    "chunks_est": 1,
-    "content_hash": "68211e527b258a4d2d4190987141edb78ca85c78747f656939b698ea4e647815"
-  },
-  "how-to-moderate-your-social-media-feeds": {
-    "chunks_est": 2,
-    "content_hash": "3e14c629a518c9d8334e9b3f9bcc007a140df0a632139a5c93f588c3e0799d41"
+  "how-to-perform-mass-provisioning-with-optisigns": {
+    "chunks_est": 4,
+    "content_hash": "157def1eb0c5b50fde7e8bd0831a4c2985d13450de3fb49494cdd3d2783e3ae7"
   },
   "how-to-play-licensed-background-music-on-digital-signs-with-optisound": {
     "chunks_est": 4,
-    "content_hash": "b1d440213b42792dca5c02a2d63162c6dae67f75b3f925581040fcee677d8866"
-  },
-  "how-to-set-an-asset-to-live-or-expire-at-specific-time": {
-    "chunks_est": 3,
-    "content_hash": "867a13218fbc8af57178d6da5dbdb373af4d400fe3ccf7d1cbaa2abcf029d0e4"
-  },
-  "how-to-set-up-an-instagram-business-creator-account": {
-    "chunks_est": 2,
-    "content_hash": "f519644db574e71424061a6c4618f67766d9e08679112ef1d4c04477a61bc523"
+    "content_hash": "415499fdc8a18baa9e7b47f50f6e7f61107282317d359c2f8c036bd19c968485"
   },
   "how-to-set-up-and-manage-optisigns-on-amazon-firetv-and-firesticks": {
     "chunks_est": 7,
-    "content_hash": "4840acbd0a16c876d338ef816b187d77ab59d8d4e3d0513b17dc700c0101a240"
+    "content_hash": "2a68e1795b6fe3a11cbf9f09db670feafac4ba389ca22a35f4909eecac23901e"
   },
-  "how-to-set-up-saml-2-0-with-optisigns-and-onelogin": {
-    "chunks_est": 5,
-    "content_hash": "1e988150f12817bf64fe19d3c78e8f827b5ae1017ffd10d0840bf10bf2cb0aa5"
+  "how-to-set-up-saml-2-0-with-optisigns-and-google-workspace": {
+    "chunks_est": 4,
+    "content_hash": "5ea186658184c73c8313a13923916bb4241a268135a5c47ec0e5f12f671bfdd3"
   },
-  "how-to-upload-manage-your-files-assets": {
-    "chunks_est": 2,
-    "content_hash": "d86c0dba474854a944087aa3d0a7ba44e842f8c16cad2bfb0cd866b6187f6496"
+  "how-to-set-up-saml-2-0-with-optisigns-and-ms-entra-id-formerly-azure-ad": {
+    "chunks_est": 7,
+    "content_hash": "a1e98bd64b5ce6e7a03fd98469e4fb1deae5749c83ac3fcd19f27773559d16d3"
+  },
+  "how-to-set-up-saml-2-0-with-optisigns-and-okta": {
+    "chunks_est": 4,
+    "content_hash": "701fede541ecfe293b585f27c92614aad894596cb625884098ff7ce278da34b2"
   },
   "how-to-use-aericast-add-on-for-wireless-presentation-and-video-conferencing": {
     "chunks_est": 3,
-    "content_hash": "7ffd5bca4c790a698a8b1a41cd03f0010d1c2fbe5d37ab7af4857bb55f0ceaba"
+    "content_hash": "003f95b70de0be430b6a0c6a2f143db5cf8da9137aafbf5ceaaf7adeae9f15dc"
+  },
+  "how-to-use-embed-app": {
+    "chunks_est": 1,
+    "content_hash": "4d367ef4cd4fbacad99fce21f66c258a993947db1cedf61e0a3d383829382ec5"
+  },
+  "how-to-use-facebook-live-stream-app": {
+    "chunks_est": 2,
+    "content_hash": "157b768df1ac156bb51aab74e84d35df48b876515fbee82409f5f4e32424b918"
+  },
+  "how-to-use-facebook-recommendations-app": {
+    "chunks_est": 2,
+    "content_hash": "3ed75f1b63ebcf8b13fc874349e1c861f1bb1e148caf8adc5dddb51622b81243"
+  },
+  "how-to-use-facebook-video-app": {
+    "chunks_est": 1,
+    "content_hash": "a226a4c3b1336eb91656c6963cf45c3ce1b1a1be56349265d1ab233f0cf88b95"
+  },
+  "how-to-use-google-calendar-with-optisigns": {
+    "chunks_est": 3,
+    "content_hash": "29d7ce810f88cd7b035b251dd4012790abfa64f922ea3bca0b665ec1602ef0c2"
+  },
+  "how-to-use-google-docs-with-optisigns": {
+    "chunks_est": 2,
+    "content_hash": "0fb9e00f3d121f380bb281917c15c05ef6da375865761bcb0d406c0a47585ca5"
   },
   "how-to-use-google-sheets-with-optisigns": {
     "chunks_est": 7,
-    "content_hash": "02976e86e47eee7ad1ac7c7ef6bbc6c0ae5937ef6c3622e90223a38de801ef71"
+    "content_hash": "6d36e9f91cf79e846a24cb75e6bc4bfd8fdceddd9d48ba84383cf370a184b817"
+  },
+  "how-to-use-google-traffic-app": {
+    "chunks_est": 2,
+    "content_hash": "4cd22e00628655f1c700e344645ab2acbbefaa1bae17a93abc2d876d1a208bc3"
+  },
+  "how-to-use-google-trends-app": {
+    "chunks_est": 2,
+    "content_hash": "e23e3fbe4444c0d11fee821330760aca45751a4836cd0ff05b2bfd2bd27b76cc"
+  },
+  "how-to-use-hdmi-other-video-input-sources-in-with-optisigns": {
+    "chunks_est": 2,
+    "content_hash": "1680fe5cee4cd3d1e608e35f71500cdc84c113fc17c66be8d3fd2a1eaae6b234"
+  },
+  "how-to-use-instagram-counter-app": {
+    "chunks_est": 2,
+    "content_hash": "ffa708fef45edb0938dc8cd0b5d98e650d832c1ecafcfe3ec6b34cc2664044a3"
+  },
+  "how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app": {
+    "chunks_est": 3,
+    "content_hash": "205afbd36660471b5319e991f24e570d0bf834c857296cef4396c471ad8b3164"
+  },
+  "how-to-use-market-index-app": {
+    "chunks_est": 1,
+    "content_hash": "3330e487b045458f702f2229e1f43955da01b1a5d31f64d38ca0a7470f75aa8a"
+  },
+  "how-to-use-microsoft-outlook-calendar-with-optisigns": {
+    "chunks_est": 5,
+    "content_hash": "bdb91469b85260d0fc50d813280a7e95ca1e7ae84f19c75569b87bb8d9163a9e"
   },
   "how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes": {
     "chunks_est": 3,
-    "content_hash": "6abd88440617c0d817d2f1bf078a1a0eca1c8759ec04968883464711e4c30ccf"
+    "content_hash": "7e1f6dec16d8218501d4ca214d5bc448b2a7964958918ad489274f9e30200961"
   },
-  "how-to-use-rtsp-streams-on-optisigns-devices": {
+  "how-to-use-published-google-slides-with-optisigns-old-way": {
+    "chunks_est": 2,
+    "content_hash": "5b228c81aebd457e22257337168eac7a49afea353d2091497ee537cf2a994df1"
+  },
+  "how-to-use-rss-feeds-with-optisigns": {
     "chunks_est": 3,
-    "content_hash": "e627fb32fd0d7fe0cb7f8b7352d14e15215a041891c5cfbbeeabc37132335e7d"
+    "content_hash": "5f966712ed32c682166846c479cafad3503f8cb70e599f7dac0761d9b1d65270"
   },
   "how-to-use-the-advanced-website-app": {
     "chunks_est": 5,
-    "content_hash": "888dceb4385d1b5a83f8fc9188ddbd49fd7375ec3ffaa03b37d6a32099ba4659"
+    "content_hash": "523a2b03af2d5995efb6c385fdecf41443fc84f4a8fce60a2518f5b506d7904b"
   },
-  "how-to-use-the-air-quality-index-app": {
+  "how-to-use-the-asana-app": {
+    "chunks_est": 2,
+    "content_hash": "28f238873d942ac19145d4a7ecad917a43f0e1ea8c922152c5daef6b9bf628db"
+  },
+  "how-to-use-the-cap-alert-app": {
+    "chunks_est": 6,
+    "content_hash": "d63e7968e24ea90f2c36e6352ecacd0f9af0bbf74d33ba770a67f347f040033c"
+  },
+  "how-to-use-the-cbc-news-app": {
+    "chunks_est": 2,
+    "content_hash": "759118283f7ca85fc4efd7ed499e1a85c41ccb3eba6bb9fb70b929155d23368e"
+  },
+  "how-to-use-the-cnn-wall-app": {
+    "chunks_est": 2,
+    "content_hash": "1990bcb203720b674d65c637a5c0016d7769c2c045323a120dfc08100d83b470"
+  },
+  "how-to-use-the-countdown-app": {
     "chunks_est": 3,
-    "content_hash": "fad514e14693cfcee27a95f9124a8aa0dcba7e09981857ab3b043ba556685efb"
+    "content_hash": "69e017717ee8ab9d834b0ed8e432ef932c73e135b4991706be220d608eeb7326"
+  },
+  "how-to-use-the-countup-app": {
+    "chunks_est": 3,
+    "content_hash": "7437af4976d52624bf03c57d70a0581e692bfd086a8e8c420cbf43208758e56f"
+  },
+  "how-to-use-the-crypto-index-crypto-exchange-app": {
+    "chunks_est": 2,
+    "content_hash": "04aaf2e1fb332a4d7de22a9313a8cdee69dc9a9cdae4b872d384ad7a6e373c26"
+  },
+  "how-to-use-the-currency-exchange-app": {
+    "chunks_est": 1,
+    "content_hash": "4f34939b81aaf3da2bd7cdf6a47986e734e95e174a2405f1c1d50c8b79efb776"
+  },
+  "how-to-use-the-data-studio-app": {
+    "chunks_est": 2,
+    "content_hash": "16586d6a1264f6efb7f90acc419d178002e2d1685f6e74c7385ea05b1d2dd6ed"
+  },
+  "how-to-use-the-dropbox-app": {
+    "chunks_est": 3,
+    "content_hash": "91b5ce5a7ce092138875fad38c2a02947137dbbbe64d3fb866eca500ec99ccb3"
+  },
+  "how-to-use-the-emergency-feed-app": {
+    "chunks_est": 3,
+    "content_hash": "c872b39bf836c25e63372880f4283659847aa46db92096fd1fb58b06615a1d64"
   },
   "how-to-use-the-emergency-message-alert-app": {
     "chunks_est": 4,
-    "content_hash": "4d6221b0130707d1afccd675243f5494b6ce1e9d1dbcc02964220bd0787adec6"
+    "content_hash": "174dafa3f9b27845c40f119949bd5d5957908d2f240e869ab9ba69528fc6823a"
   },
-  "how-to-use-the-eventbrite-events-app": {
+  "how-to-use-the-espn-news-app": {
+    "chunks_est": 2,
+    "content_hash": "82abe4b612bb6608ab9a54eaf906edddb1e79f03438b8b6b74cdb4d66c268198"
+  },
+  "how-to-use-the-facebook-counter-app": {
+    "chunks_est": 2,
+    "content_hash": "3d40bdb5cd838a93f8f4c24701e527649f0ce9695a4ba09574ca95daed172f31"
+  },
+  "how-to-use-the-facebook-page-app": {
     "chunks_est": 4,
-    "content_hash": "3bc29c2bf6a968072cff45e5710c715992dbe61397f2088d79728427a1ba51f8"
+    "content_hash": "8c3629132043181edcbf2b438a3f072caf667ff3e1fc764733f2139fd0028d43"
+  },
+  "how-to-use-the-flash-message-app": {
+    "chunks_est": 4,
+    "content_hash": "c52c20973ca76384b0aa9df297b158a39e37b38898540e2df6bdf1161889bbc0"
+  },
+  "how-to-use-the-follow-us-app": {
+    "chunks_est": 2,
+    "content_hash": "61bab6fef72a497c53ab3ea2855db1deef79e09071f4f363f206d348d1b1dd14"
   },
   "how-to-use-the-google-drive-app": {
     "chunks_est": 7,
-    "content_hash": "50247b8998681d7ec792fc1f36f997d59dcf9ade3132332ac2899de050e911b8"
+    "content_hash": "5eaa3a60a6acc926961fbc5810e8f82c1e3fd1797e6bce9b0199eb130412ec9b"
   },
   "how-to-use-the-google-reviews-app": {
     "chunks_est": 5,
-    "content_hash": "4870f82d347763c18a9487f57e831f96c72775722fa31dc4f2f54775aa9948b3"
+    "content_hash": "a22a7e49818bff2aec7ee71d6f6f04f392cb23bcebf9f1ab347a88cd082e6415"
   },
-  "how-to-use-the-instagram-app": {
-    "chunks_est": 3,
-    "content_hash": "6ea3237fa5272bfca74cc99b1190852b50a4725d6f7f076c21146d20f0649ecc"
+  "how-to-use-the-guardian-news-app": {
+    "chunks_est": 2,
+    "content_hash": "29a43fec5a0c90e924b156920aeb119b73ffb294e4290236d2798a3c81d67202"
   },
   "how-to-use-the-instagram-business-app": {
     "chunks_est": 4,
-    "content_hash": "418d79c9c947d3179a93b1bfb1026ea83e1d8e49c2cbd864d37d362c15e856a3"
+    "content_hash": "beb0a02ee750751c86febeb87ad645704c17189523becc8c92359e177967d60e"
   },
-  "how-to-use-the-jira-app": {
+  "how-to-use-the-live-tv-with-ads-app": {
+    "chunks_est": 2,
+    "content_hash": "3d6db38823b4ccab98b785730da6d3ef4212790337f7c84dad3a2f4a48aa6b60"
+  },
+  "how-to-use-the-local-folder-app-in-optisigns": {
     "chunks_est": 4,
-    "content_hash": "7f1f9728a4ca147d0132fb3642ea668d45d0a07816d0171be5afe10361de53d0"
+    "content_hash": "d9abd0bd48acf1f2addcc66723914179670c3405ffe9451cbb76c3eabc7ce679"
+  },
+  "how-to-use-the-mindmeister-app": {
+    "chunks_est": 2,
+    "content_hash": "48d47f22c13f429bd7fc70a1801c0ab2ab10c36f2b81ff38c6d2c5a09c52ce68"
+  },
+  "how-to-use-the-new-york-times-app": {
+    "chunks_est": 2,
+    "content_hash": "16786109a4de20c98373b8b0de2b89294aa79853aa355314b6c15ff991319278"
+  },
+  "how-to-use-the-news-app": {
+    "chunks_est": 2,
+    "content_hash": "7c06853316f43846a5f95153c62860c75257f6c83450b202c7f1b006b0606aba"
+  },
+  "how-to-use-the-on-this-day-app": {
+    "chunks_est": 2,
+    "content_hash": "80fd6a5d242f62cec36601be03992c502cca21593392b7e6bf0c7db90828418d"
+  },
+  "how-to-use-the-onedrive-app": {
+    "chunks_est": 4,
+    "content_hash": "f3ab31810c855bf9072b1913de017912a5a6264d70c81e2a242480c488b142d5"
+  },
+  "how-to-use-the-simple-calendar-app": {
+    "chunks_est": 2,
+    "content_hash": "6c9f2281c9083438b5ea42ae0d82f299ef66bd7645e0f6bed40e8ac55e9b012f"
+  },
+  "how-to-use-the-simple-clock-app": {
+    "chunks_est": 3,
+    "content_hash": "16fca5db71cac1251d1a2c3a2a5094eb52be7b54d000fe6219bb13079f62039e"
+  },
+  "how-to-use-the-social-mix-app": {
+    "chunks_est": 3,
+    "content_hash": "d2a1e3a1d42db299e063b11ecd34dc982b77bead39f150e49b68607bebaf1387"
+  },
+  "how-to-use-the-stock-app": {
+    "chunks_est": 2,
+    "content_hash": "526572f31cd731d9bae2f23e040cda5d9956eb43ad27e3b211400e56e8da1ff1"
+  },
+  "how-to-use-the-taggbox-display-app": {
+    "chunks_est": 2,
+    "content_hash": "6d0b295b438154d1128cbcecbc130ecb375087ccb012174ff0131e713ff70038"
+  },
+  "how-to-use-the-techcrunch-news-app": {
+    "chunks_est": 2,
+    "content_hash": "f0c4b18d399b72439a90542a72a0af63e91be023ddfb05c24bc3dcf84de7dca7"
+  },
+  "how-to-use-the-trello-app": {
+    "chunks_est": 3,
+    "content_hash": "82cf03041f9c216496de232ac6fc98a4491685df5f8bb6363a50bafe63dcec36"
+  },
+  "how-to-use-the-twitch-app": {
+    "chunks_est": 2,
+    "content_hash": "60327a80a2d4d99b03240a93fb76c49d7e3f7a6d15905edda6082756f47df771"
+  },
+  "how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns": {
+    "chunks_est": 2,
+    "content_hash": "c3e6f1e9084db77c05fa1b437c0241baa275bbe3f7bb4192be996e53654a6f3c"
+  },
+  "how-to-use-the-wall-street-journal-app": {
+    "chunks_est": 2,
+    "content_hash": "ec30fe84dab4cedb5f30a0add9864850190c377be46e9450b98277e58beb55a4"
   },
   "how-to-use-the-walls-io-app": {
     "chunks_est": 2,
-    "content_hash": "b6b448cfcddfbf9f5b30e13f25d6b25c2309cce119bbdb77a862f858ad5c79b7"
+    "content_hash": "3893ee147e2859a5dd4d116bd657c89efe5339c4c83ef27d2619d1c5cf970263"
   },
-  "how-to-use-the-web-scripting-app": {
-    "chunks_est": 4,
-    "content_hash": "7a8918cb6af8b1e9c31dd6e458a979b1e30115ee336254033f93fe2c4ba53d8c"
+  "how-to-use-the-website-app-and-display-urls-on-optisigns": {
+    "chunks_est": 2,
+    "content_hash": "851965099ac842f6201cc03e8c6a4c4968aade37b756ba75690b873283039fc1"
   },
-  "how-to-use-weather-apps-in-optisigns": {
-    "chunks_est": 5,
-    "content_hash": "113b87db54fca282f34612ff40b149c4ceec8569d27dbb703ddabbc9f37e399c"
+  "how-to-use-the-zendesk-app": {
+    "chunks_est": 2,
+    "content_hash": "22143354f76addf385c04d7c01db14feab0f3d3c13d5b2e2f068baab8b98774a"
+  },
+  "how-to-use-world-clock-app": {
+    "chunks_est": 1,
+    "content_hash": "7686f976ab12f842711f95c19a23eacc312f4d1468b2982607630c0a65a9ef65"
+  },
+  "how-to-use-youtube-channel-with-optisigns": {
+    "chunks_est": 2,
+    "content_hash": "e12de8c82755f932fa271248d3a45d9b03135b6c6aaedec6fc0c6985af2ce458"
   },
   "how-to-use-youtube-live-schedule-with-optisigns": {
     "chunks_est": 3,
-    "content_hash": "3dc5fd4a426c0a20e0a66767a2d609145521f142efd4d7f0d7900dc2389df824"
+    "content_hash": "b62ee35aa6b1e4d78eae79c43f546f7f991f3d85dec27f2b7463334b9149bebe"
+  },
+  "how-to-use-youtube-live-with-optisigns": {
+    "chunks_est": 1,
+    "content_hash": "227f3662416d9d3b44407a4e33bbf883ccd4624f85edd8c43257dc6ec667de97"
   },
   "how-to-use-youtube-with-optisigns": {
     "chunks_est": 4,
-    "content_hash": "603017bb0c0513475e4148fb9923f8741f731e3a0f75e4600295be863d528952"
-  },
-  "inbound-webhook-datasources-in-designer": {
-    "chunks_est": 7,
-    "content_hash": "d84d78186e83acd8f16354916e6fdbe8a3aaa22a63b6ba1f0378bdebf7fe62ef"
+    "content_hash": "b2deec9eccc9f0e83aa9e42c5a91a34acfd5c354c6f487667244ee8812236e1f"
   },
   "install-optisigns-as-channel-or-app-on-roku": {
     "chunks_est": 3,
-    "content_hash": "ad33d0a20fa0537079cca2d2981924669401eda6c630d8664d45dbd5698f0d83"
-  },
-  "installing-optisigns-on-samsung-tizen-smart-tvs": {
-    "chunks_est": 2,
-    "content_hash": "0ce03ea33dfc890e982b032d2d18126af8258f785490b4d89e8b223cd9234bef"
-  },
-  "kiosk10": {
-    "chunks_est": 4,
-    "content_hash": "f93c78a96614af1cfe200e368f8866c07297f45538e1952dc1dec606c3bfd2ad"
+    "content_hash": "d82a2307617160d8af67cf84164f528ab848741b86a3c0d63468de4be17b25ea"
   },
   "lg-webos-signage-commercial-grade": {
     "chunks_est": 5,
-    "content_hash": "a4a899a60fecce10618223ff87d7a1b0a986ab3ed8e1c6389c72043f9d3eb23c"
-  },
-  "linux": {
-    "chunks_est": 3,
-    "content_hash": "2e86faab59115fbe11a07be9a745c213fbb4b1541ae67c71f9dc4e3f2b7c2c97"
-  },
-  "list-of-supported-cities-for-weather-wall-city-themes": {
-    "chunks_est": 1,
-    "content_hash": "0d43883ef8d260c01b2957d9145d9d9b90d1aded2d8f940661bdb4d0b5c8088d"
-  },
-  "macos": {
-    "chunks_est": 2,
-    "content_hash": "47860f7f09701fa1c7c980a0edc98382da152d7c6268e8c2b01f8f57d94437f1"
+    "content_hash": "f9bc1730b14992274eb8a29d257f937e430144ac31cdaa6fb637612b75018007"
   },
   "making-a-video-wall-with-optisigns-video-wall-app": {
     "chunks_est": 7,
-    "content_hash": "b382bfe3cceb182e15dfbf34d23fb256301ce9c35def15670b929071d292cdce"
-  },
-  "operational-schedule-troubleshooting": {
-    "chunks_est": 4,
-    "content_hash": "d7faaac1b17e2ee787a7daf3b1c8dc3e0ff58d3805bcf67e5cd4113317342608"
+    "content_hash": "d5ec3f4645b8b29b18489822c6e9f2f9828d62fe352e13dd1ab9dd92b7d160de"
   },
   "optidev-add-on-free-trial-and-pricing": {
     "chunks_est": 5,
-    "content_hash": "4d17bd27b9e910e04b5c95bc4c0f4a67cde1d6f46c3b69d760c83979192e711b"
+    "content_hash": "fa48c30ce221ca816e140b04082022f39daf06d11f610a31b7b66731e8fdcf0d"
   },
   "optisigns-getting-started-guide": {
     "chunks_est": 2,
-    "content_hash": "48d374f7da3566ac53db0ffe7e8efe8720130c1b016b5d01ddaebe15ad7dffb5"
+    "content_hash": "c7645109f5e268cd633b9bfd532af896874c56d277a8407823ac9ee09c876a95"
   },
   "optisigns-pro-promax-player-troubleshooting-guide": {
     "chunks_est": 5,
-    "content_hash": "4a01a19fedffb6a24c1121c4f0bb85c8cc2e6f3812ff450d4d6990655c9bf87c"
+    "content_hash": "b0d0881c10659f3bc6bdd0b3bb6f5ab43b56eb2a2867125c5fcfd77146186c83"
   },
-  "optistick": {
+  "saml-integration-strategies-best-practices": {
     "chunks_est": 3,
-    "content_hash": "6b077b438af313793b1880deecfdefdd35db17102ceca9fee13e9dd6267e369f"
-  },
-  "present-or-share-your-screen-with-optisigns-and-the-aericast-add-on": {
-    "chunks_est": 2,
-    "content_hash": "e3caafcb03465fd1a054ea961167d806989a5dd00e4c819f61ec31ab7d68582d"
-  },
-  "preventing-the-optisigns-app-from-turning-on-your-screen": {
-    "chunks_est": 2,
-    "content_hash": "58243243f769713f9ced646aca9a11a3725674bdaa59c65c0f36afc153800c61"
-  },
-  "raspberry-pi": {
-    "chunks_est": 4,
-    "content_hash": "3a5ff9f460d4cbd7488ea4dda3ff03f832a5f32140d81e0301bebf6e6b9f34cc"
-  },
-  "remotely-control-and-command-optisigns-devices": {
-    "chunks_est": 5,
-    "content_hash": "457a5ee879f10423d75fc8e0d8c50409207adb2c4428c10b4e723172e3a13608"
-  },
-  "samsung-tizen-tvs-troubleshooting-guide": {
-    "chunks_est": 2,
-    "content_hash": "972ce9c3e490de8dd04b9fdd0ba675671bb838bc67e74f23a1b2ad80eed2ef87"
-  },
-  "screen-calibration-fix-content-bleeding-off-the-screen": {
-    "chunks_est": 2,
-    "content_hash": "35102bfe61c30876f794179abafd678eb62447c7d3d2bf324cd5dd4beeba27f6"
-  },
-  "set-up-add-or-unpair-a-screen": {
-    "chunks_est": 3,
-    "content_hash": "e7cb4281120e2e3936cec1b6b788873c057f08dd4ef6f455da5322815e9228ec"
-  },
-  "setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade": {
-    "chunks_est": 5,
-    "content_hash": "c7fdce1f2990bd7a69e2225c4376373f5634d172222fdbafd1ba424f19e6286b"
-  },
-  "show-offline-indicator-feature": {
-    "chunks_est": 2,
-    "content_hash": "a189ce33ca0d0844df1f7012ccc1817bef66a1d815d6c5e3fcbd8b5f2f77c862"
-  },
-  "the-new-designer-complete-feature-guide": {
-    "chunks_est": 11,
-    "content_hash": "8b7a77e8a3d483d49e834f2434cd8eed3f89a2e2501b26ebbf20a65dfc417b11"
-  },
-  "video-codec-or-video-playback-issues-and-how-to-re-encode-videos": {
-    "chunks_est": 2,
-    "content_hash": "b9a304e31059580ea0353d520dfb78030a44a970895cd055342246db3d890e8f"
-  },
-  "what-do-i-get-with-an-optisigns-free-plan": {
-    "chunks_est": 4,
-    "content_hash": "61d9095d03f62b881f243e2b378f66615682cab0c9c588383ac7d74c8c3025ed"
+    "content_hash": "c9234ec87f00152c1d27e37da50743e6fe845dd66db0cea0904ea59c21ee4a08"
   },
   "what-hardware-and-devices-are-supported": {
     "chunks_est": 1,
-    "content_hash": "01dab8d8fa1937f90bd267e295f9c691dfa2cde9138057f945db5ffccf6caf09"
+    "content_hash": "8df8142d94f4172b42f375020eca140d447901d076ec6b7e1a291143fff3ea72"
   },
   "what-types-of-files-are-supported": {
     "chunks_est": 1,
-    "content_hash": "6005c455c9c75959ae00757679eeca2a537eac313288a08d9e4784a40729e4c9"
-  },
-  "where-to-buy-optisigns-devices": {
-    "chunks_est": 4,
-    "content_hash": "2ffe661bd70ca6866fe7035844e3b5d8d3c0a8fafeabb7735265cb2945cc47c7"
-  },
-  "whitelist-optisigns-ip-addresses-ports": {
-    "chunks_est": 3,
-    "content_hash": "e26a08abab7acaaf28043a0dbb3b68f6fa570c20c5536b3aad109c2ed467d509"
+    "content_hash": "0668fc08b1ba799d40b5c5e99bac4a70b459425dabb4d54bb2779a21f4028e8b"
   },
   "windows": {
     "chunks_est": 2,
-    "content_hash": "fd4f6e1d64b054c3dc35ecb6fdb8df651af746605372c61370c26279f49211dd"
-  },
-  "working-with-teams-and-security-levels": {
-    "chunks_est": 2,
-    "content_hash": "ad96e1b8018d92cdbb4bfbefd0a1d3db8aeb74247874106703699d86a0607837"
+    "content_hash": "e078f50da4ca281a8b820447070748ad3527766deb2f633f9a7b1c2a72fbc279"
   }
 }

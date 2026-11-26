@@ -4,7 +4,7 @@ article_id: 360049518313
 url: https://support.optisigns.com/hc/en-us/articles/360049518313-How-to-Use-the-Google-Drive-App
 section: "Google Apps"
 category: "Apps & Integrations"
-updated_at: 2026-11-23T23:37:46Z
+updated_at: 2026-11-25T18:08:09Z
 ---
 
 # How to Use the Google Drive App
