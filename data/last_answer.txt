@@ -1,16 +1,14 @@
-12:35:33 INFO    Using existing File Search store fileSearchStores/optibotkb-f1z0zlwv85nu (optibot-kb)
-12:35:33 WARNING Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
-12:35:34 WARNING generate_content failed (503); retry 1/3 in 5s
-12:35:52 WARNING generate_content failed (503); retry 2/3 in 10s
+12:19:08 INFO    Using existing File Search store fileSearchStores/optibotkb-f1z0zlwv85nu (optibot-kb)
+12:19:08 WARNING Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
 Q: How do I add a YouTube video?
 
 To add a YouTube video to OptiSigns, follow these steps:
 
-* Go to **Files/Assets** in the OptiSigns portal and click **Apps**.
-* Search for **YouTube** and select the **YouTube** app.
-* Paste the link to your video (regular, share, or YouTube Shorts link) into the **URL** field and give it a **Name**.
-* (Optional) Adjust **Display Options** (mute, captions) or **Playback Options** (set custom start/end times), then click **Save**.
-* Assign the saved asset to a **Screen**, **Playlist**, **Schedule**, or **Split Screen** zone.
+1. Log in to the OptiSigns portal, navigate to **Files/Assets**, and click **Apps**.
+2. Search for and select the **YouTube** app.
+3. Paste the YouTube video or Short link into the **URL** field.
+4. (Optional) Adjust settings such as **Mute**, **Caption**, or specify **Start At** and **End At** playback times.
+5. Click **Save** to save the video asset to your library.
 
 Article URL:
 https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns
